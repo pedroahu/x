@@ -1,0 +1,2206 @@
+DATA,DÉBITO/CRÉDITO $,SALDO,HISTÓRICO DE FLUXO,CONTAS-AGRUPAMENTO
+1/2/2020,8,"145543,59",Ajuste de credito ref. Aplicação automatica,BANCO
+1/2/2020,-7593,"137950,59",Pgto Condomínio Ed Metropolitan,FIXA
+1/2/2020,-4500,"133450,59",Pgto Paula Iglesias, PGTO FUNC.
+1/2/2020,-758,"132692,59",Reembolso Fabio Amaral - Microsoft,REEMBOLSO
+1/2/2020,-9834,"122858,59",Pgto Cartão de Crédito Visa,TARIFAS ADICIONAIS
+1/3/2020,5,"122863,59",Ajuste de credito ref. Aplicação automatica,BANCO
+1/3/2020,-338,"122525,59",Pgto Host Fiber - Link BKP,PGTO FUNC.
+1/3/2020,-1352,"121173,59",Pgto Host Fiber - Link Principal,PGTO FUNC.
+1/6/2020,10,"121183,59",Ajuste de credito ref. Aplicação automatica,BANCO
+1/6/2020,758,"121941,59",Devolução Reembolso Fabio Amaral - Microsoft,REEMBOLSO
+1/6/2020,15000,"136941,59",Credito TOLLOG - Taxa Gestão Dez/19,BANCO
+1/6/2020,313325,"450266,59",Credito Symphony - Taxa Gestão Dez/19,BANCO
+1/6/2020,-30086,"420180,59",Pgto JHSF Aluguel,PGTO FUNC.
+1/6/2020,-472,"419708,59",Pgto Signallink,PGTO FUNC.
+1/6/2020,-1065,"418643,59",Pgto Everton Mensageiro,PGTO FUNC.
+1/6/2020,-2000,"416643,59",Pgto Contabilidade,PGTO FUNC.
+1/6/2020,-3599,"413044,59",Pgto C de Campos Trans e Serv Ter,PGTO FUNC.
+1/6/2020,-17850,"395194,59",Pgto QCP - Qualitas Capital Partners,PGTO FUNC.
+1/6/2020,-2447,"392747,59",Pgto Flávio Rietmann,PGTO FUNC.
+1/6/2020,-30000,"362747,59",Pgto Rodrigo Moratelli,PGTO FUNC.
+1/6/2020,-15000,"347747,59",Pgto Guilherme Marques,PGTO FUNC.
+1/6/2020,-11000,"336747,59",Pgto Danilo Tamburus,PGTO FUNC.
+1/6/2020,-10000,"326747,59",Pgto Sergio Rossi,PGTO FUNC.
+1/6/2020,-9340,"317407,59",Pgto Fabio Amaral,PGTO FUNC.
+1/6/2020,-8000,"309407,59",Pgto Isadora Ferreira,PGTO FUNC.
+1/6/2020,-5000,"304407,59",Pgto Leonardo de Luca,PGTO FUNC.
+1/6/2020,-5000,"299407,59",Pgto Fernando Daier,PGTO FUNC.
+1/6/2020,-9240,"290167,59",Pgto Lidiberto,PGTO FUNC.
+1/6/2020,-17,"290150,59",Anuidade Cartão de Crédito,BANCO
+1/7/2020,7,"290157,59",Ajuste de credito ref. Aplicação automatica,BANCO
+1/7/2020,1117471,"1407628,59",Credito Symphony - Taxa Performance Dez/19,BANCO
+1/7/2020,85000,"1492628,59",Credito Monte Carlo - Taxa Gestão Nov/19,BANCO
+1/7/2020,-677,"1491951,59",Pgto FGTS,TARIFAS ADICIONAIS
+1/7/2020,-210,"1491741,59",Pgto Prizemed,TARIFAS ADICIONAIS
+1/7/2020,-2940,"1488801,59",Pgto MSX Consult Nf 808,TARIFAS ADICIONAIS
+1/7/2020,-2738,"1486063,59",Pgto MSX Consult Nf 809,TARIFAS ADICIONAIS
+1/7/2020,-10,"1486053,59",Tarifa Bancária DOC/TED,TARIFAS ADICIONAIS
+1/8/2020,8,"1486061,59",Ajuste de credito ref. Aplicação automatica,BANCO
+1/8/2020,12454,"1498515,59",Credito Veritas TOP - Taxa Performance 2° Semestre 2019,BANCO
+1/8/2020,4122,"1502637,59",Credito Veritas TOP - Taxa Gestão Dez/19,BANCO
+1/8/2020,168,"1502805,59",Credito Veritas TOP - Taxa Performance Dez/19,BANCO
+1/8/2020,16656,"1519461,59",Credito Multiplica - Taxa Gestão Dez/19,BANCO
+1/8/2020,26602,"1546063,59",Credito Veritas Apogeu I FIDC - Taxa Gestão - Dez/19,BANCO
+1/8/2020,27741,"1573804,59",Credito Veritas Apogeu FIM - Taxa Gestão Dez/19,BANCO
+1/8/2020,141074,"1714878,59",Credito Veritas Apogeu FIM - Taxa Performance 2° Sem/19,BANCO
+1/8/2020,302383,"2017261,59",Credito NINKA - Taxa Gestão Dez/19,BANCO
+1/8/2020,1922389,"3939650,59",Credito NINKA - Taxa Performance 2° Sem/19,BANCO
+1/8/2020,185184,"4124834,59",Credito MERAK - Taxa Gestão Dez/19,BANCO
+1/8/2020,800792,"4925626,59",Credito MERAK - Taxa Performance 2° Sem/19,BANCO
+1/8/2020,466085,"5391711,59",Credito Marte - Taxa Gestão Dez/19,BANCO
+1/8/2020,148309,"5540020,59",Credito CJP - Taxa Gestão - Dez/19,BANCO
+1/8/2020,25000,"5565020,59",Credito Singapore - Taxa Gestão Dez/19,BANCO
+1/8/2020,85000,"5650020,59",Credito TMJ IMA-B - Taxa Gestão Dez/19,BANCO
+1/8/2020,-80151,"5569869,59",Antecipação de Dividendos - Guilherme,REEMBOLSO
+1/8/2020,-15666,"5554203,59",Antecipação de Dividendos - Danilo,REEMBOLSO
+1/8/2020,-20,"5554183,59",Tarifa Bancária DOC/TED,BANCO
+1/8/2020,-24,"5554159,59",Tarifa Bancária Funcs Net Empresa,BANCO
+1/9/2020,10,"5554169,59",Ajuste de credito ref. Aplicação automatica,BANCO
+1/9/2020,-903200,"4650969,59",Antecipação de Dividendos - Qualitas,BANCO
+1/9/2020,-500000,"4150969,59",Antecipação de Dividendos - Rodrigo,BANCO
+1/9/2020,-398,"4150571,59",Pgto 99 Tecnologia,BANCO
+1/9/2020,-7596,"4142975,59",Pgto Quick Soft,BANCO
+1/9/2020,-10,"4142965,59",Tarifa Bancáris DOC/TED,BANCO
+1/10/2020,10,"4142975,59",Ajuste de credito ref. Aplicação automatica,BANCO
+1/10/2020,-500000,"3642975,59",Aplicação Veritas TOP,BANCO
+1/10/2020,-257,"3642718,59",Pgto Cartório,BANCO
+1/10/2020,-2180,"3640538,59",Pgto Prajna,BANCO
+1/10/2020,-39012,"3601526,59",Pgto ISS,BANCO
+1/10/2020,-1269,"3600257,59",Taxa CVM - VCM Gestão 1° Trim,BANCO
+1/10/2020,-634,"3599623,59",Taxa CVM - Rodrigo 1° Trim,BANCO
+1/10/2020,-10,"3599613,59",Tarifa Bancáris DOC/TED,BANCO
+1/10/2020,-261,"3599352,59",Pgto Seguro Estagiário - Leandro Costa,BANCO
+1/10/2020,-261,"3599091,59",Pgto Seguro Estagiário - Andre Chicago,BANCO
+1/10/2020,-1385,"3597706,59",Pgto Cartão de Crédito Elo,BANCO
+1/10/2020,-8307,"3589399,59",Pgto Cartão Credito Master,BANCO
+1/13/2020,66,"3589465,59",Ajuste de credito ref. Aplicação automatica,BANCO
+1/13/2020,-575,"3588890,59",Pgto Imigrantes Bebidas,BANCO
+1/13/2020,-500,"3588390,59",Pgto Criação e Imagem,BANCO
+1/13/2020,-88000,"3500390,59",Pgto Catania Consultoria,BANCO
+1/13/2020,-53963,"3446427,59",Pgto Barela Berbel e Mitne NF1411,BANCO
+1/13/2020,-151,"3446276,59",Reembolso Contabilidade Taxa Jucesp,BANCO
+1/13/2020,-31,"3446245,59",Tarifa Bancária DOC/TED,BANCO
+1/14/2020,81,"3446326,59",Ajuste de credito ref. Aplicação automatica,BANCO
+1/14/2020,-1877000,"1569326,59","Pgto Guilherme Bussadori NF 106 R$2.000.000,00",BANCO
+1/14/2020,-121450,"1447876,59",Pgto Montjoie Acessoria NF 068,BANCO
+1/14/2020,-1000,"1446876,59",Pgto Elaboração Alteração Contratual - Contabilidade,BANCO
+1/14/2020,-6500,"1440376,59",Pgto Enrico Mollica NF 054 7/10,BANCO
+1/14/2020,-31,"1440345,59",Tarifa Bancária DOC/TED,BANCO
+1/15/2020,43,"1440388,59",Ajuste de credito ref. Aplicação automatica,BANCO
+1/15/2020,1435,"1441823,59",Credito CVP Consultoria - Nov/19,BANCO
+1/15/2020,1298,"1443121,59",Credito CVP Consultoria - Dez/19,BANCO
+1/15/2020,-255,"1442866,59",Pgto Estacionamento Parkimetro,BANCO
+1/15/2020,-334,"1442532,59",Pgto Conect -Serasa,BANCO
+1/15/2020,-9568,"1432964,59",Pgto Scansource - Licença Azurecsp,BANCO
+1/15/2020,-507,"1432457,59",Pgto Scansource,BANCO
+1/15/2020,-476,"1431981,59",Pgto CRDC,BANCO
+1/15/2020,-40000,"1391981,59",Antecipação de Dividendos - Qualitas,BANCO
+1/15/2020,-40000,"1351981,59",Antecipação de Dividendos - Rodrigo,BANCO
+1/15/2020,-10,"1351971,59",Tarifa Bancária DOC/TED,BANCO
+1/15/2020,-79,"1351892,59",Tarifa Bancária Max Empresarial,BANCO
+1/16/2020,51,"1351943,59",Ajuste de credito ref. Aplicação automatica,BANCO
+1/16/2020,-2475,"1349468,59",Pgto Nestle NF 2040761,BANCO
+1/17/2020,71,"1349539,59",Ajuste de credito ref. Aplicação automatica,BANCO
+1/17/2020,-14807,"1334732,59",Pgto Lote 45 NF 4506,BANCO
+1/17/2020,-2000,"1332732,59",Pgto Lote 45 NF 4507,BANCO
+1/17/2020,-826,"1331906,59",VR Estagiários 10 dias Jan,BANCO
+1/20/2020,147,"1332053,59",Ajuste de credito ref. Aplicação automatica,BANCO
+1/20/2020,85066,"1417119,59",Credito Postalis Taxa Performance DEZ/19,BANCO
+1/20/2020,51473,"1468592,59",Credito Postalis Taxa Cobrança DEZ/19,BANCO
+1/20/2020,-9701,"1458891,59",Pgto Parcela 5/36 Financiamento,PGTO FUNC.
+1/20/2020,-3157,"1455734,59",Pgto Mobiliário - Dual Forma 1/2,PGTO FUNC.
+1/20/2020,-2582,"1453152,59",Pgto GPS 13 ° Salário,PGTO FUNC.
+1/20/2020,-511,"1452641,59",Pgto DARF 0561 IRRF/13° Salário,PGTO FUNC.
+1/20/2020,-23,"1452618,59",Pgto DARF 5952 CRDC NF 15003,PGTO FUNC.
+1/20/2019,-585,"1452033,59",Pgto DARF 0561 IRRF/Folha,PGTO FUNC.
+1/20/2020,-386,"1451647,59",Pgto GPS C de Campos Trans e Serv Ter,PGTO FUNC.
+1/20/2020,-47,"1451600,59",Pgto DARF 1708 MSX Consult NF 778,PGTO FUNC.
+1/20/2020,-145,"1451455,59",Pgto DARF 5952 MSX Consult NF 778,PGTO FUNC.
+1/20/2020,-45,"1451410,59",Pgto DARF 1708 MSX Consult NF 779,PGTO FUNC.
+1/20/2020,-141,"1451269,59",Pgto DARF 5952 MSX Consult NF 779,PGTO FUNC.
+1/20/2020,-42,"1451227,59",Pgto DARF 1708 MSX Consult NF 780,PGTO FUNC.
+1/20/2020,-131,"1451096,59",Pgto DARF 5952 MSX Consult NF 780,PGTO FUNC.
+1/20/2020,-62,"1451034,59",Pgto DARF 5952 Cepeda Grec NF 28844,PGTO FUNC.
+1/20/2020,-20,"1451014,59",Pgto DARF 1708 Cepeda Grec NF 28844,PGTO FUNC.
+1/20/2020,-476,"1450538,59",Pgto DARF 5952 Cepeda Grec NF 29032,PGTO FUNC.
+1/20/2020,-153,"1450385,59",Pgto DARF 1708 Cepeda Grec NF 29032,PGTO FUNC.
+1/20/2020,-27088,"1423297,59",Pgto DARF 5952 Guilherme B. NF 102,PGTO FUNC.
+1/20/2020,-8738,"1414559,59",Pgto DARF 1708 Guilherme B. NF 102,PGTO FUNC.
+1/20/2020,-348,"1414211,59",Pgto DARF 5952 Balera Berbel NF 1559,PGTO FUNC.
+1/20/2020,-112,"1414099,59",Pgto DARF 1708 Balera Berbel NF 1559,PGTO FUNC.
+1/20/2020,-109,"1413990,59",Pgto Whirlpool,PGTO FUNC.
+1/20/2020,-360,"1413630,59",Pgto Net,PGTO FUNC.
+1/20/2020,-1496,"1412134,59",Pgto Asplan,PGTO FUNC.
+1/20/2020,-7277,"1404857,59",Pgto GPS,PGTO FUNC.
+1/20/2020,-27129,"1377728,59",Pgto Anbima,PGTO FUNC.
+1/20/2020,-100,"1377628,59",Pgto Voicecorp - linha contingencial,PGTO FUNC.
+1/20/2020,-10,"1377618,59",Tarifa Bancária DOC/TED,PGTO FUNC.
+1/21/2020,96,"1377714,59",Ajuste de credito ref. Aplicação automatica,PGTO FUNC.
+1/21/2020,-317,"1377397,59",Pgto Stamples do Brasil - folha Sulfite,PGTO FUNC.
+1/21/2020,-432,"1376965,59",Pgto Alelo Mário Carvalho - 10 dias,PGTO FUNC.
+1/21/2020,-750000,"626965,59",Aplicação Veritas TOP,PGTO FUNC.
+1/21/2020,-10,"626955,59",Tarifa Bancária DOC/TED,PGTO FUNC.
+1/22/2020,50,"627005,59",Ajuste de credito ref. Aplicação automatica,PGTO FUNC.
+1/22/2020,-2699,"624306,59",Pgto Energia,PGTO FUNC.
+1/22/2020,-2656,"621650,59",Pgto MSX Consult Nf 814,PGTO FUNC.
+1/22/2020,-10,"621640,59",Tarifa Bancária DOC/TED,PGTO FUNC.
+1/22/2020,-252,"621388,59",Pgto TOK-STOK - COPOS,PGTO FUNC.
+1/22/2020,-200,"621188,59",Pgto Creditos Registradores.org,PGTO FUNC.
+1/23/2020,62,"621250,59",Ajuste de credito ref. Aplicação automatica,PGTO FUNC.
+1/23/2020,-700,"620550,59",Pgto M M Primo nf 323752,PGTO FUNC.
+1/23/2020,-2236,"618314,59",Pgto Agencia Estado - Broadcast,PGTO FUNC.
+1/24/2020,60,"618374,59",Ajuste de credito ref. Aplicação automatica,PGTO FUNC.
+1/24/2020,7143,"625517,59",Credito TMJ RF RV - pro rata dez/19,PGTO FUNC.
+1/24/2020,-594,"624923,59",Pgto Assist Locação,PGTO FUNC.
+1/24/2020,-1018,"623905,59",Pgto Assist Impressões,PGTO FUNC.
+1/24/2020,-11647,"612258,59",Pgto DARF 8109 PIS Dez/19,PGTO FUNC.
+1/24/2020,-53758,"558500,59",Pgto DARF 2172 Cofins Dez/19,PGTO FUNC.
+1/27/2020,115,"558615,59",Ajuste de credito ref. Aplicação automatica,PGTO FUNC.
+1/27/2020,-7200,"551415,59",Pgto E-BEE NF 197,PGTO FUNC.
+1/27/2020,-10800,"540615,59",Pgto Alelo VR- fev/19,PGTO FUNC.
+1/27/2020,-712,"539903,59",Pgto SP Trans - VT,PGTO FUNC.
+1/27/2020,-1000,"538903,59",Pgto Eduardo Soares - Paralegal VCM,PGTO FUNC.
+1/27/2020,-20,"538883,59",Tarifa Bancária DOC/TED,PGTO FUNC.
+1/28/2020,66,"538949,59",Ajuste de credito ref. Aplicação automatica,PGTO FUNC.
+1/28/2020,-7422,"531527,59",Pgto DELL - Monitores e Notebook,PGTO FUNC.
+1/29/2020,78,"531605,59",Ajuste de credito ref. Aplicação automatica,PGTO FUNC.
+1/29/2020,-30000,"501605,59",Antecipação de Dividendos - Rodrigo,PGTO FUNC.
+1/29/2020,-30000,"471605,59",Antecipação de Dividendos - Qualitas,PGTO FUNC.
+1/29/2020,-10,"471595,59",Tarifa Bancária DOC/TED,PGTO FUNC.
+1/30/2020,65,"471660,59",Ajuste de credito ref. Aplicação automatica,PGTO FUNC.
+1/30/2020,-3800,"467860,59",Pgto Sonchim Almeida Scarpa e Bragagnolo,PGTO FUNC.
+1/30/2020,-3877,"463983,59",Pgto Omega Assessoria NF 11845,PGTO FUNC.
+1/30/2020,-3125,"460858,59",Pgto Marella - Viagem Gui e Fernando para SDU,PGTO FUNC.
+1/30/2020,-10,"460848,59",Tarifa Bancária DOC/TED,PGTO FUNC.
+1/30/2020,-160,"460688,59",Pgto Leitora Certificado digital,PGTO FUNC.
+1/31/2020,68,"460756,59",Ajuste de credito ref. Aplicação automatica,PGTO FUNC.
+1/31/2020,-141157,"319599,59",Pgto IRPJ 04 TRIM 1/3,PGTO FUNC.
+1/31/2020,-52214,"267385,59",Pgto CSLL 04 TRIM 1/3,PGTO FUNC.
+2/3/2020,81,"267443,65",Ajuste de credito ref. Aplicação automatica,PGTO FUNC.
+2/3/2020,-7623,"259820,65",Pgto Condomínio Ed Metropolitan,PGTO FUNC.
+2/3/2020,-27850,"231970,65",Pgto QCP - Qualitas Capital Partners,PGTO FUNC.
+2/3/2020,-2447,"229523,65",Pgto Flávio Rietmann,PGTO FUNC.
+2/3/2020,-40000,"189523,65",Pgto Rodrigo Moratelli,PGTO FUNC.
+2/3/2020,-17000,"172523,65",Pgto Guilherme Marques,PGTO FUNC.
+2/3/2020,-13200,"159323,65",Pgto Danilo Tamburus,PGTO FUNC.
+2/3/2020,-10000,"149323,65",Pgto Sergio Rossi,PGTO FUNC.
+2/3/2020,-9340,"139983,65",Pgto Fabio Amaral,PGTO FUNC.
+2/3/2020,-8000,"131983,65",Pgto Isadora Ferreira,PGTO FUNC.
+2/3/2020,-5000,"126983,65",Pgto Leonardo de Luca,PGTO FUNC.
+2/3/2020,-5000,"121983,65",Pgto Fernando Daier,PGTO FUNC.
+2/3/2020,-13200,"108783,65",Pgto Lidiberto,PGTO FUNC.
+2/3/2020,-4500,"104283,65",Pgto Paula Iglesias,PGTO FUNC.
+2/3/2020,-8360,"95923,65",Pgto Danilo Miura,PGTO FUNC.
+2/3/2020,-4840,"91083,65",Pgto Mario,PGTO FUNC.
+2/3/2020,-1403,"89680,65",Pgto Leandro - Estagiário,PGTO FUNC.
+2/3/2020,-1350,"88330,65",Pgto Andre - Estagiário,PGTO FUNC.
+2/3/2020,-338,"87992,65",Pgto Host Fiber - Link BKP,PGTO FUNC.
+2/3/2020,-1352,"86640,65",Pgto Host Fiber - Link Principal,PGTO FUNC.
+2/3/2020,-1400,"85240,65",Pgto Manutenção Fernando Hadad,PGTO FUNC.
+2/3/2020,-20,"85220,65",Tarifa Bancária DOC/TED,PGTO FUNC.
+2/3/2020,-34,"85186,65",Pgto Cartão de Crédito Visa,PGTO FUNC.
+2/4/2020,16,"85202,65",Ajuste de credito ref. Aplicação automatica,PGTO FUNC.
+2/4/2020,-915,"84287,65",Pgto Everton Mensageiro NF 058,PGTO FUNC.
+2/4/2020,-472,"83815,65",Pgto Signallink,PGTO FUNC.
+2/4/2020,-2000,"81815,65",Pgto Contabilidade NF 468,PGTO FUNC.
+2/4/2020,-2940,"78875,65",Pgto MSX Consult Nf 827,PGTO FUNC.
+2/4/2020,-2716,"76159,65",Pgto MSX Consult Nf 828,PGTO FUNC.
+2/4/2020,-41,"76118,65",Tarifa Bancária DOC/TED,PGTO FUNC.
+2/4/2020,-25000,"51118,65",Antecipação de Dividendos - Rodrigo,PGTO FUNC.
+2/4/2020,-25000,"26118,65",Antecipação de Dividendos - Qualitas,PGTO FUNC.
+2/5/2020,4,"26122,65",Ajuste de credito ref. Aplicação automatica,PGTO FUNC.
+2/5/2020,-430,"25692,65",Pgto DARF 3562 IR S/PL EX2019,PGTO FUNC.
+2/5/2020,-500,"25192,65",Pgto Criação e Imagem,PGTO FUNC.
+2/5/2020,-1000,"24192,65",Saque Caixinha,PGTO FUNC.
+2/5/2020,-3749,"20443,65",Pgto C de Campos Trans e Serv Ter,PGTO FUNC.
+2/5/2020,-3792,"16651,65",IPTU 1/10,PGTO FUNC.
+2/5/2020,-10,"16641,65",Tarifa Bancária DOC/TED,PGTO FUNC.
+2/5/2020,-17,"16624,65",Anuidade Cartão de Crédito,PGTO FUNC.
+2/5/2020,-24,"16600,65",Tarifa Bancária Funcs Net Empresa,PGTO FUNC.
+2/6/2020,3,"16603,65",Ajuste de credito ref. Aplicação automatica,PGTO FUNC.
+2/6/2020,15000,"31603,65",Credito Tollog - Taxa Gestão Jan/20,PGTO FUNC.
+2/6/2020,318209,"349812,65",Credito Symphony - Taxa Gestão Jan/20,PGTO FUNC.
+2/6/2020,-506,"349306,65",Pgto Conselho de Contabilidade - Eduardo Soares,PGTO FUNC.
+2/6/2020,-10,"349296,65",Tarifa Bancária DOC/TED,PGTO FUNC.
+2/5/2020,-30796,"318500,65",Pgto JHSF Aluguel - DEVOLUÇÃO VIA,PGTO FUNC.
+2/7/2020,3,"318503,65",Ajuste de credito ref. Aplicação automatica,PGTO FUNC.
+2/7/2020,4369,"322872,65",Credito Veritas TOP - Taxa Gestão JAN/20,PGTO FUNC.
+2/7/2020,18777,"341649,65",Credito Multiplica - Taxa Gestão JAN/20,PGTO FUNC.
+2/7/2020,26602,"368251,65",Credito Veritas Apogeu I FIDC - Taxa Gestão - JAN/20,PGTO FUNC.
+2/7/2020,29476,"397727,65",Credito Veritas Apogeu FIM - Taxa Gestão JAN/20,PGTO FUNC.
+2/7/2020,349862,"747589,65",Credito NINKA - Taxa Gestão JAN/20,PGTO FUNC.
+2/7/2020,195623,"943212,65",Credito MERAK - Taxa Gestão JAN/20,PGTO FUNC.
+2/7/2020,612176,"1555388,65",Credito Marte - Taxa Gestão JAN/20,PGTO FUNC.
+2/7/2020,155308,"1710696,65",Credito CJP - Taxa Gestão - JAN/20,PGTO FUNC.
+2/7/2020,25000,"1735696,65",Credito Singapore - Taxa Gestão JAN/20,PGTO FUNC.
+2/7/2020,85000,"1820696,65",Credito TMJ IMA-B - Taxa Gestão JAN/20,PGTO FUNC.
+2/7/2020,7272,"1827968,65",Credito UM I A M FIRF Taxa de Gestão Jan/20,PGTO FUNC.
+2/7/2020,7272,"1835240,65",Credito UM I A M I FIRF Taxa de Gestão Jan/20,PGTO FUNC.
+2/7/2020,19090,"1854330,65",Credito MLZ IMA-B FIRF Taxa de Gestão - JAN/20,PGTO FUNC.
+2/7/2020,25000,"1879330,65",Credito IMA-B 1000 FIC RENDA FIXA LP,PGTO FUNC.
+2/7/2020,-145000,"1734330,65",Antecipação de Dividendos - Qualitas,PGTO FUNC.
+2/7/2020,-145000,"1589330,65",Antecipação de dividendos - Rodrigo,PGTO FUNC.
+2/7/2020,-10,"1589320,65",Tarifa Bancária DOC/TED,PGTO FUNC.
+2/7/2020,-451,"1588869,65",Pgto FGTS,PGTO FUNC.
+2/7/2020,-210,"1588659,65",Pgto Prizemed,PGTO FUNC.
+2/7/2020,-208,"1588451,65",Pgto Multa Velar,PGTO FUNC.
+2/10/2020,4,"1588455,65",Ajuste de credito ref. Aplicação automatica,PGTO FUNC.
+2/10/2020,7469,"1595924,65",Credito Michael Lacanal,PGTO FUNC.
+2/10/2020,-2656,"1593268,65",Pgto MSX Consult Nf 834,PGTO FUNC.
+2/10/2020,-148,"1593120,65",Pgto 99 Tecnologia,PGTO FUNC.
+2/10/2020,-4955,"1588165,65",Pgto Quick Soft,PGTO FUNC.
+2/10/2020,-369,"1587796,65",Pgto Cartório,PGTO FUNC.
+2/10/2020,-2180,"1585616,65",Pgto Prajna,PGTO FUNC.
+2/10/2020,-12100,"1573516,65",Pgto Marella FT 6663,PGTO FUNC.
+2/10/2020,-20,"1573496,65",Tarifa Bancária DOC/TED,PGTO FUNC.
+2/10/2020,-119893,"1453603,65",Pgto ISS,PGTO FUNC.
+2/10/2020,-4523,"1449080,65",Pgto ISS Qualitas - Jan/20,PGTO FUNC.
+2/10/2020,-4255,"1444825,65",Pgto ISS Qualitas - Dez/19,PGTO FUNC.
+2/10/2020,-2180,"1442645,65",Pgto Cartão de Crédito Elo,PGTO FUNC.
+2/10/2020,-3255,"1439390,65",Pgto Cartão Credito Master,PGTO FUNC.
+2/11/2020,2,"1439392,65",Ajuste de credito ref. Aplicação automatica,PGTO FUNC.
+2/11/2020,10000,"1449392,65",Devolução Valor enviado para VIA,PGTO FUNC.
+2/11/2020,-10000,"1439392,65",Transferencia para VIA,PGTO FUNC.
+2/11/2020,-86561,"1352831,65",Pgto Invoice - Cartão Credito Qualitas,PGTO FUNC.
+2/11/2020,-10,"1352821,65",Tarifa Bancária DOC/TED,PGTO FUNC.
+2/12/2020,2,"1352823,65",Ajuste de credito ref. Aplicação automatica,PGTO FUNC.
+2/12/2020,65000,"1417823,65",Credito Monte Carlo parte taxa de gestão DEZ/19,PGTO FUNC.
+2/12/2020,-35331,"1382492,65",Pgto Passsagem Rodrigo - Person of the year,PGTO FUNC.
+2/12/2020,-450,"1382042,65",Pgto 50 Mais Digital NF 081,PGTO FUNC.
+2/12/2020,-1516,"1380526,65",Pgto Superix 1/3,PGTO FUNC.
+2/12/2020,-10,"1380516,65",Tarifa Bancária DOC/TED,PGTO FUNC.
+2/13/2020,8,"1380524,65",Ajuste de credito ref. Aplicação automatica,PGTO FUNC.
+2/13/2020,-3200,"1377324,65",Pgto Dif salarial Sergio,PGTO FUNC.
+2/13/2020,-532,"1376792,65",Pgto Progestiona - Curso Fernando Daier,PGTO FUNC.
+2/14/2020,17,"1376809,65",Ajuste de credito ref. Aplicação automatica,PGTO FUNC.
+2/14/2020,-1212,"1375597,65",Pgto PK12 Estacionamento NF4599,PGTO FUNC.
+2/14/2020,-399,"1375198,65",Pgto Conect -Serasa,PGTO FUNC.
+2/14/2020,-1790,"1373408,65",Reembolso Qualitas,PGTO FUNC.
+2/14/2020,-10,"1373398,65",Tarifa Bancária DOC/TED,PGTO FUNC.
+2/14/2020,-403,"1372995,65",Pgto Contribuição Patronal - SESCON,PGTO FUNC.
+2/17/2020,58,"1373053,65",Ajuste de credito ref. Aplicação automatica,PGTO FUNC.
+2/17/2020,-63409,"1309644,65","Pgto Montjoie Acessoria NF R$67.564,36",PGTO FUNC.
+2/17/2020,-6500,"1303144,65",Pgto Enrico Mollica NF 054 7/10,PGTO FUNC.
+2/17/2020,-714578,"588566,65","Pgto Guilherme Bussadori NF R$ 761.404,84",PGTO FUNC.
+2/17/2020,-9550,"579016,65",Pgto Scansource - Licença Azurecsp nf 111871,PGTO FUNC.
+2/17/2020,-515,"578501,65",Pgto Scansource nf 111892,PGTO FUNC.
+2/17/2020,-483,"578018,65",Pgto CRDC,PGTO FUNC.
+2/17/2020,-12312,"565706,65",Pgto Auditoria BDO 1/4,BANCO
+2/17/2020,-31,"565675,65",Tarifa Bancária DOC/TED,BANCO
+2/18/2020,18,"565693,65",Ajuste de credito ref. Aplicação automatica,BANCO
+2/18/2020,450000,"1015693,65","Credito Resgate Veritas TOP 450.000,00",BANCO
+2/18/2020,-18807,"996886,65",Pgto Lote 45 NF 4506,BANCO
+2/18/2020,-2000,"994886,65",Pgto Lote 45 NF 4507,BANCO
+2/18/2020,-5865,"989021,65",Pgto DELL Computador Rodrigo,BANCO
+2/19/2020,25,"989046,65",Ajuste de credito ref. Aplicação automatica,BANCO
+2/19/2020,-500,"988546,65",Pgto Asplan - Qualitas,BANCO
+2/19/2020,-553,"987993,65",Pgto PIS - Qualitas,BANCO
+2/19/2020,-2553,"985440,65",Pgto COFINS - Qualitas,BANCO
+2/19/2020,-4971,"980469,65",Pgto IRPJ 04 TRIM 2/3 - Qualitas,BANCO
+2/19/2020,-2517,"977952,65",Pgto CSLL 04 TRIM 2/3 - Qualitas,BANCO
+2/20/2020,26,"977978,65",Ajuste de credito ref. Aplicação automatica,BANCO
+2/20/2020,500000,"1477978,65",Credito Resgate Veritas TOP,BANCO
+2/20/2020,-9701,"1468277,65",Pgto Parcela 6/36 Financiamento,BANCO
+2/20/2020,-23,"1468254,65",Pgto DARF 5952 CRDC NF 15557,BANCO
+2/20/2020,-585,"1467669,65",Pgto DARF 0561 IRRF/Folha,BANCO
+2/20/2020,-384,"1467285,65",Pgto GPS C de Campos Trans e Serv Ter,BANCO
+2/20/2020,-47,"1467238,65",Pgto DARF 1708 MSX Consult NF 808,BANCO
+2/20/2020,-145,"1467093,65",Pgto DARF 5952 MSX Consult NF 808,BANCO
+2/20/2020,-43,"1467050,65",Pgto DARF 1708 MSX Consult NF 809,BANCO
+2/20/2020,-135,"1466915,65",Pgto DARF 5952 MSX Consult NF 809,BANCO
+2/20/2020,-42,"1466873,65",Pgto DARF 1708 MSX Consult NF 814,BANCO
+2/20/2020,-131,"1466742,65",Pgto DARF 5952 MSX Consult NF 814,BANCO
+2/20/2020,-5647,"1461095,65",Pgto DARF 5952 Montjoie NF 68,BANCO
+2/20/2020,-1821,"1459274,65",Pgto DARF 1708 Montjoie NF 68,BANCO
+2/20/2020,-93000,"1366274,65",Pgto DARF 5952 Guilherme B. NF 106,BANCO
+2/20/2020,-30000,"1336274,65",Pgto DARF 1708 Guilherme B. NF 106,BANCO
+2/20/2020,-2673,"1333601,65",Pgto DARF 5952 Balera Berbel NF 1559,BANCO
+2/20/2020,-862,"1332739,65",Pgto DARF 1708 Balera Berbel NF 1559,BANCO
+2/20/2020,-100,"1332639,65",Pgto Voicecorp - linha contingencial,BANCO
+2/20/2020,-109,"1332530,65",Pgto Whirlpool,BANCO
+2/20/2020,-360,"1332170,65",Pgto Net,BANCO
+2/20/2020,-1496,"1330674,65",Pgto Asplan,BANCO
+2/20/2020,-7928,"1322746,65",Pgto GPS,BANCO
+2/20/2020,-27129,"1295617,65",Pgto Anbima,BANCO
+2/20/2020,-2109,"1293508,65",Pgto Marella FT 6674,BANCO
+2/20/2020,-844650,"448858,65","Pgto Guilherme Bussadori NF 110 R$ 900.000,00",BANCO
+2/20/2020,-348,"448510,65",Pgto Compra de Pratos - Porto Brasil,BANCO
+2/20/2020,-31,"448479,65",Tarifa Bancária DOC/TED,BANCO
+2/21/2020,24,"448503,65",Ajuste de credito ref. Aplicação automatica,BANCO
+2/21/2020,-3818,"444685,65",Pgto Energia,BANCO
+2/21/2020,-557,"444128,65",Pgto MM Primo 328308,BANCO
+2/21/2020,-871,"443257,65",Pgto SP Trans - VT,BANCO
+2/21/2020,-39524,"403733,65","Pgto DARF 8109 PIS Jan/20 37.305,67",BANCO
+2/21/2020,-182422,"221311,65","Pgto DARF 2172 Cofins Jan/20 172.180,02",BANCO
+2/21/2020,-660,"220651,65",Pgto Imigrantes Bebidas,BANCO
+2/21/2020,-250,"220401,65",Pgto Credito Signal link,BANCO
+2/26/2020,40,"220441,65",Ajuste de credito ref. Aplicação automatica,BANCO
+2/26/2020,-750,"219691,65",Pgto Fernando Hadad,BANCO
+2/26/2020,-1000,"218691,65",Pgto Fernando Hadad - MANUTENÇÃO PISO,BANCO
+2/26/2020,-2236,"216455,65",Pgto Agencia Estado - Broadcast,BANCO
+2/26/2020,-13204,"203251,65",Pgto Alelo VR- Jan/19,BANCO
+2/26/2020,-20,"203231,65",Tarifa Bancária DOC/TED,BANCO
+2/27/2020,17,"203248,65",Ajuste de credito ref. Aplicação automatica,BANCO
+2/27/2020,-594,"202654,65",Pgto Assist Locação,BANCO
+2/27/2020,-845,"201809,65",Pgto Assist Impressões,BANCO
+2/27/2020,-1410,"200399,65",Pgto Anuidade Anbima,BANCO
+2/28/2020,20,"200419,65",Ajuste de credito ref. Aplicação automatica,BANCO
+2/28/2020,20000,"220419,65",Credito VIA,BANCO
+2/28/2020,-20,"220399,65",Tarifa Bancária DOC/TED,BANCO
+2/28/2020,-159,"220240,65",Pgto MARELLA FT 6695,BANCO
+2/28/2020,-1075,"219165,65",Pgto Nestle NF 214280,BANCO
+2/28/2020,-3800,"215365,65",Pgto Sonchim Almeida Scarpa e Bragagnolo,BANCO
+2/28/2020,-3877,"211488,65",Pgto Omega Assessoria NF 11845,BANCO
+2/28/2020,-7038,"204450,65",Pgto Barela Berbel e Mitne NF1411,BANCO
+2/28/2020,-52737,"151713,65",Pgto CSLL 04 TRIM 2/3,BANCO
+2/28/2020,-142568,"9145,65",Pgto IRPJ 04 TRIM 2/3,BANCO
+3/2/2020,1,"9111,65",Ajuste de credito ref. Aplicação automatica,BANCO
+3/2/2020,255000,"264111,65",Credito VIA,BANCO
+3/2/2020,-11431,"252680,65",Pgto Condomínio Ed Metropolitan,BANCO
+3/2/2020,-27642,"225038,65",Pgto QCP - Qualitas Capital Partners,BANCO
+3/2/2020,-2447,"222591,65",Pgto Flávio Rietmann,BANCO
+3/2/2020,-40000,"182591,65",Pgto Rodrigo Moratelli,BANCO
+3/2/2020,-17000,"165591,65",Pgto Guilherme Marques,PGTO FUNC.
+3/2/2020,-13200,"152391,65",Pgto Danilo Tamburus,PGTO FUNC.
+3/2/2020,-13200,"139191,65",Pgto Lidiberto,PGTO FUNC.
+3/2/2020,-13200,"125991,65",Pgto Danilo Miura,PGTO FUNC.
+3/2/2020,-13200,"112791,65",Pgto Mario,PGTO FUNC.
+3/2/2020,-13200,"99591,65",Pgto Sergio Rossi,PGTO FUNC.
+3/2/2020,-9340,"90251,65",Pgto Fabio Amaral,PGTO FUNC.
+3/2/2020,-8000,"82251,65",Pgto Isadora Ferreira,PGTO FUNC.
+3/2/2020,-5000,"77251,65",Pgto Leonardo de Luca,PGTO FUNC.
+3/2/2020,-5000,"72251,65",Pgto Fernando Daier,PGTO FUNC.
+3/2/2020,-4500,"67751,65",Pgto Paula Iglesias,PGTO FUNC.
+3/2/2020,-2731,"65020,65",Pgto Leandro - Estagiário,PGTO FUNC.
+3/2/2020,-2689,"62331,65",Pgto Andre - Estagiário,PGTO FUNC.
+3/2/2020,-10,"62321,65",Tarifa Bancária DOC/TED,PGTO FUNC.
+3/2/2020,-4168,"58153,65",Pgto Cartão de Crédito Visa,PGTO FUNC.
+3/3/2020,1,"58154,65",Ajuste de credito ref. Aplicação automatica,PGTO FUNC.
+3/3/2020,90,"58244,65",Credito Imigrantes Bebidas,BANCO
+3/3/2020,-338,"57906,65",Pgto Host Fiber - Link BKP,BANCO
+3/3/2020,-1352,"56554,65",Pgto Host Fiber - Link Principal,BANCO
+3/4/2020,1,"56555,65",Ajuste de credito ref. Aplicação automatica,BANCO
+3/4/2020,-485,"56070,65",Pgto Everton Mensageiro NF,BANCO
+3/4/2020,-472,"55598,65",Pgto Signallink,BANCO
+3/4/2020,-370,"55228,65",Pgto Editora Globo,BANCO
+3/4/2020,-33,"55195,65",Pgto Editora Globo,BANCO
+3/4/2020,-2000,"53195,65",Pgto Contabilidade NF,BANCO
+3/4/2020,-10,"53185,65",Tarifa Bancária DOC/TED,BANCO
+3/4/2020,-36,"53149,65",Tarifa Net Empresa,BANCO
+3/5/2020,1,"53150,65",Ajuste de credito ref. Aplicação automatica,BANCO
+3/5/2020,250828,"303978,65",Credito Symphony - Taxa Gestão Fev/20,BANCO
+3/5/2020,-4377,"299601,65",Pgto Barela Berbel e Mitne NF,BANCO
+3/5/2020,-31381,"268220,65",Pgto JHSF Aluguel,BANCO
+3/5/2020,-1342,"266878,65",Pgto Plantec NF 6773 1/2,BANCO
+3/5/2020,-2906,"263972,65",Pgto MSX Consult Nf 846,BANCO
+3/5/2020,-2940,"261032,65",Pgto MSX Consult Nf 849,BANCO
+3/5/2020,-3741,"257291,65",Pgto C de Campos Trans e Serv Ter NF,BANCO
+3/5/2020,-31,"257260,65",Tarifa Bancária DOC/TED,BANCO
+3/5/2020,-17,"257243,65",Anuidade Cartão de Crédito,BANCO
+3/6/2020,2,"257245,65",Ajuste de credito ref. Aplicação automatica,BANCO
+3/6/2020,3578,"260823,65",Credito Veritas TOP - Taxa Gestão Fev/20,BANCO
+3/6/2020,15413,"276236,65",Credito Multiplica - Taxa GestãoFev/20,BANCO
+3/6/2020,26602,"302838,65",Credito Veritas Apogeu I FIDC - Taxa Gestão - Fev/20,BANCO
+3/6/2020,24545,"327383,65",Credito Veritas Apogeu FIM - Taxa Gestão Fev/20,BANCO
+3/6/2020,318052,"645435,65",Credito NINKA - Taxa Gestão Fev/20,BANCO
+3/6/2020,161199,"806634,65",Credito MERAK - Taxa Gestão Fev/20,BANCO
+3/6/2020,508018,"1314652,65",Credito Marte - Taxa Gestão Fev/20,BANCO
+3/6/2020,127014,"1441666,65",Credito CJP - Taxa Gestão - Fev/20,BANCO
+3/6/2020,25000,"1466666,65",Credito Singapore - Taxa Gestão Fev/20,BANCO
+3/6/2020,85000,"1551666,65",Credito TMJ IMA-B - Taxa Gestão Fev/20,BANCO
+3/6/2020,20000,"1571666,65",Credito UM I A M FIRF Taxa de Gestão Fev/20,BANCO
+3/6/2020,20000,"1591666,65",Credito UM I A M I FIRF Taxa de Gestão Fev/20,BANCO
+3/6/2020,30000,"1621666,65",Credito MLZ IMA-B FIRF Taxa de Gestão - Fev/20,BANCO
+3/6/2020,105000,"1726666,65",Credito FUNDO DE INVEST RENDA FIXA MONTE CARLO INSTITUCIONAL IMA-B 5,BANCO
+3/6/2020,25000,"1751666,65",Credito IMA-B 1000 FIC RENDA FIXA LP,BANCO
+3/6/2020,-210,"1751456,65",Pgto Prizemed,BANCO
+3/6/2020,-500,"1750956,65",Pgto Criação e Imagem,BANCO
+3/6/2020,-451,"1750505,65",Pgto FGTS,BANCO
+3/6/2020,-500689,"1249816,65","Pgto Guilherme Bussadori NF113 R$ 533.500,00",BANCO
+3/6/2020,-20,"1249796,65",Tarifa Bancária DOC/TED,BANCO
+3/9/2020,5,"1249801,65",Ajuste de credito ref. Aplicação automatica,BANCO
+3/9/2020,87381,"1337182,65",Credito Terra Nova IMA-B RENDA FIXA II,BANCO
+3/9/2020,51473,"1388655,65",Credito Postalis Taxa Cobrança Jan/19,BANCO
+3/9/2020,51473,"1440128,65",Credito Postalis Taxa Cobrança Fev/19,BANCO
+3/9/2020,13260,"1453388,65",Credito PRIME FUNDO DE INVESTIMENTO RENDA FIXA IMA-B,BANCO
+3/9/2020,46342,"1499730,65",Credito PREMIUM IMA-B FUNDO DE INVESTIMENTO EM COTAS DE FUNDO DE INVESTIMENTO RENDA FIXA,BANCO
+3/9/2020,-4000,"1495730,65",Pgto Congresso ABIPEM - Fernandi Daier,BANCO
+3/9/2020,-263,"1495467,65",Pgto 99 Tecnologia,BANCO
+3/9/2020,-3423,"1492044,65",Pgto Quick Soft,BANCO
+3/9/2020,-1004,"1491040,65",Pgto AGPS Hotelaria - hospedagem Fernando,BANCO
+3/9/2020,-1000,"1490040,65",Saque caixinha,BANCO
+3/9/2020,-10,"1490030,65",Tarifa Bancária DOC/TED,REEMBOLSO
+3/10/2020,3,"1490033,65",Ajuste de credito ref. Aplicação automatica,REEMBOLSO
+3/10/2020,85066,"1575099,65",Credito Postalis Taxa Performance Jan/19,REEMBOLSO
+3/10/2020,82063,"1657162,65",Credito Postalis Taxa Performance Fev/19,REEMBOLSO
+3/10/2020,-275000,"1382162,65",Devolução valor - VIA,REEMBOLSO
+3/10/2020,-5642,"1376520,65","Pgto ""Assembleia"" - hotel Transamerica",REEMBOLSO
+3/10/2020,-6500,"1370020,65",Pgto Enrico Mollica NF 9/10,REEMBOLSO
+3/10/2020,-33,"1369987,65",Pgto Cartório,REEMBOLSO
+3/10/2020,-2180,"1367807,65",Pgto Prajna,REEMBOLSO
+3/10/2020,-39731,"1328076,65",Pgto ISS,REEMBOLSO
+3/10/2020,-20,"1328056,65",Tarifa Bancária DOC/TED,REEMBOLSO
+3/10/2020,-4269,"1323787,65",Pgto Cartão Credito Master,REEMBOLSO
+3/10/2020,-840,"1322947,65",Pgto Cartão de Crédito Elo,REEMBOLSO
+3/11/2020,9,"1322956,65",Ajuste de credito ref. Aplicação automatica,REEMBOLSO
+3/11/2020,-4423,"1318533,65",Pgto Sergio Belem NF 042,REEMBOLSO
+3/11/2020,-10,"1318523,65",Tarifa Bancária DOC/TED,REEMBOLSO
+3/12/2020,18,"1318541,65",Ajuste de credito ref. Aplicação automatica,REEMBOLSO
+3/12/2020,-1516,"1317025,65",Pgto Superix 2/3,REEMBOLSO
+3/13/2020,27,"1317052,65",Ajuste de credito ref. Aplicação automatica,REEMBOLSO
+3/13/2020,-17695,"1299357,65",Devolução para VIA Sergio Belem,REEMBOLSO
+3/13/2020,-26056,"1273301,65",Pgto Passagem Flávio - Person of the year,BANCO
+3/13/2020,-94116,"1179185,65","Pgto Guilherme Bussadori NF114 R$ 100.284,17",BANCO
+3/13/2020,-2674,"1176511,65",Pgto MSX Consult Nf 834,BANCO
+3/13/2020,-52531,"1123980,65","Pgto Montjoie Acessoria NF72 R$ 55.973,44",BANCO
+3/13/2020,-41,"1123939,65",Tarifa Bancária DOC/TED,BANCO
+3/16/2020,69,"1124008,65",Ajuste de credito ref. Aplicação automatica,BANCO
+3/16/2020,28146,"1152154,65",Credito PREMIUM IMA-B FUNDO DE INVESTIMENTO EM COTAS DE FUNDO DE INVESTIMENTO RENDA FIXA,BANCO
+3/16/2020,8550,"1160704,65",Credito PRIME FUNDO DE INVESTIMENTO RENDA FIXA IMA-B,BANCO
+3/16/2020,52814,"1213518,65",Credito Terra Nova IMA-B RENDA FIXA II,BANCO
+3/16/2020,-12312,"1201206,65",Pgto Auditoria BDO 2/4,BANCO
+3/16/2020,-2768,"1198438,65",Pgto Scansource - Cloud Service nf 115108,BANCO
+3/16/2020,-1060,"1197378,65",Pgto CRDC,BANCO
+3/16/2020,-681,"1196697,65",Pgto Conect -Serasa,BANCO
+3/17/2020,326,"1197023,65",Ajuste de credito ref. Aplicação automatica,BANCO
+3/17/2020,-1212,"1195811,65",Pgto PK12 Estacionamento NF4599,BANCO
+3/17/2020,-3398,"1192413,65",Pgto Scansource Licença antivirus,BANCO
+3/17/2020,-10,"1192403,65",Tarifa Bancária DOC/TED,BANCO
+3/18/2020,-39,"1192364,65",Ajuste de credito ref. Aplicação automatica,BANCO
+3/18/2020,-90,"1192274,65",Pgto 50 Mais Digital,BANCO
+3/18/2020,-708,"1191566,65",Pgto MM Primo nf 330785,BANCO
+3/18/2020,-18807,"1172759,65",Pgto Lote 45 NF 4506,BANCO
+3/18/2020,-2000,"1170759,65",Pgto Lote 45 NF 4507,TARIFAS ADICIONAIS
+3/18/2020,-15000,"1155759,65",Pgto Emeli Serviços - Honorários Dra Linéia Tollog e Portobello,TARIFAS ADICIONAIS
+3/18/2020,-874,"1154885,65",Pgto Emeli Serviços - Reembolso Paralegal/JUCESP,TARIFAS ADICIONAIS
+3/19/2020,164,"1155049,65",Ajuste de credito ref. Aplicação automatica,TARIFAS ADICIONAIS
+3/19/2020,4750,"1159799,65",Reembolso Transamérica hotéis - alimentação Assembleia,TARIFAS ADICIONAIS
+3/19/2020,-23,"1159776,65",Pgto DARF 5952 CRDC NF 15557,TARIFAS ADICIONAIS
+3/19/2020,-42,"1159734,65",Pgto DARF 1708 MSX Consult NF 834,TARIFAS ADICIONAIS
+3/19/2020,-43,"1159691,65",Pgto DARF 1708 MSX Consult NF 828,TARIFAS ADICIONAIS
+3/19/2020,-47,"1159644,65",Pgto DARF 1708 MSX Consult NF 827,TARIFAS ADICIONAIS
+3/19/2020,-100,"1159544,65",Pgto Voicecorp - linha contingencial,TARIFAS ADICIONAIS
+3/19/2020,-109,"1159435,65",Pgto Whirlpool,TARIFAS ADICIONAIS
+3/19/2020,-112,"1159323,65",Pgto DARF 1708 Balera Berbel NF 1559,TARIFAS ADICIONAIS
+3/19/2020,-131,"1159192,65",Pgto DARF 5952 MSX Consult NF 834,TARIFAS ADICIONAIS
+3/19/2020,-134,"1159058,65",Pgto DARF 5952 MSX Consult NF 828,TARIFAS ADICIONAIS
+3/19/2020,-145,"1158913,65",Pgto DARF 5952 MSX Consult NF 827,TARIFAS ADICIONAIS
+3/19/2020,-196,"1158717,65",Pgto DARF 1708 Bdo Auditoria NF 58057,TARIFAS ADICIONAIS
+3/19/2020,-348,"1158369,65",Pgto DARF 5952 Balera Berbel NF 1559,TARIFAS ADICIONAIS
+3/19/2020,-360,"1158009,65",Pgto Net,TARIFAS ADICIONAIS
+3/19/2020,-401,"1157608,65",Pgto GPS C de Campos Trans e Serv Ter,TARIFAS ADICIONAIS
+3/19/2020,-594,"1157014,65",Pgto Assist Locação,TARIFAS ADICIONAIS
+3/19/2020,-610,"1156404,65",Pgto DARF 5952 BDO Auditoria NF 58057,TARIFAS ADICIONAIS
+3/19/2020,-649,"1155755,65",Pgto DARF 0561 IRRF/Folha,TARIFAS ADICIONAIS
+3/19/2020,-759,"1154996,65",Pgto Assist Impressões,TARIFAS ADICIONAIS
+3/20/2020,79,"1155075,65",Ajuste de credito ref. Aplicação automatica,TARIFAS ADICIONAIS
+3/20/2020,-9701,"1145374,65",Pgto Parcela 7/36 Financiamento,TARIFAS ADICIONAIS
+3/20/2020,-1013,"1144361,65",Pgto DARF 1708 Montjoie NF 71,TARIFAS ADICIONAIS
+3/20/2020,-1496,"1142865,65",Pgto Asplan,TARIFAS ADICIONAIS
+3/20/2020,-3141,"1139724,65",Pgto DARF 5952 Montjoie NF 71,TARIFAS ADICIONAIS
+3/20/2020,-7644,"1132080,65",Pgto Marella ft 6714,TARIFAS ADICIONAIS
+3/20/2020,-8393,"1123687,65",Pgto GPS,TARIFAS ADICIONAIS
+3/20/2020,-11421,"1112266,65",Pgto DARF 1708 Guilherme B. NF 109,TARIFAS ADICIONAIS
+3/20/2020,-13500,"1098766,65",Pgto DARF 1708 Guilherme B. NF 110,TARIFAS ADICIONAIS
+3/20/2020,-35405,"1063361,65",Pgto DARF 5952 Guilherme B. NF 109,TARIFAS ADICIONAIS
+3/20/2020,-39921,"1023440,65",Pgto Anbima,TARIFAS ADICIONAIS
+3/20/2020,-41850,"981590,65",Pgto DARF 5952 Guilherme B. NF 110,TARIFAS ADICIONAIS
+3/20/2020,-10,"981580,65",Tarifa Bancária DOC/TED,TARIFAS ADICIONAIS
+3/23/2020,137,"981717,65",Ajuste de credito ref. Aplicação automatica,TARIFAS ADICIONAIS
+3/23/2020,-2662,"979055,65",Pgto Energia,BANCO
+3/23/2020,-2085,"976970,65",Pgto Nestle NF 2200179,BANCO
+3/23/2020,-2236,"974734,65",Pgto Agencia Estado - Broadcast,BANCO
+3/24/2020,79,"974813,65",Ajuste de credito ref. Aplicação automatica,BANCO
+3/24/2020,110007,"1084820,65",Credito Monza FI Multimercado - taxa de Gestão,BANCO
+3/25/2020,85,"1084905,65",Ajuste de credito ref. Aplicação automatica,BANCO
+3/25/2020,-980,"1083925,65",Pgto Editora Glovo - Valor PRO Disponibilização,BANCO
+3/25/2020,-776,"1083149,65",Pgto Editora Globo - Valor PRO Ferramenta e dados,BANCO
+3/25/2020,-150,"1082999,65",Envio de Credito para VIA,BANCO
+3/26/2020,104,"1083103,65",Ajuste de credito ref. Aplicação automatica,BANCO
+3/26/2020,-69449,"1013654,65",Pgto Balera Berbel e Mitne NF 1957,BANCO
+3/26/2020,-10,"1013644,65",Tarifa Bancária DOC/TED,BANCO
+3/27/2020,100,"1013744,65",Ajuste de credito ref. Aplicação automatica,BANCO
+3/27/2020,-1342,"1012402,65",Pgto Plantec NF 6773 1/2,BANCO
+3/27/2020,-12030,"1000372,65",Pgto Alelo VR- Abr/19,BANCO
+3/27/2020,-792,"999580,65",Pgto SP Trans - VT,BANCO
+3/30/2020,214,"999794,65",Ajuste de credito ref. Aplicação automatica,BANCO
+3/30/2020,-3800,"995994,65",Pgto Sonchim Almeida Scarpa e Bragagnolo,BANCO
+3/30/2020,-3877,"992117,65",Pgto Omega Assessoria NF,BANCO
+3/30/2020,-10000,"982117,65",Pgto Emeli Serviços - Honorários Dra Linéia Tollog e Portobello,FIXA
+3/31/2020,119,"982236,65",Ajuste de credito ref. Aplicação automatica,FIXA
+3/31/2020,-7038,"975198,65",Pgto Barela Berbel e Mitne NF 1941,FIXA
+3/31/2020,-10,"975188,65",Tarifa Bancária DOC/TED,FIXA
+4/1/2020,143,"975309,27",Ajuste de credito ref. Aplicação automatica,FIXA
+4/1/2020,-11386,"963923,27",Pgto Condomínio Ed Metropolitan,FIXA
+4/1/2020,-27850,"936073,27",Pgto QCP - Qualitas Capital Partners,FIXA
+4/1/2020,-2447,"933626,27",Pgto Flávio Rietmann,FIXA
+4/1/2020,-40000,"893626,27",Pgto Rodrigo Moratelli,PGTO FUNC.
+4/1/2020,-17000,"876626,27",Pgto Guilherme Marques,PGTO FUNC.
+4/1/2020,-13200,"863426,27",Pgto Danilo Tamburus,PGTO FUNC.
+4/1/2020,-13200,"850226,27",Pgto Lidiberto,PGTO FUNC.
+4/1/2020,-13200,"837026,27",Pgto Danilo Miura,PGTO FUNC.
+4/1/2020,-13200,"823826,27",Pgto Mario,PGTO FUNC.
+4/1/2020,-13200,"810626,27",Pgto Sergio Rossi,PGTO FUNC.
+4/1/2020,-9340,"801286,27",Pgto Fabio Amaral,PGTO FUNC.
+4/1/2020,-8000,"793286,27",Pgto Isadora Ferreira,PGTO FUNC.
+4/1/2020,-5000,"788286,27",Pgto Leonardo de Luca,PGTO FUNC.
+4/1/2020,-5000,"783286,27",Pgto Fernando Daier,PGTO FUNC.
+4/1/2020,-4500,"778786,27",Pgto Paula Iglesias,PGTO FUNC.
+4/1/2020,-2300,"776486,27",Pgto Leandro - Estagiário,PGTO FUNC.
+4/1/2020,-2300,"774186,27",Pgto Andre - Estagiário,PGTO FUNC.
+4/1/2020,-559,"773627,27",Pgto Gisele Santos,PGTO FUNC.
+4/1/2020,-354,"773273,27",Pgto Vale transporte - Andre,PGTO FUNC.
+4/1/2020,-392,"772881,27",Pgto Vale transporte - Leandro,PGTO FUNC.
+4/1/2020,-8253,"764628,27",Pgto Dell Computadores - Notebook para Danilo e Isadora,TARIFAS ADICIONAIS
+4/1/2020,-150000,"614628,27",Adiantamento Dividendos - Rodrigo,TARIFAS ADICIONAIS
+4/1/2020,-150000,"464628,27",Adiantamento Dividendos - Qualitas,TARIFAS ADICIONAIS
+4/1/2020,-13960,"450668,27",Adiantamento Dividendos - Guilherme,TARIFAS ADICIONAIS
+4/1/2020,-2730,"447938,27",Adiantamento Dividendos - Danilo Tamburus,TARIFAS ADICIONAIS
+4/1/2020,-570,"447368,27",Adiantamento Dividendos - Isadora,TARIFAS ADICIONAIS
+4/1/2020,-52,"447316,27",Tarifa Bancária DOC/TED,TARIFAS ADICIONAIS
+4/1/2020,-1578,"445738,27",Pgto Dualforma - moveis e prateleiras,TARIFAS ADICIONAIS
+4/1/2020,-2772,"442966,27",Pgto Cartão de Crédito Visa,REEMBOLSO
+4/2/2020,60,"443026,27",Ajuste de credito ref. Aplicação automatica,REEMBOLSO
+4/2/2020,33535,"476561,27",Credito Symphony - Taxa Performance DEZ/19,REEMBOLSO
+4/2/2020,-1599,"474962,27",Pgto Conselho regional de Economia,REEMBOLSO
+4/3/2020,62,"475024,27",Ajuste de credito ref. Aplicação automatica,REEMBOLSO
+4/3/2020,294862,"769886,27",Credito Symphony - Taxa Gestão Mar/20,REEMBOLSO
+4/3/2020,-338,"769548,27",Pgto Host Fiber - Link BKP,REEMBOLSO
+4/3/2020,-1352,"768196,27",Pgto Host Fiber - Link Principal,REEMBOLSO
+4/3/2020,-472,"767724,27",Pgto Signallink,REEMBOLSO
+4/3/2020,-2000,"765724,27",Pgto Contabilidade NF 545,REEMBOLSO
+4/3/2020,-1270,"764454,27",Pgto Everton Mensageiro NF 065,TARIFAS ADICIONAIS
+4/3/2020,-1900,"762554,27",Credito enviado para VIA,TARIFAS ADICIONAIS
+4/3/2020,-10,"762544,27",Tarifa Bancária DOC/TED,TARIFAS ADICIONAIS
+4/3/2020,-48,"762496,27",Tarifa Bancária Net Empresa,TARIFAS ADICIONAIS
+4/6/2020,129,"762625,27",Ajuste de credito ref. Aplicação automatica,TARIFAS ADICIONAIS
+4/6/2020,-30000,"732625,27",Envio TED PARA Banco Paulista Carta fiança,TARIFAS ADICIONAIS
+4/6/2020,-31381,"701244,27",Pgto JHSF Aluguel,TARIFAS ADICIONAIS
+4/6/2020,-3749,"697495,27",Pgto C de Campos Trans e Serv Ter NF 893,TARIFAS ADICIONAIS
+4/6/2020,-3387,"694108,27",Pgto MSX Consult Nf 868,TARIFAS ADICIONAIS
+4/6/2020,-2940,"691168,27",Pgto MSX Consult Nf 869,TARIFAS ADICIONAIS
+4/6/2020,-200,"690968,27",Pgto Registradores,TARIFAS ADICIONAIS
+4/6/2020,-1578,"689390,27",Pgto Dualforma - moveis e prateleiras,TARIFAS ADICIONAIS
+4/6/2020,-41,"689349,27",Tarifa Bancária DOC/TED,TARIFAS ADICIONAIS
+4/6/2020,-17,"689332,27",Anuidade Cartão de Credito,TARIFAS ADICIONAIS
+4/7/2020,79,"689411,27",Ajuste de credito ref. Aplicação automatica,TARIFAS ADICIONAIS
+4/7/2020,4334,"693745,27",Credito Veritas TOP - Taxa Gestão Mar/20,TARIFAS ADICIONAIS
+4/7/2020,19079,"712824,27",Credito Multiplica - Taxa Gestão Mar/20,BANCO
+4/7/2020,26602,"739426,27",Credito Veritas Apogeu I FIDC - Taxa Gestão - Mar/20,BANCO
+4/7/2020,31030,"770456,27",Credito Veritas Apogeu FIM - Taxa Gestão Mar/20,BANCO
+4/7/2020,375795,"1146251,27",Credito NINKA - Taxa Gestão Mar/20,BANCO
+4/7/2020,198288,"1344539,27",Credito MERAK - Taxa Gestão Mar/20,BANCO
+4/7/2020,645615,"1990154,27",Credito Marte - Taxa Gestão Mar/20,BANCO
+4/7/2020,155162,"2145316,27",Credito CJP - Taxa Gestão - Mar/20,BANCO
+4/7/2020,85000,"2230316,27",Credito TMJ IMA-B - Taxa Gestão Mar/20,BANCO
+4/7/2020,20000,"2250316,27",Credito UM I A M FIRF Taxa de Gestão Mar/20,BANCO
+4/7/2020,20000,"2270316,27",Credito UM I A M I FIRF Taxa de Gestão Mar/20,BANCO
+4/7/2020,30000,"2300316,27",Credito MLZ IMA-B FIRF Taxa de Gestão - Mar/20,BANCO
+4/7/2020,85000,"2385316,27",Credito FUNDO DE INVEST RENDA FIXA MONTE CARLO INSTITUCIONAL IMA-B 5 Taxa de Gestão Mar/20,BANCO
+4/7/2020,56841,"2442157,27",Credito Terra Nova IMA-B RENDA FIXA II,BANCO
+4/7/2020,10469,"2452626,27",Credito PRIME FUNDO DE INVESTIMENTO RENDA FIXA IMA-B,BANCO
+4/7/2020,30697,"2483323,27",Credito PREMIUM IMA-B FUNDO DE INVESTIMENTO EM COTAS DE FUNDO DE INVESTIMENTO RENDA FIXA,BANCO
+4/7/2020,21677,"2505000,27",Credito Monza FI Multimercado - taxa de Gestão MAR/20,BANCO
+4/7/2020,-210,"2504790,27",Pgto Prizemed,BANCO
+4/7/2020,-502,"2504288,27",Pgto FGTS,BANCO
+4/7/2020,-19999,"2484289,27",Pgto Diferença mesa POY e IOF,BANCO
+4/7/2020,-40000,"2444289,27",Antecipação de Dividendos - Qualitas (solic via whatsapp),TARIFAS ADICIONAIS
+4/7/2020,-20,"2444269,27",Tarifa Bancária DOC/TED,TARIFAS ADICIONAIS
+4/8/2020,84,"2444353,27",Ajuste de credito ref. Aplicação automatica,TARIFAS ADICIONAIS
+4/8/2020,25000,"2469353,27",Credito Singapore - Taxa Gestão Mar/20,TARIFAS ADICIONAIS
+4/8/2020,2050,"2471403,27",Credito Devolução valor VIA para VCM,TARIFAS ADICIONAIS
+4/8/2020,-3281,"2468122,27",Pgto Quick Soft,BANCO
+4/8/2020,-150,"2467972,27",Pgto Manutenção Ar Condicionado,BANCO
+4/8/2020,-10,"2467962,27",Tarifa Bancária DOC/TED,BANCO
+4/9/2020,99,"2468061,27",Ajuste de credito ref. Aplicação automatica,PGTO FUNC.
+4/9/2020,25000,"2493061,27",Credito IMA-B 1000 FIC RENDA FIXA LP Taxa de Gestão Mar/20,TARIFAS ADICIONAIS
+4/9/2020,-1000,"2492061,27",Saque para o Caixinha,TARIFAS ADICIONAIS
+4/9/2020,-385,"2491676,27",Pgto 99 Tecnologia,TARIFAS ADICIONAIS
+4/9/2020,-14077,"2477599,27",Pgto Azulsol Comunicações NF 1782,BANCO
+4/9/2020,-33,"2477566,27",Pgto Cartório,BANCO
+4/9/2020,-2180,"2475386,27",Pgto Prajna,TARIFAS ADICIONAIS
+4/9/2020,-57726,"2417660,27",Pgto ISS,TARIFAS ADICIONAIS
+4/9/2020,-65225,"2352435,27",Pgto Barela Berbel e Mitne NF 1958,TARIFAS ADICIONAIS
+4/9/2020,-634,"2351801,27",Pgto Taxa CVM Rodrigo - 2° trim,TARIFAS ADICIONAIS
+4/9/2020,-1269,"2350532,27",Pgto Taxa CVM VCM - 2° TRIM,TARIFAS ADICIONAIS
+4/9/2020,-1516,"2349016,27",Pgto Superix 3/3,TARIFAS ADICIONAIS
+4/9/2020,-10,"2349006,27",Tarifa Bancária DOC/TED,TARIFAS ADICIONAIS
+4/13/2020,155,"2349161,27",Ajuste de credito ref. Aplicação automatica,TARIFAS ADICIONAIS
+4/13/2020,-2656,"2346505,27",Pgto MSX Consult Nf 877,TARIFAS ADICIONAIS
+4/13/2020,-6500,"2340005,27",Pgto Enrico Mollica NF 10/10,TARIFAS ADICIONAIS
+4/13/2020,-1702,"2338303,27",Pgto Cartão Credito Master,TARIFAS ADICIONAIS
+4/13/2020,-1951,"2336352,27",Pgto Cartão de Crédito Elo,TARIFAS ADICIONAIS
+4/13/2020,-20,"2336332,27",Tarifa Bancária DOC/TED,TARIFAS ADICIONAIS
+4/14/2020,120,"2336452,27",Ajuste de credito ref. Aplicação automatica,TARIFAS ADICIONAIS
+4/14/2020,-4423,"2332029,27",Pgto Sergio Belem NF 045,TARIFAS ADICIONAIS
+4/14/2020,-10,"2332019,27",Tarifa Bancária DOC/TED,TARIFAS ADICIONAIS
+4/15/2020,126,"2332145,27",Ajuste de credito ref. Aplicação automatica,TARIFAS ADICIONAIS
+4/15/2020,-12312,"2319833,27",Pgto Auditoria BDO 3/4,TARIFAS ADICIONAIS
+4/15/2020,-1212,"2318621,27",Pgto PK12 Estacionamento NF 5168,TARIFAS ADICIONAIS
+4/15/2020,-12253,"2306368,27",Pgto Scansource - Cloud Service 204620 FEV/20,TARIFAS ADICIONAIS
+4/15/2020,-640,"2305728,27",Pgto Scansource - Cloud Service 206860 FEV/20,TARIFAS ADICIONAIS
+4/15/2020,-2386,"2303342,27",Pgto CRDC,TARIFAS ADICIONAIS
+4/15/2020,-27,"2303315,27",Pgto Reembolso Cepeda Greco,TARIFAS ADICIONAIS
+4/15/2020,-167,"2303148,27",Pgto Conect -Serasa NF 147759,TARIFAS ADICIONAIS
+4/16/2020,136,"2303284,27",Ajuste de credito ref. Aplicação automatica,TARIFAS ADICIONAIS
+4/16/2020,385000,"2688284,27",Credito Fundo Barcelona,TARIFAS ADICIONAIS
+4/16/2020,-66243,"2622041,27","Pgto Montjoie Acessoria NF073 R$70.584,09",TARIFAS ADICIONAIS
+4/16/2020,-751429,"1870612,27","Pgto Guilherme Bussadori NF118 R$800.670,82",TARIFAS ADICIONAIS
+4/16/2020,-20,"1870592,27",Tarifa Bancária DOC/TED,TARIFAS ADICIONAIS
+4/17/2020,119,"1870711,27",Ajuste de credito ref. Aplicação automatica,TARIFAS ADICIONAIS
+4/17/2020,-3398,"1867313,27",Pgto Scansource - Licença Kaspersky 2/3,TARIFAS ADICIONAIS
+4/17/2020,-18807,"1848506,27",Pgto Lote 45 NF 4725,TARIFAS ADICIONAIS
+4/17/2020,-9981,"1838525,27",Pgto Scansource - Cloud Service 204620 JAN/20,TARIFAS ADICIONAIS
+4/17/2020,-573,"1837952,27",Pgto Scansource - Cloud Service 206860 JAN/20,TARIFAS ADICIONAIS
+4/17/2020,-20,"1837932,27",Tarifa Bancária DOC/TED,TARIFAS ADICIONAIS
+4/20/2020,229,"1838161,27",Ajuste de credito ref. Aplicação automatica,TARIFAS ADICIONAIS
+4/20/2020,-9701,"1828460,27",Pgto Parcela 8/36 Financiamento,TARIFAS ADICIONAIS
+4/20/2020,-16,"1828444,27",Pgto DARF 1708 CRDC NF 16677,TARIFAS ADICIONAIS
+4/20/2020,-42,"1828402,27",Pgto DARF 1708 MSX Consult NF 858,TARIFAS ADICIONAIS
+4/20/2020,-46,"1828356,27",Pgto DARF 1708 MSX Consult NF 846,TARIFAS ADICIONAIS
+4/20/2020,-47,"1828309,27",Pgto DARF 1708 MSX Consult NF 849,TARIFAS ADICIONAIS
+4/20/2020,-52,"1828257,27",Pgto DARF 5952 CRDC NF 16677,TARIFAS ADICIONAIS
+4/20/2020,-100,"1828157,27",Pgto Voicecorp - linha contingencial,TARIFAS ADICIONAIS
+4/20/2020,-109,"1828048,27",Pgto Whirlpool,TARIFAS ADICIONAIS
+4/20/2020,-112,"1827936,27",Pgto DARF 1708 Balera Berbel NF 1941,TARIFAS ADICIONAIS
+4/20/2020,-113,"1827823,27",Pgto DARF 5952 MSX Consult NF 858,TARIFAS ADICIONAIS
+4/20/2020,-144,"1827679,27",Pgto DARF 5952 MSX Consult NF 846,TARIFAS ADICIONAIS
+4/20/2020,-145,"1827534,27",Pgto DARF 5952 MSX Consult NF 849,TARIFAS ADICIONAIS
+4/20/2020,-196,"1827338,27",Pgto DARF 1708 BDO Auditoria NF 58555,TARIFAS ADICIONAIS
+4/20/2020,-348,"1826990,27",Pgto DARF 5952 Balera Berbel NF 1941,TARIFAS ADICIONAIS
+4/20/2020,-360,"1826630,27",Pgto Net,TARIFAS ADICIONAIS
+4/20/2020,-409,"1826221,27",Pgto GPS C de Campos Trans e Serv Ter,TARIFAS ADICIONAIS
+4/20/2020,-610,"1825611,27",Pgto DARF 5952 BDO Auditoria NF 58555,TARIFAS ADICIONAIS
+4/20/2020,-649,"1824962,27",Pgto DARF 0561 IRRF/Folha,TARIFAS ADICIONAIS
+4/20/2020,-839,"1824123,27",Pgto DARF 1708 Montjoie NF 72,TARIFAS ADICIONAIS
+4/20/2020,-1110,"1823013,27",Pgto DARF 1708 Balera Berbel NF 1957,TARIFAS ADICIONAIS
+4/20/2020,-1496,"1821517,27",Pgto Asplan,TARIFAS ADICIONAIS
+4/20/2020,-1504,"1820013,27",Pgto DARF 1708 Guilherme B. NF 115,TARIFAS ADICIONAIS
+4/20/2020,-2602,"1817411,27",Pgto DARF 5952 Montjoie NF 72,TARIFAS ADICIONAIS
+4/20/2020,-3441,"1813970,27",Pgto DARF 5952 Balera Berbel NF 1957,TARIFAS ADICIONAIS
+4/20/2020,-4663,"1809307,27",Pgto DARF 5952 Guilherme B. NF 115,TARIFAS ADICIONAIS
+4/20/2020,-8002,"1801305,27",Pgto DARF 1708 Guilherme B. NF 113,TARIFAS ADICIONAIS
+4/20/2020,-8043,"1793262,27",Pgto GPS,TARIFAS ADICIONAIS
+4/20/2020,-24807,"1768455,27",Pgto DARF 5952 Guilherme B. NF 113,TARIFAS ADICIONAIS
+4/20/2020,-43236,"1725219,27",Pgto Anbima,TARIFAS ADICIONAIS
+4/22/2020,185,"1725404,27",Ajuste de credito ref. Aplicação automatica,TARIFAS ADICIONAIS
+4/22/2020,-2236,"1723168,27",Pgto Agencia Estado - Broadcast,TARIFAS ADICIONAIS
+4/23/2020,170,"1723338,27",Ajuste de credito ref. Aplicação automatica,TARIFAS ADICIONAIS
+4/23/2020,-1688,"1721650,27",Pgto Energia,TARIFAS ADICIONAIS
+4/24/2020,164,"1721814,27",Ajuste de credito ref. Aplicação automatica,TARIFAS ADICIONAIS
+4/24/2020,-1478,"1720336,27",Pgto Assist Locação/Impressões,TARIFAS ADICIONAIS
+4/27/2020,334,"1720670,27",Ajuste de credito ref. Aplicação automatica,TARIFAS ADICIONAIS
+4/27/2020,85000,"1805670,27",Credito FUNDO DE INVEST RENDA FIXA MONTE CARLO INSTITUCIONAL IMA-B 5 Taxa de Gestão FEV/20,TARIFAS ADICIONAIS
+4/27/2020,-72,"1805598,27",Pgto Grafica Venda Hoje - Banner e pedestal,TARIFAS ADICIONAIS
+4/27/2020,-776,"1804822,27",Pgto Editora Globo - Valor PRO Ferramenta e dados,TARIFAS ADICIONAIS
+4/27/2020,-980,"1803842,27",Pgto Editora Glovo - Valor PRO Disponibilização,TARIFAS ADICIONAIS
+8/28/2020,200,"1804042,27",Ajuste de credito ref. Aplicação automatica,TARIFAS ADICIONAIS
+4/28/2020,51473,"1855515,27",Credito Postalis Taxa Cobrança Mar/19,TARIFAS ADICIONAIS
+4/28/2020,-12030,"1843485,27",Pgto Alelo VR- MAI/20,TARIFAS ADICIONAIS
+4/28/2020,-792,"1842693,27",Pgto SP Trans - VT mai/20,TARIFAS ADICIONAIS
+4/28/2020,-72,"1842621,27",Pgto Grafica Venda Hoje - Banner e pedestal,TARIFAS ADICIONAIS
+4/29/2020,237,"1842858,27",Ajuste de credito ref. Aplicação automatica,TARIFAS ADICIONAIS
+4/29/2020,-546,"1842312,27",Pgto MM Primo NF 335704,TARIFAS ADICIONAIS
+4/29/2020,-500,"1841812,27",Pgto Criação e Imagem,TARIFAS ADICIONAIS
+4/29/2020,-10,"1841802,27",Tarifa Bancária DOC/TED,TARIFAS ADICIONAIS
+4/30/2020,224,"1842026,27",Ajuste de credito ref. Aplicação automatica,TARIFAS ADICIONAIS
+4/30/2020,-3800,"1838226,27",Pgto Sonchim Almeida Scarpa e Bragagnolo,TARIFAS ADICIONAIS
+4/30/2020,-3877,"1834349,27",Pgto Omega Assessoria NF 12547,TARIFAS ADICIONAIS
+4/30/2020,-8000,"1826349,27",Pgto Emeli Serviços - Honorários Dra Linéia Tollog e Portobello,TARIFAS ADICIONAIS
+4/30/2020,-7038,"1819311,27",Pgto Barela Berbel e Mitne NF 2107,FIXA
+4/30/2020,-15992,"1803319,27",Pgto DARF 8109 PIS FEV/20,FIXA
+4/30/2020,-27850,"1775469,27",Pgto QCP - Qualitas Capital Partners,FIXA
+4/30/2020,-2447,"1773022,27",Pgto Flávio Rietmann,FIXA
+4/30/2020,-40000,"1733022,27",Pgto Rodrigo Moratelli,PGTO FUNC.
+4/30/2020,-17000,"1716022,27",Pgto Guilherme Marques,PGTO FUNC.
+4/30/2020,-13200,"1702822,27",Pgto Danilo Tamburus,PGTO FUNC.
+4/30/2020,-13200,"1689622,27",Pgto Lidiberto,PGTO FUNC.
+4/30/2020,-13200,"1676422,27",Pgto Danilo Miura,PGTO FUNC.
+4/30/2020,-13200,"1663222,27",Pgto Mario,PGTO FUNC.
+4/30/2020,-13200,"1650022,27",Pgto Sergio Rossi,PGTO FUNC.
+4/30/2020,-9340,"1640682,27",Pgto Fabio Amaral,PGTO FUNC.
+4/30/2020,-8000,"1632682,27",Pgto Isadora Ferreira,PGTO FUNC.
+4/30/2020,-5000,"1627682,27",Pgto Leonardo de Luca,PGTO FUNC.
+4/30/2020,-5000,"1622682,27",Pgto Fernando Daier,PGTO FUNC.
+4/30/2020,-4500,"1618182,27",Pgto Paula Iglesias,PGTO FUNC.
+4/30/2020,-2300,"1615882,27",Pgto Leandro - Estagiário,PGTO FUNC.
+4/30/2020,-2300,"1613582,27",Pgto Andre - Estagiário,PGTO FUNC.
+4/30/2020,-1517,"1612065,27",Pgto Gisele Santos,PGTO FUNC.
+4/30/2020,-354,"1611711,27",Pgto Vale transporte - Andre,PGTO FUNC.
+4/30/2020,-392,"1611319,27",Pgto Vale transporte - Leandro,PGTO FUNC.
+4/30/2020,-83,"1611236,27",Tarifa Bancária DOC/TED,FIXA
+5/4/2020,503,"1611707,91",Ajuste de credito ref. Aplicação automatica,FIXA
+5/4/2020,75775,"1687482,91",Credito Postalis Taxa Performance Mar/19,FIXA
+5/4/2020,-9040,"1678442,91",Pgto Condomínio Ed Metropolitan,BANCO
+5/4/2020,-338,"1678104,91",Pgto Host Fiber - Link BKP,BANCO
+5/4/2020,-1352,"1676752,91",Pgto Host Fiber - Link Principal,BANCO
+5/4/2020,-1348,"1675404,91",Pgto Everton Mensageiro NF 067,BANCO
+5/4/2020,-472,"1674932,91",Pgto Signallink,BANCO
+5/4/2020,-35,"1674897,91",Pgto Cartão de Crédito Visa,BANCO
+5/5/2020,279,"1675176,91",Ajuste de credito ref. Aplicação automatica,BANCO
+5/5/2020,-3331,"1671845,91",Pgto Scansource Licença Firewall 1/3,BANCO
+5/5/2020,-1212,"1670633,91",Pgto PK12 Estacionamento NF 5195,BANCO
+5/5/2020,-31381,"1639252,91",Pgto JHSF Aluguel,BANCO
+5/5/2020,-17,"1639235,91",Anuidade Cartão de Credito,BANCO
+5/5/2020,-48,"1639187,91",Pgto Tarifa Bancária Pgto Func Net Empresa,BANCO
+5/6/2020,261,"1639448,91",Ajuste de credito ref. Aplicação automatica,BANCO
+5/6/2020,-3744,"1635704,91",Pgto C de Campos Trans e Serv Ter NF,BANCO
+5/6/2020,-2000,"1633704,91",Pgto Contabilidade NF 562,BANCO
+5/7/2020,272,"1633976,91",Ajuste de credito ref. Aplicação automatica,BANCO
+5/7/2020,253535,"1887511,91",Credito Symphony - Taxa Gestão Abr/20,BANCO
+5/7/2020,-88960,"1798551,91",Pgto Alux Wedemann Advocacia NF 001,BANCO
+5/7/2020,-210,"1798341,91",Pgto Prizemed,BANCO
+5/7/2020,-586,"1797755,91",Pgto FGTS,BANCO
+5/7/2020,-180,"1797575,91",Pgto Manutenção Ar Condicionado,BANCO
+5/8/2020,141,"1797716,91",Ajuste de credito ref. Aplicação automatica,BANCO
+5/8/2020,25000,"1822716,91",Credito Singapore - Taxa Gestão Abr/20,BANCO
+5/8/2020,17065,"1839781,91",Credito Multiplica - Taxa Gestão Abr/20,BANCO
+5/8/2020,26602,"1866383,91",Credito Veritas Apogeu I FIDC - Taxa Gestão - Abr/20,BANCO
+5/8/2020,28456,"1894839,91",Credito Veritas Apogeu FIM - Taxa Gestão Abr/20,BANCO
+5/8/2020,181499,"2076338,91",Credito NINKA - Taxa Gestão Abr/20,BANCO
+5/8/2020,181514,"2257852,91",Credito MERAK - Taxa Gestão Abr/20,BANCO
+5/8/2020,376332,"2634184,91",Credito Marte - Taxa Gestão Abr/20,BANCO
+5/8/2020,140984,"2775168,91",Credito CJP - Taxa Gestão - Abr/20,BANCO
+5/8/2020,85000,"2860168,91",Credito TMJ IMA-B - Taxa Gestão Abr/20,BANCO
+5/8/2020,20000,"2880168,91",Credito UM I A M FIRF Taxa de Gestão Abr3/20,BANCO
+5/8/2020,20000,"2900168,91",Credito UM I A M I FIRF Taxa de Gestão Abr/20,BANCO
+5/8/2020,30000,"2930168,91",Credito MLZ IMA-B FIRF Taxa de Gestão - Abr/20,BANCO
+5/8/2020,85000,"3015168,91",Credito FUNDO DE INVEST RENDA FIXA MONTE CARLO INSTITUCIONAL IMA-B 5 Taxa de Gestão Abr/20,BANCO
+5/8/2020,26637,"3041805,91",Credito PREMIUM IMA-B FUNDO DE INVESTIMENTO EM COTAS DE FUNDO DE INVESTIMENTO RENDA FIXA,BANCO
+5/8/2020,20182,"3061987,91",Credito Monza FI Multimercado - taxa de Gestão Abr/20,BANCO
+5/8/2020,35000,"3096987,91",Credito Fundo Barcelona Taxa Gestão Abril/2020,BANCO
+5/8/2020,-4423,"3092564,91",Pgto Sergio Belem NF 047,BANCO
+5/8/2020,-3543,"3089021,91",Pgto MSX Consult Nf 898,BANCO
+5/8/2020,-2940,"3086081,91",Pgto MSX Consult Nf 899,BANCO
+5/11/2020,145,"3086226,91",Ajuste de credito ref. Aplicação automatica,BANCO
+5/11/2020,9536,"3095762,91",Credito PRIME FUNDO DE INVESTIMENTO RENDA FIXA IMA-B,BANCO
+5/11/2020,-14077,"3081685,91",Pgto Azulsol Comunicações NF 1782,BANCO
+5/11/2020,-987,"3080698,91",Pgto Quick Soft,BANCO
+5/11/2020,-5600,"3075098,91",Pgto Bem Pericia e Avaliação NF 061,BANCO
+5/11/2020,-59538,"3015560,91",Pgto ISS,BANCO
+5/11/2020,-2180,"3013380,91",Pgto Prajna NF 6159,BANCO
+5/11/2020,-1899,"3011481,91",Pgto Fernando Hadad manutenção,BANCO
+5/11/2020,-10,"3011471,91",Tarifa Bancária DOC/TED,TARIFAS ADICIONAIS
+5/11/2020,-1420,"3010051,91",Pgto Cartão Credito Master,TARIFAS ADICIONAIS
+5/11/2020,-12,"3010039,91",Pgto Cartão de Crédito Elo,TARIFAS ADICIONAIS
+5/12/2020,149,"3010188,91",Ajuste de credito ref. Aplicação automatica,TARIFAS ADICIONAIS
+5/12/2020,-362,"3009826,91",Pgto Depreciação Veritas TOP,TARIFAS ADICIONAIS
+5/12/2020,-10,"3009816,91",Tarifa Bancária DOC/TED,FIXA
+5/13/2020,156,"3009972,91",Ajuste de credito ref. Aplicação automatica,FIXA
+5/13/2020,223410,"3233382,91",Credito Resgate Veritas TOP,BANCO
+5/13/2020,-664,"3232718,91",Pgto Imigrantes Bebidas,BANCO
+5/13/2020,-10841,"3221877,91",Devolução valor pago a maior pelo fundo Veritas TOP,BANCO
+5/13/2020,-10,"3221867,91",Tarifa Bancária DOC/TED,BANCO
+5/14/2020,164,"3222031,91",Ajuste de credito ref. Aplicação automatica,BANCO
+5/14/2020,25000,"3247031,91",Credito IMA-B 1000 FIC RENDA FIXA LP Taxa de Gestão Abr/20,BANCO
+5/14/2020,-500,"3246531,91",Pgto Criação e Imagem,BANCO
+5/14/2020,-43788,"3202743,91","Pgto Montjoie Acessoria NF074 R$ 46.658,33",BANCO
+5/14/2020,-468808,"2733935,91","Pgto Guilherme Bussadori NF121 R$ 499.529,73",BANCO
+5/14/2020,-31,"2733904,91",Tarfa Bancária DOC/TED,BANCO
+5/15/2020,151,"2734055,91",Ajuste de credito ref. Aplicação automatica,BANCO
+5/15/2020,-12312,"2721743,91",Pgto Auditoria BDO 4/4,BANCO
+5/15/2020,-11505,"2710238,91",Pgto Scansource - Cloud Service NF 120087 MAR/20,BANCO
+5/15/2020,-611,"2709627,91",Pgto Scansource - Cloud Service NF 120089 MAR/20,BANCO
+5/15/2020,-1418,"2708209,91",Pgto CRDC NF 17794,BANCO
+5/15/2020,-234,"2707975,91",Pgto Conect -Serasa 91712093,BANCO
+5/18/2020,198,"2708173,91",Ajuste de credito ref. Aplicação automatica,BANCO
+5/18/2020,-333,"2707840,91",Pgto Multa Velar,BANCO
+5/18/2020,-3398,"2704442,91",Pgto Scansource - Licença Kaspersky 3/3,BANCO
+5/18/2020,-18807,"2685635,91",Pgto Lote 45 NF 4834,BANCO
+5/19/2020,167,"2685802,91",ajuste de credito ref. Aplicação automatica,BANCO
+5/19/2020,-38,"2685764,91",Pgto DARF 1708 CRDC NF 117236,BANCO
+5/19/2020,-42,"2685722,91",Pgto DARF 1708 MSX Consult NF 877,BANCO
+5/19/2020,-47,"2685675,91",Pgto DARF 1708 MSX Consult NF 869,BANCO
+5/19/2020,-54,"2685621,91",Pgto DARF 1708 MSX Consult NF 868,BANCO
+5/19/2020,-100,"2685521,91",Pgto Voicecorp - linha contingencial,BANCO
+5/19/2020,-109,"2685412,91",Pgto Whirlpool,BANCO
+5/19/2020,-112,"2685300,91",Pgto DARF 1708 Balera Berbel NF 2107,BANCO
+5/19/2020,-118,"2685182,91",Pgto DARF 5952 CRDC NF 117236,BANCO
+5/19/2020,-131,"2685051,91",Pgto DARF 5952 MSX Consult NF 877,BANCO
+5/19/2020,-145,"2684906,91",Pgto DARF 5952 MSX Consult NF 869,BANCO
+5/19/2020,-167,"2684739,91",Pgto DARF 5952 MSX Consult NF 8868,BANCO
+5/19/2020,-196,"2684543,91",Pgto DARF 1708 BDO Auditoria NF 59523,BANCO
+5/19/2020,-225,"2684318,91",Pgto DARF 1708 Azulsol Comum NF 1782,BANCO
+5/19/2020,-348,"2683970,91",Pgto DARF 5952 Balera Berbel NF 2107,BANCO
+5/19/2020,-360,"2683610,91",Pgto Net,BANCO
+5/19/2020,-401,"2683209,91",Pgto GPS C de Campos Trans e Serv Ter,BANCO
+5/19/2020,-610,"2682599,91",Pgto DARF 5952 BDO Auditoria NF 59523,BANCO
+5/19/2020,-649,"2681950,91",Pgto DARF 0561 IRRF/Folha,BANCO
+5/19/2020,-697,"2681253,91",Pgto DARF 5952 Azulsol Comum NF 1782,BANCO
+5/19/2020,-1042,"2680211,91",Pgto DARF 1708 Balera Berbel NF 1958,BANCO
+5/19/2020,-1058,"2679153,91",Pgto DARF 1708 Montjoie NF 73,BANCO
+5/19/2020,-1496,"2677657,91",Pgto Asplan,BANCO
+5/19/2020,-3231,"2674426,91",Pgto DARF 5952 Balera Berbel NF 1958,BANCO
+5/19/2020,-3282,"2671144,91",Pgto DARF 5952 Montjoie NF 73,BANCO
+5/19/2020,-7376,"2663768,91",Pgto GPS,BANCO
+5/19/2020,-12010,"2651758,91",Pgto DARF 1708 Guilherme B. NF 118,BANCO
+5/19/2020,-37231,"2614527,91",Pgto DARF 5952 Guilherme B. NF 118,BANCO
+5/19/2020,-43682,"2570845,91",Pgto Anbima,BANCO
+5/20/2020,166,"2571011,91",Ajuste de credito ref. Aplicação automatica,BANCO
+5/20/2020,-9701,"2561310,91",Pgto Parcela 9/36 Financiamento,BANCO
+5/21/2020,180,"2561490,91",Ajuste de credito ref. Aplicação automatica,BANCO
+5/21/2020,-2656,"2558834,91",Pgto MSX Consult Nf 901,BANCO
+5/21/2020,-1406,"2557428,91",Pgto Energia,BANCO
+5/21/2020,-10,"2557418,91",Tarifa Bancária DOC/TED,BANCO
+5/22/2020,179,"2557597,91",Ajuste de credito ref. Aplicação automatica,BANCO
+5/25/2020,275,"2557872,91",Ajuste de credito ref. Aplicação automatica,BANCO
+5/25/2020,15155,"2573027,91",Credito Postalis Taxa Performance Abr/19,BANCO
+5/25/2020,-889,"2572138,91",Pgto Assist Locação e Impressão,BANCO
+5/25/2020,-2236,"2569902,91",Pgto Agencia Estado - Broadcast,BANCO
+5/26/2020,205,"2570107,91",Ajuste de credito ref. Aplicação automatica,BANCO
+5/26/2020,51473,"2621580,91",Credito Postalis Taxa Cobrança Abr/19,BANCO
+5/27/2020,223,"2621803,91",Ajuste de credito ref. Aplicação automatica,BANCO
+5/27/2020,120000,"2741803,91","Credito São Domingos Taxas de Gestão Jan, Fev, Mar e Abr/20",BANCO
+5/27/2020,-12660,"2729143,91",Pgto Alelo VR- Jun/20,BANCO
+5/27/2020,-831,"2728312,91",Pgto SP Trans - VT Jun/20,BANCO
+5/27/2020,-776,"2727536,91",Pgto Editora Globo - Valor PRO Ferramenta e dados,BANCO
+5/27/2020,-980,"2726556,91",Pgto Editora Glovo - Valor PRO Disponibilização,BANCO
+5/27/2020,-850000,"1876556,91",Envio Credito Veritas Cratos Ibovespa Institucional FIA,BANCO
+5/27/2020,-10,"1876546,91",Tarifa Bancária DOC/TED,BANCO
+5/28/2020,159,"1876705,91",Ajuste de credito ref. Aplicação automatica,BANCO
+5/29/2020,169,"1876874,91",Ajuste de credito ref. Aplicação automatica,BANCO
+5/29/2020,-3800,"1873074,91",Pgto Sonchim Almeida Scarpa e Bragagnolo,BANCO
+5/29/2020,-3877,"1869197,91",Pgto Omega Assessoria NF 12646,BANCO
+5/29/2020,-8000,"1861197,91",Pgto Emeli Serviços - Honorários Dra Linéia Tollog e Portobello,BANCO
+5/29/2020,-7038,"1854159,91",Pgto Barela Berbel e Mitne NF 2301,BANCO
+5/29/2020,-30000,"1824159,91",Pgto Alux Wedemann Advocacia NF 002,BANCO
+5/29/2020,-27517,"1796642,91",Pgto QCP - Qualitas Capital Partners,BANCO
+5/29/2020,-2447,"1794195,91",Pgto Flávio Rietmann,BANCO
+5/29/2020,-40000,"1754195,91",Pgto Rodrigo Moratelli,BANCO
+5/29/2020,-17000,"1737195,91",Pgto Guilherme Marques,BANCO
+5/29/2020,-13200,"1723995,91",Pgto Danilo Tamburus,BANCO
+5/29/2020,-13200,"1710795,91",Pgto Lidiberto,PGTO FUNC.
+5/29/2020,-13200,"1697595,91",Pgto Danilo Miura,PGTO FUNC.
+5/29/2020,-13200,"1684395,91",Pgto Mario,PGTO FUNC.
+5/29/2020,-13200,"1671195,91",Pgto Sergio Rossi,PGTO FUNC.
+5/29/2020,-9340,"1661855,91",Pgto Fabio Amaral,PGTO FUNC.
+5/29/2020,-8000,"1653855,91",Pgto Isadora Ferreira,PGTO FUNC.
+5/29/2020,-5000,"1648855,91",Pgto Leonardo de Luca,PGTO FUNC.
+5/29/2020,-5000,"1643855,91",Pgto Fernando Daier,PGTO FUNC.
+5/29/2020,-4500,"1639355,91",Pgto Paula Iglesias,PGTO FUNC.
+5/29/2020,-2300,"1637055,91",Pgto Leandro - Estagiário,PGTO FUNC.
+5/29/2020,-2300,"1634755,91",Pgto Andre - Estagiário,PGTO FUNC.
+5/29/2020,-1517,"1633238,91",Pgto Gisele Santos,PGTO FUNC.
+5/29/2020,-371,"1632867,91",Pgto Vale transporte - Andre,PGTO FUNC.
+5/29/2020,-411,"1632456,91",Pgto Vale transporte - Leandro,PGTO FUNC.
+5/29/2020,-83,"1632373,91",Tarifa Bancária DOC/TED,PGTO FUNC.
+6/1/2020,284,"1632633,73",Ajuste de credito ref. Aplicação automatica,PGTO FUNC.
+6/1/2020,-9040,"1623593,73",Pgto Condomínio Ed Metropolitan,TARIFAS ADICIONAIS
+6/1/2020,-200000,"1423593,73",Pgto QCP - Qualitas Capital Partners,TARIFAS ADICIONAIS
+6/1/2020,-200000,"1223593,73",Pgto Rodrigo Moratelli,BANCO
+6/1/2020,-18612,"1204981,73",Pgto Guilherme Marques,BANCO
+6/1/2020,-3637,"1201344,73",Pgto Danilo Tamburus,BANCO
+6/1/2020,-752,"1200592,73",Pgto Isadora Ferreira,FIXA
+6/1/2020,-129,"1200463,73",Pgto Cartão de Crédito Visa,FIXA
+6/2/2020,141,"1200604,73",Ajuste de credito ref. Aplicação automatica,PGTO FUNC.
+6/2/2020,-48,"1200556,73",Pgto Tarifa Bancária Pgto Func Net Empresa,PGTO FUNC.
+6/3/2020,131,"1200687,73",Ajuste de credito ref. Aplicação automatica,PGTO FUNC.
+6/3/2020,241093,"1441780,73",Credito Symphony - Taxa Gestão Mai/20,PGTO FUNC.
+6/3/2020,-338,"1441442,73",Pgto Host Fiber - Link BKP,FIXA
+6/3/2020,-1352,"1440090,73",Pgto Host Fiber - Link Principal,BANCO
+6/3/2020,-1426,"1438664,73",Pgto Everton Mensageiro NF 71,BANCO
+6/4/2020,139,"1438803,73",Ajuste de credito ref. Aplicação automatica,BANCO
+6/4/2020,-472,"1438331,73",Pgto Signallink,BANCO
+6/4/2020,-164,"1438167,73",Matricula - Taquaruçu 1 FII SÃO DOMINGOS,BANCO
+6/4/2020,-164,"1438003,73",Matricula - Taquaruçu 2 FII SÃO DOMINGOS,BANCO
+6/4/2020,-189,"1437814,73",Matricula - Paulinia FII SÃO DOMINGOS,BANCO
+6/4/2020,-151,"1437663,73",Matricula - San Benedetto FII SÃO DOMINGOS,BANCO
+6/4/2020,-189,"1437474,73",Matricula - Santo André FII SÃO DOMINGOS,BANCO
+6/4/2020,-189,"1437285,73",Matricula - Seasons FII SÃO DOMINGOS,BANCO
+6/4/2020,-149,"1437136,73",Matricula - Terras FII SÃO DOMINGOS,BANCO
+6/4/2020,-164,"1436972,73",Matricula - Veredas do Lago FII SÃO DOMINGOS,BANCO
+6/5/2020,166,"1437138,73",Ajuste de credito ref. Aplicação automatica,BANCO
+6/5/2020,30000,"1467138,73",Credito São Domingos Taxas de Gestão Mai/20,BANCO
+6/5/2020,25000,"1492138,73",Credito IMA-B 1000 FIC RENDA FIXA LP Taxa de Gestão Mai/20,BANCO
+6/5/2020,9551,"1501689,73",Credito PRIME FUNDO DE INVESTIMENTO RENDA FIXA IMA-B Mai/20,BANCO
+6/5/2020,25000,"1526689,73",Credito Singapore - Taxa GestãoMai/20,BANCO
+6/5/2020,15099,"1541788,73",Credito Multiplica - Taxa Gestão Mai/20,BANCO
+6/5/2020,26602,"1568390,73",Credito Veritas Apogeu I FIDC - Taxa Gestão - Mai/20,BANCO
+6/5/2020,28635,"1597025,73",Credito Veritas Apogeu FIM - Taxa Gestão Mai/20,BANCO
+6/5/2020,8622,"1605647,73",Credito NINKA - Taxa Gestão Mai/20,BANCO
+6/5/2020,182768,"1788415,73",Credito MERAK - Taxa Gestão Mai/20,BANCO
+6/5/2020,152133,"1940548,73",Credito Marte - Taxa Gestão Mai/20,BANCO
+6/5/2020,140921,"2081469,73",Credito CJP - Taxa Gestão - Mai/20,BANCO
+6/5/2020,85000,"2166469,73",Credito TMJ IMA-B - Taxa Gestão Mai/20,BANCO
+6/5/2020,20000,"2186469,73",Credito UM I A M FIRF Taxa de Gestão Mai/20,BANCO
+6/5/2020,20000,"2206469,73",Credito UM I A M II FIRF Taxa de Gestão Mai/20,BANCO
+6/5/2020,30000,"2236469,73",Credito MLZ IMA-B FIRF Taxa de Gestão - Mai/20,BANCO
+6/5/2020,85000,"2321469,73",Credito FUNDO DE INVEST RENDA FIXA MONTE CARLO INSTITUCIONAL IMA-B 5 Taxa de Gestão Mai/20,BANCO
+6/5/2020,26624,"2348093,73",Credito PREMIUM IMA-B FUNDO DE INVESTIMENTO EM COTAS DE FUNDO DE INVESTIMENTO RENDA FIXA,BANCO
+6/5/2020,19763,"2367856,73",Credito Monza FI Multimercado - taxa de Gestão Mai/20,BANCO
+6/5/2020,35000,"2402856,73",Credito Fundo Barcelona Taxa Gestão Mai/2020,BANCO
+6/5/2020,96961,"2499817,73",Credito Terra Nova IMA-B RENDA FIXA II,BANCO
+6/5/2020,107859,"2607676,73",Credito Terra Nova IMA-B Renda Fixa,BANCO
+6/5/2020,-210,"2607466,73",Pgto Prizemed,BANCO
+6/5/2020,-586,"2606880,73",Pgto FGTS,BANCO
+6/5/2020,-31381,"2575499,73",Pgto JHSF Aluguel,BANCO
+6/5/2020,-3744,"2571755,73",Pgto C de Campos Trans e Serv Ter NF,BANCO
+6/5/2020,-3625,"2568130,73",Pgto MSX Consult Nf 910,BANCO
+6/5/2020,-2968,"2565162,73",Pgto MSX Consult Nf 909,BANCO
+6/5/2020,-2000,"2563162,73",Pgto Contabilidade NF 586,BANCO
+6/5/2020,-79460,"2483702,73",Pgto DARF 2172 Cofins FEV/20,BANCO
+6/5/2020,-302,"2483400,73",Pgto GPS 13/2019,BANCO
+6/5/2020,-180,"2483220,73",Pgto Manutenção Ar Condicionado - João Paulo da Silva,BANCO
+6/5/2020,-10,"2483210,73",Tarifa Bancária DOC/TED,BANCO
+6/5/2020,-17,"2483193,73",Anuidade Cartão de Credito,BANCO
+6/8/2020,307,"2483500,73",Ajuste de credito ref. Aplicação automatica,BANCO
+6/8/2020,44955,"2528455,73",Credito Terra Nova IMA-B Renda Fixa,BANCO
+6/8/2020,-987,"2527468,73",Pgto Quick Soft NF 35597,BANCO
+6/9/2020,175,"2527643,73",Ajuste de credito ref. Aplicação automatica,BANCO
+6/9/2020,-14,"2527629,73",Pgto 99 Tecnologia,BANCO
+6/9/2020,-5600,"2522029,73",Pgto Bem Pericia e Avaliação NF 63,BANCO
+6/9/2020,-98500,"2423529,73",Pgto Alux Wedemann Advocacia NF 003,BANCO
+6/9/2020,-10,"2423519,73",Tarifa Bancária DOC/TED,BANCO
+6/10/2020,180,"2423699,73",Ajuste de credito ref. Aplicação automatica,BANCO
+6/10/2020,30967,"2454666,73",Credito VIA para VCM,BANCO
+6/10/2020,-3329,"2451337,73",Pgto Scansource Licença Firewall 2/3,BANCO
+6/10/2020,-37847,"2413490,73",Pgto ISS,BANCO
+6/10/2020,-38,"2413452,73",Pgto Cartório,BANCO
+6/10/2020,-2180,"2411272,73",Pgto Prajna NF 6355,BANCO
+6/10/2020,-766,"2410506,73",Pgto Depreciação Veritas TOP,BANCO
+6/10/2020,-15483,"2395023,73",Pgto Adiantamento a func. Desp Adm - Rodrigo,BANCO
+6/10/2020,-15483,"2379540,73",Pgto Adiantamento a func. Desp Adm - Qualitas,BANCO
+6/10/2020,-14077,"2365463,73",Pgto Azulsol Comunicações NF 1797,BANCO
+6/10/2020,-31,"2365432,73",Tarifa Bancária DOC/TED,BANCO
+6/10/2020,-524,"2364908,73",Pgto Cartão de Crédito Elo,BANCO
+6/10/2020,-1649,"2363259,73",Pgto Cartão Credito Master,BANCO
+6/12/2020,133,"2363392,73",Ajuste de credito ref. Aplicação automatica,BANCO
+6/12/2020,-2656,"2360736,73",Pgto MSX Consult Nf 919,BANCO
+6/12/2020,-500,"2360236,73",Pgto Criação e Imagem,BANCO
+6/12/2020,-31,"2360205,73",Tarifa Bancária DOC/TED,BANCO
+6/15/2020,165,"2360370,73",Ajuste de credito ref. Aplicação automatica,BANCO
+6/15/2020,-8064,"2352306,73",Pgto Omega Assessoria NF 12749,BANCO
+6/15/2020,-1212,"2351094,73",Pgto PK12 Estacionamento NF,BANCO
+6/15/2020,-736,"2350358,73",Pgto Scansource - Cloud Service NF 124153,BANCO
+6/15/2020,-11287,"2339071,73",Pgto Scansource - Cloud Service NF,BANCO
+6/15/2020,-2051,"2337020,73",Pgto CRDC NF 18343,BANCO
+6/15/2020,-739,"2336281,73",Pgto Conect -Serasa NF 187603,BANCO
+6/15/2020,-10,"2336271,73",Tarifa Bancária DOC/TED,BANCO
+6/16/2020,143,"2336414,73",Ajuste de credito ref. Aplicação automatica,BANCO
+6/16/2020,-26288,"2310126,73","Pgto Montjoie Acessoria NF 28.011,20",BANCO
+6/16/2020,-261978,"2048148,73","Pgto Guilherme Bussadori NF 279.146,31",BANCO
+6/16/2020,-20,"2048128,73",Tarifa Bancária DOC/TED,BANCO
+6/17/2020,123,"2048251,73",Ajuste de credito ref. Aplicação automatica,BANCO
+6/17/2020,-164,"2048087,73",Pgto Matricula - Hotel Economico Terra Nova FIEF institucional IMA-B,BANCO
+6/18/2020,136,"2048223,73",Ajuste de credito ref. Aplicação automatica,BANCO
+6/18/2020,-18807,"2029416,73",Pgto Lote 45 NF 4918,BANCO
+6/18/2020,-426,"2028990,73",Pgto Bebidas Imigrantes Pedido 1753,BANCO
+6/19/2020,110,"2029100,73",Ajuste de credito ref. Aplicação automatica,BANCO
+6/19/2020,-22,"2029078,73",Pgto DARF 1708 CRDC NF 17794,BANCO
+6/19/2020,-42,"2029036,73",Pgto DARF 1708 MSX Consult NF 901,BANCO
+6/19/2020,-47,"2028989,73",Pgto DARF 1708 MSX Consult NF 899,BANCO
+6/19/2020,-56,"2028933,73",Pgto DARF 1708 MSX Consult NF 898,BANCO
+6/19/2020,-70,"2028863,73",Pgto DARF 5952 CRDC NF 17794,BANCO
+6/19/2020,-100,"2028763,73",Pgto Voicecorp - linha contingencial,BANCO
+6/19/2020,-109,"2028654,73",Pgto Whirlpool,BANCO
+6/19/2020,-112,"2028542,73",Pgto DARF 1708 Balera Berbel NF 2301,BANCO
+6/19/2020,-131,"2028411,73",Pgto DARF 5952 MSX Consult NF 901,BANCO
+6/19/2020,-145,"2028266,73",Pgto DARF 5952 MSX Consult NF 899,BANCO
+6/19/2020,-175,"2028091,73",Pgto DARF 5952 MSX Consult NF 898,BANCO
+6/19/2020,-196,"2027895,73",Pgto DARF 1708 BDO Auditoria NF 60436,BANCO
+6/19/2020,-225,"2027670,73",Pgto DARF 1708 Azulsol Comum NF 1790,BANCO
+5/19/2020,-348,"2027322,73",Pgto DARF 5952 Balera Berbel NF 2301,BANCO
+6/19/2020,-370,"2026952,73",Pgto Net,BANCO
+6/19/2020,-406,"2026546,73",Pgto GPS C de Campos Trans e Serv Ter,BANCO
+6/19/2020,-610,"2025936,73",Pgto DARF 5952 BDO Auditoria NF 60436,BANCO
+6/19/2020,-649,"2025287,73",Pgto DARF 0561 IRRF/Folha,BANCO
+6/19/2020,-697,"2024590,73",Pgto DARF 5952 Azulsol Comum NF 1790,BANCO
+6/19/2020,-699,"2023891,73",Pgto DARF 1708 Montjoie NF 74,BANCO
+6/19/2020,-1593,"2022298,73",Pgto Asplan,BANCO
+6/19/2020,-2169,"2020129,73",Pgto DARF 5952 Montjoie NF 74,BANCO
+6/19/2020,-7376,"2012753,73",Pgto GPS,BANCO
+6/19/2020,-7492,"2005261,73",Pgto DARF 1708 Guilherme B. NF 121,BANCO
+6/19/2020,-23228,"1982033,73",Pgto DARF 5952 Guilherme B. NF 121,BANCO
+6/19/2020,-43682,"1938351,73",Pgto Anbima,BANCO
+6/22/2020,178,"1938529,73",Ajuste de credito ref. Aplicação automatica,BANCO
+6/22/2020,-9701,"1928828,73",Pgto Parcela 10/36 Financiamento,BANCO
+6/22/2020,-1115,"1927713,73",Pgto Energia,BANCO
+6/22/2020,-865,"1926848,73",Pgto Assist Locação e Impressão,BANCO
+6/22/2020,-2236,"1924612,73",Pgto Agencia Estado - Broadcast,FIXA
+6/23/2020,117,"1924729,73",Ajuste de credito ref. Aplicação automatica,FIXA
+6/23/2020,14285,"1939014,73",Credito Liquidação fundo UM I A M II FIRF Taxa de Gestão Jun/20,FIXA
+6/24/2020,131,"1939145,73",Ajuste de credito ref. Aplicação automatica,TARIFAS ADICIONAIS
+6/24/2020,-776,"1938369,73",Pgto Editora Globo - Valor PRO Ferramenta e dados,TARIFAS ADICIONAIS
+6/24/2020,-980,"1937389,73",Pgto Editora Glovo - Valor PRO Disponibilização,TARIFAS ADICIONAIS
+6/25/2020,130,"1937519,73",Ajuste de credito ref. Aplicação automatica,TARIFAS ADICIONAIS
+6/26/2020,133,"1937652,73",Ajuste de credito ref. Aplicação automatica,TARIFAS ADICIONAIS
+6/26/2020,-13209,"1924443,73",Pgto Alelo VR- Jul/20,TARIFAS ADICIONAIS
+6/26/2020,-871,"1923572,73",Pgto SP Trans - VT Jul/20,TARIFAS ADICIONAIS
+6/29/2020,238,"1923810,73",Ajuste de credito ref. Aplicação automatica,TARIFAS ADICIONAIS
+6/30/2020,160,"1923970,73",Ajuste de credito ref. Aplicação automatica,TARIFAS ADICIONAIS
+6/30/2020,-7500,"1916470,73",Pgto Aline C Mathias - representação Portobello 15 dias Junho/Julho 2020,TARIFAS ADICIONAIS
+6/30/2020,-3800,"1912670,73",Pgto Sonchim Almeida Scarpa e Bragagnolo,TARIFAS ADICIONAIS
+6/30/2020,-3877,"1908793,73",Pgto Omega Assessoria NF 12789,TARIFAS ADICIONAIS
+6/30/2020,-12000,"1896793,73",Pgto Emeli Serviços - Honorários Dra Linéia Tollog e Portobello,BANCO
+6/30/2020,-7038,"1889755,73",Pgto Barela Berbel e Mitne NF 2493,BANCO
+6/30/2020,-364,"1889391,73",Pgto Fabio Amaral despesas VIP,BANCO
+6/30/2020,-500000,"1389391,73",Apilcação Veritas Imperium,BANCO
+6/30/2020,-327,"1389064,73",Pgto Stamples do Brasil - compra Sulfite,BANCO
+6/30/2020,-31,"1389033,73",Tarifa Bancária DOC/TED,BANCO
+6/30/2020,-172423,"1216610,73",Pgto IRPJ 04 TRIM 3/3,BANCO
+6/30/2020,-63780,"1152830,73",Pgto CSLL 04 TRIM 3/3,BANCO
+7/1/2020,100,"1152903,99",Ajuste de credito ref. Aplicação automatica,BANCO
+7/1/2020,-9040,"1143863,99",Pgto Condomínio Ed Metropolitan,BANCO
+7/1/2020,-27850,"1116013,99",Pgto QCP - Qualitas Capital Partners,BANCO
+7/1/2020,-2447,"1113566,99",Pgto Flávio Rietmann,BANCO
+7/1/2020,-40000,"1073566,99",Pgto Rodrigo Moratelli,BANCO
+7/1/2020,-17000,"1056566,99",Pgto Guilherme Marques,BANCO
+7/1/2020,-13200,"1043366,99",Pgto Danilo Tamburus,BANCO
+7/1/2020,-13200,"1030166,99",Pgto Lidiberto,FIXA
+7/1/2020,-13200,"1016966,99",Pgto Danilo Miura,FIXA
+7/1/2020,-13200,"1003766,99",Pgto Mario,PGTO FUNC.
+7/1/2020,-13200,"990566,99",Pgto Sergio Rossi,PGTO FUNC.
+7/1/2020,-9340,"981226,99",Pgto Fabio Amaral,PGTO FUNC.
+7/1/2020,-8000,"973226,99",Pgto Isadora Ferreira,PGTO FUNC.
+7/1/2020,-5000,"968226,99",Pgto Leonardo de Luca,PGTO FUNC.
+7/1/2020,-5000,"963226,99",Pgto Fernando Daier,PGTO FUNC.
+7/1/2020,-4500,"958726,99",Pgto Paula Iglesias,PGTO FUNC.
+7/1/2020,-2300,"956426,99",Pgto Leandro - Estagiário,PGTO FUNC.
+7/1/2020,-2300,"954126,99",Pgto Andre - Estagiário,PGTO FUNC.
+7/1/2020,-1517,"952609,99",Pgto Gisele Santos,PGTO FUNC.
+7/1/2020,-389,"952220,99",Pgto Vale transporte - Andre,PGTO FUNC.
+7/1/2020,-431,"951789,99",Pgto Vale transporte - Leandro,PGTO FUNC.
+7/1/2020,-10,"951779,99",Tarifa Bancária DOC/TED,PGTO FUNC.
+7/1/2020,-25,"951754,99",Pgto Cartão de Crédito Visa,PGTO FUNC.
+7/2/2020,84,"951838,99",Ajuste de credito ref. Aplicação automatica,PGTO FUNC.
+7/2/2020,-135000,"816838,99",QCP - Qualitas Capital Partners,PGTO FUNC.
+7/2/2020,-135000,"681838,99",Rodrigo Moratelli,FIXA
+7/2/2020,-220000,"461838,99",Guilherme Marques,FIXA
+7/2/2020,-135000,"326838,99",Danilo Tamburus,TARIFAS ADICIONAIS
+7/2/2020,-80000,"246838,99",Isadora Ferreira,TARIFAS ADICIONAIS
+7/2/2020,-35000,"211838,99",Lidiberto,BANCO
+7/2/2020,-20000,"191838,99",Leonardo de Luca,BANCO
+7/2/2020,-20000,"171838,99",Mario,PGTO FUNC.
+7/2/2020,-20000,"151838,99",Danilo Miura,PGTO FUNC.
+7/2/2020,-15000,"136838,99",Fabio Amaral,PGTO FUNC.
+7/2/2020,-17000,"119838,99",Sergio Rossi,PGTO FUNC.
+7/2/2020,-15000,"104838,99",Fernando Daier,PGTO FUNC.
+7/2/2020,-8000,"96838,99",Paula Iglesias,PGTO FUNC.
+7/2/2020,-8422,"88416,99",Eduardo NF 121,PGTO FUNC.
+7/2/2020,-146,"88270,99",Tarifa Bancária DOC/TED,PGTO FUNC.
+7/3/2020,9,"88279,99",Ajuste de credito ref. Aplicação automatica,PGTO FUNC.
+7/3/2020,21739,"110018,99",Credito UM I A MFIRF - Taxa Gestão Jun e Jul/20,PGTO FUNC.
+7/3/2020,241140,"351158,99",Credito Symphony - Taxa Gestão Jun/20,PGTO FUNC.
+7/3/2020,1789510,"2140668,99",Credito Symphony - Taxa Performance 1° Sem/20,PGTO FUNC.
+7/3/2020,-6316,"2134352,99",Eduardo NF 122,TARIFAS ADICIONAIS
+7/3/2020,-338,"2134014,99",Pgto Host Fiber - Link BKP,BANCO
+7/3/2020,-1352,"2132662,99",Pgto Host Fiber - Link Principal,BANCO
+7/3/2020,-915,"2131747,99",Pgto Everton Mensageiro NF 073,BANCO
+7/3/2020,-290,"2131457,99",Pgto Certisig renovação certificado Digital - Eduardo Soares,BANCO
+7/3/2020,-2000,"2129457,99",Pgto Contabilidade NF 610,BANCO
+7/3/2020,-20,"2129437,99",Tarifa Bancária DOC/TED,BANCO
+7/6/2020,-69,"2129368,99",Ajuste de credito ref. Aplicação automatica,BANCO
+7/6/2020,51473,"2180841,99",Credito Postalis Taxa Cobrança Mai/19,BANCO
+7/6/2020,15155,"2195996,99",Credito Postalis Taxa Performance Mai/19,BANCO
+7/6/2020,51473,"2247469,99",Credito Postalis Taxa Cobrança Jun/19,BANCO
+7/6/2020,15155,"2262624,99",Credito Postalis Taxa Performance Jun/19,BANCO
+7/6/2020,-872600,"1390024,99",QCP - Qualitas Capital Partners,BANCO
+7/6/2020,-872600,"517424,99",Rodrigo Moratelli,BANCO
+7/6/2020,-65687,"451737,99",Guilherme Marques,BANCO
+7/6/2020,-12837,"438900,99",Danilo Tamburus,BANCO
+7/6/2020,-2652,"436248,99",Isadora Ferreira,BANCO
+7/6/2020,-31381,"404867,99",Pgto JHSF Aluguel,BANCO
+7/6/2020,-500,"404367,99",Pgto Criação e Imagem,BANCO
+7/6/2020,-3746,"400621,99",Pgto C de Campos Trans e Serv Ter NF 929,PGTO FUNC.
+7/6/2020,-3465,"397156,99",Pgto MSX Consult Nf 935,PGTO FUNC.
+7/6/2020,-2940,"394216,99",Pgto MSX Consult Nf 933,PGTO FUNC.
+7/6/2020,-380,"393836,99",Pgto Manutenção Fernando Hadad,PGTO FUNC.
+7/6/2020,-73,"393763,99",Tarifa Bancária DOC/TED,REEMBOLSO
+7/6/2020,-4,"393759,99",Pgto Tarifa Bancária Pgto Func Net Empresa,REEMBOLSO
+7/6/2020,-17,"393742,99",Anuidade Cartão de Credito,REEMBOLSO
+7/7/2020,60,"393802,99",Ajuste de credito ref. Aplicação automatica,REEMBOLSO
+7/7/2020,26602,"420404,99",Credito Veritas Apogeu I FIDC - Taxa Gestão - Jun/20,REEMBOLSO
+7/7/2020,30212,"450616,99",Credito Veritas Apogeu FIM - Taxa Gestão Jun/20,REEMBOLSO
+7/7/2020,184884,"635500,99",Credito Veritas Apogeu FIM - Taxa Perform 1° sem/20,REEMBOLSO
+7/7/2020,192054,"827554,99",Credito MERAK - Taxa Gestão Jun/20,REEMBOLSO
+7/7/2020,1373375,"2200929,99",Credito MERAK - Taxa Performance 1° sem/20,REEMBOLSO
+7/7/2020,9060,"2209989,99",Credito NINKA - Taxa Gestão Jun/20,REEMBOLSO
+7/7/2020,1391422,"3601411,99",Credito NINKA - Taxa Performance 1° sem/20,REEMBOLSO
+7/7/2020,180143,"3781554,99",Credito Marte - Taxa Gestão Jun/20,REEMBOLSO
+7/7/2020,15998,"3797552,99",Credito Multiplica - Taxa Gestão Jun/20,REEMBOLSO
+7/7/2020,25000,"3822552,99",Credito IMA-B 1000 FIC RENDA FIXA LP Taxa de Gestão Jun/20,REEMBOLSO
+7/7/2020,30000,"3852552,99",Credito MLZ IMA-B FIRF Taxa de Gestão - Jun/20,REEMBOLSO
+7/7/2020,30000,"3882552,99",Credito São Domingos Taxas de Gestão Jun/20,REEMBOLSO
+7/7/2020,85000,"3967552,99",Credito TMJ IMA-B - Taxa Gestão Jun/20,REEMBOLSO
+7/7/2020,35000,"4002552,99",Credito Fundo Barcelona Taxa Gestão Jun/2020,REEMBOLSO
+7/7/2020,85000,"4087552,99",Credito FUNDO DE INVEST RENDA FIXA MONTE CARLO INSTITUCIONAL IMA-B 5 Taxa de Gestão Jun/20,REEMBOLSO
+7/7/2020,20729,"4108281,99",Credito Monza FI Multimercado - taxa de Gestão Jun/20,REEMBOLSO
+7/7/2020,10042,"4118323,99",Credito PRIME FUNDO DE INVESTIMENTO RENDA FIXA IMA-B Jun/20,REEMBOLSO
+7/7/2020,27922,"4146245,99",Credito PREMIUM IMA-B FUNDO DE INVESTIMENTO EM COTAS DE FUNDO DE INVESTIMENTO RENDA FIXA tyx Jun/20,REEMBOLSO
+7/7/2020,92826,"4239071,99",Credito CJP - Taxa Gestão - Jun/20,REEMBOLSO
+7/7/2020,26676,"4265747,99",Credito Terra Nova IMA-B Renda Fixa TX Jun/20,REEMBOLSO
+7/7/2020,1883,"4267630,99",Credito Terra Nova FIC FIRF TAXA DE GESTÃO DEZ/19,REEMBOLSO
+7/7/2020,-210,"4267420,99",Pgto Prizemed,REEMBOLSO
+7/7/2020,-586,"4266834,99",Pgto FGTS,REEMBOLSO
+7/7/2020,-5499,"4261335,99",Pgto AR Projeto Ambiental NF 4285 1/2,REEMBOLSO
+7/8/2020,5,"4261340,99",Ajuste de credito ref. Aplicação automatica,REEMBOLSO
+7/8/2020,50766,"4312106,99",Credito Terra Nova IMA-B RENDA FIXA II TX Jun/20,REEMBOLSO
+7/8/2020,-1034,"4311072,99",Pgto Quick Soft NF 36304,REEMBOLSO
+7/8/2020,-1675,"4309397,99",Pgto Depreciação Veritas TOP,REEMBOLSO
+7/8/2020,-10,"4309387,99",Tarifa Bancária DOC/TED,REEMBOLSO
+7/9/2020,7,"4309394,99",Ajuste de credito ref. Aplicação automatica,REEMBOLSO
+7/10/2020,20,"4309414,99",Ajuste de credito ref. Aplicação automatica,REEMBOLSO
+7/10/2020,13299,"4322713,99",Credito Terra Nova FIRF Institucional TG FEV/20 A JUN/20,REEMBOLSO
+7/10/2020,6949,"4329662,99",Credito Terra Nova FIRF Institucional TG JAN/20,REEMBOLSO
+7/10/2020,-1269,"4328393,99",Taxa 3° Trim CVM - VCM,REEMBOLSO
+7/10/2020,-634,"4327759,99",Taxa 3° Trim CVM - Rodrigo,REEMBOLSO
+7/10/2020,-3329,"4324430,99",Pgto Scansource Licença Firewall 3/3,REEMBOLSO
+7/10/2020,-35768,"4288662,99",Pgto ISS,REEMBOLSO
+7/10/2020,-3129,"4285533,99",Pgto TFE VARIAS INCIDENCIAS,REEMBOLSO
+7/10/2020,-2180,"4283353,99",Pgto Prajna NF 6510,REEMBOLSO
+7/10/2020,-229,"4283124,99",Pgto Fabio Amaral despesas VIP,REEMBOLSO
+7/10/2020,-20,"4283104,99",Tarifa Bancária DOC/TED,REEMBOLSO
+7/10/2020,-4011,"4279093,99",Pgto Cartão Credito Master,REEMBOLSO
+7/10/2020,-208,"4278885,99",Pgto Cartão de Crédito Elo,REEMBOLSO
+7/13/2020,81,"4278966,99",Ajuste de credito ref. Aplicação automatica,REEMBOLSO
+7/13/2020,-5600,"4273366,99",Pgto Bem Pericia e Avaliação NF 65,REEMBOLSO
+7/13/2020,-2656,"4270710,99",Pgto MSX Consult Nf 940,REEMBOLSO
+7/13/2020,-107500,"4163210,99",Pgto Alux Wedemann Advocacia NF 004,REEMBOLSO
+7/13/2020,-255675,"3907535,99",Pgto Catania Consultoria NF 25,REEMBOLSO
+7/13/2020,-31,"3907504,99",Tarifa Bancária DOC/TED,REEMBOLSO
+7/14/2020,58,"3907562,99",Ajuste de credito ref. Aplicação automatica,REEMBOLSO
+7/14/2020,-25000,"3882562,99",Pgto Austin Rating NF 1263,REEMBOLSO
+7/14/2020,-14077,"3868485,99",Pgto Azulsol Comunicações NF 1805,REEMBOLSO
+7/15/2020,73,"3868558,99",Ajuste de credito ref. Aplicação automatica,REEMBOLSO
+7/15/2020,-1212,"3867346,99",Pgto PK12 Estacionamento NF,REEMBOLSO
+7/15/2020,-588,"3866758,99",Pgto Scansource - Cloud Service NF 126793,REEMBOLSO
+7/15/2020,-11121,"3855637,99",Pgto Scansource - Cloud Service NF 126792,REEMBOLSO
+7/15/2020,-1677,"3853960,99",PgtoTarifa ou despesade fundos CRDC NF 18382,REEMBOLSO
+7/15/2020,-216,"3853744,99",Pgto Tulio Brancam DOMINIO VCM nf 521,REEMBOLSO
+7/15/2020,-389,"3853355,99",Pgto Conect -Serasa NF 1357028,REEMBOLSO
+7/15/2020,-2891,"3850464,99",Pgto DELL Computadores,REEMBOLSO
+7/16/2020,101,"3850565,99",Ajuste de credito ref. Aplicação automatica,REEMBOLSO
+7/16/2020,-1103,"3849462,99",Ativação/Instalação Cabos Link de Internet - Vogel NF 25449,REEMBOLSO
+7/16/2020,-85,"3849377,99",Pro Rata 25 dias Link Internet - Vogel,REEMBOLSO
+7/16/2020,-808,"3848569,99",Pro Rrata 25 dias Gerenciamento Link Internet - Vogel,REEMBOLSO
+7/16/2020,-212,"3848357,99",Pro Rata 25 dias Locação Aparelho de Link de Internet - Vogel,REEMBOLSO
+7/16/2020,-137020,"3711337,99","Pgto Montjoie Acessoria NF 76 R$ 145.999,87",REEMBOLSO
+7/16/2020,-1500000,"2211337,99","Pgto Guilherme Bussadori NF 128 R$ 2.849.734,42",REEMBOLSO
+7/16/2020,-20,"2211317,99",Tarifa Bancária DOC/TED,REEMBOLSO
+7/17/2020,60,"2211377,99",Ajuste de credito ref. Aplicação automatica,REEMBOLSO
+7/17/2020,80000,"2291377,99",Credito FUNDO DE INVEST RENDA FIXA MONTE CARLO INSTITUCIONAL IMA-B 5 Taxa de Performance/Recuperação,REEMBOLSO
+7/17/2020,-1174475,"1116902,99","Pgto Guilherme Bussadori NF 128 R$ 2.849.734,42",REEMBOLSO
+7/17/2020,-18134,"1098768,99",Pgto Lote 45 NF 4999,REEMBOLSO
+7/17/2020,-10,"1098758,99",Tarifa Bancária DOC/TED,REEMBOLSO
+7/20/2020,69,"1098827,99",Ajuste de credito ref. Aplicação automatica,REEMBOLSO
+7/20/2020,-9701,"1089126,99",Pgto Parcela 11/36 Financiamento,REEMBOLSO
+7/20/2020,-32,"1089094,99",Pgto DARF 1708 CRDC NF 18343,REEMBOLSO
+7/20/2020,-42,"1089052,99",Pgto DARF 1708 MSX Consult NF 919,REEMBOLSO
+7/20/2020,-47,"1089005,99",Pgto DARF 1708 MSX Consult NF 909,REEMBOLSO
+7/20/2020,-57,"1088948,99",Pgto DARF 1708 MSX Consult NF 910,REEMBOLSO
+7/20/2020,-101,"1088847,99",Pgto DARF 5952 CRDC NF 18343,REEMBOLSO
+7/20/2020,-100,"1088747,99",Pgto Voicecorp - linha contingencial,REEMBOLSO
+7/20/2020,-109,"1088638,99",Pgto Whirlpool,REEMBOLSO
+7/20/2020,-112,"1088526,99",Pgto DARF 1708 Balera Berbel NF 2493,REEMBOLSO
+7/20/2020,-117,"1088409,99",Pgto DARF 5952 MSX Consult NF 09,REEMBOLSO
+7/20/2020,-131,"1088278,99",Pgto DARF 5952 MSX Consult NF 919,REEMBOLSO
+7/20/2020,-179,"1088099,99",Pgto DARF 5952 MSX Consult NF910,REEMBOLSO
+7/20/2020,-225,"1087874,99",Pgto DARF 1708 Azulsol Comum NF1797,REEMBOLSO
+7/20/2020,-348,"1087526,99",Pgto DARF 5952 Balera Berbel NF 2493,REEMBOLSO
+7/20/2020,-370,"1087156,99",Pgto Net,REEMBOLSO
+7/20/2020,-406,"1086750,99",Pgto GPS C de Campos Trans e Serv Ter,REEMBOLSO
+7/20/2020,-420,"1086330,99",Pgto DARF 1708 Montjoie NF 75,REEMBOLSO
+7/20/2020,-649,"1085681,99",Pgto DARF 0561 IRRF/Folha,REEMBOLSO
+7/20/2020,-697,"1084984,99",Pgto DARF 5952 Azulsol Comum NF 1797,REEMBOLSO
+7/20/2020,-1136,"1083848,99",Pgto Selbetti Locação e Impressão,REEMBOLSO
+7/20/2020,-1302,"1082546,99",Pgto DARF 5952 Montjoie NF 75,REEMBOLSO
+7/20/2020,-1593,"1080953,99",Pgto Asplan,REEMBOLSO
+7/20/2020,-4187,"1076766,99",Pgto DARF 1708 Guilherme B. NF 125,REEMBOLSO
+7/20/2020,-7376,"1069390,99",Pgto GPS,REEMBOLSO
+7/20/2020,-12980,"1056410,99",Pgto DARF 5952 Guilherme B. NF 125,REEMBOLSO
+7/20/2020,-43682,"1012728,99",Pgto Anbima,REEMBOLSO
+7/20/2020,-442,"1012286,99",Pgto Politex Ind e Com - Máscaras,REEMBOLSO
+7/20/2020,-10,"1012276,99",Tarifa Bancária DOC/TED,REEMBOLSO
+7/20/2020,-7592,"1004684,99",Pgto VIA ref DESPESAS Tollog,REEMBOLSO
+7/20/2020,-9614,"995070,99",Pgto Via ref DESPESAS Iceberg,REEMBOLSO
+7/21/2020,39,"995109,99",Ajuste de credito ref. Aplicação automatica,REEMBOLSO
+7/21/2020,-4423,"990686,99",Pgto Adiantamento a func. Desp Adm - Rodrigo,REEMBOLSO
+7/21/2020,-4423,"986263,99",Pgto Adiantamento a func. Desp Adm - Qualitas,REEMBOLSO
+7/21/2020,-10,"986253,99",Tarifa Bancária DOC/TED,REEMBOLSO
+7/22/2020,49,"986302,99",Ajuste de credito ref. Aplicação automatica,REEMBOLSO
+7/22/2020,1794,"988096,99",Credito Pendencias a regularizar VIP,REEMBOLSO
+7/22/2020,-2264,"985832,99",Pgto Agencia Estado - Broadcast,REEMBOLSO
+7/23/2020,47,"985879,99",Ajuste de credito ref. Aplicação automatica,REEMBOLSO
+7/24/2020,51,"985930,99",Ajuste de credito ref. Aplicação automatica,REEMBOLSO
+7/24/2020,240000,"1225930,99",Credito FUNDO DE INVEST RENDA FIXA MONTE CARLO INSTITUCIONAL IMA-B 5 Taxa de Performance/Recuperação,REEMBOLSO
+7/24/2020,-37813,"1188117,99",Pgto DARF 2172 Cofins Jun/20,REEMBOLSO
+7/24/2020,-8192,"1179925,99",Pgto DARF 8109 PIS Jun/20,REEMBOLSO
+7/27/2020,110,"1180035,99",Ajuste de credito ref. Aplicação automatica,REEMBOLSO
+7/27/2020,-776,"1179259,99",Pgto Editora Globo - Valor PRO Ferramenta e dados,REEMBOLSO
+7/27/2020,-980,"1178279,99",Pgto Editora Glovo - Valor PRO Disponibilização,REEMBOLSO
+7/27/2020,-1385,"1176894,99",Pgto Energia,REEMBOLSO
+7/27/2020,-931,"1175963,99",Pgto MM Primo NF 341364,REEMBOLSO
+7/28/2020,74,"1176037,99",Ajuste de credito ref. Aplicação automatica,REEMBOLSO
+7/28/2020,-12661,"1163376,99",Pgto Alelo VR- Ago/20,REEMBOLSO
+7/28/2020,-831,"1162545,99",Pgto SP Trans - VT Ago/20,REEMBOLSO
+7/29/2020,70,"1162615,99",Ajuste de credito ref. Aplicação automatica,REEMBOLSO
+7/29/2020,9570,"1172185,99",Credito Prime FUNDO DE INVESTIMENTO RENDA FIXA IMA-B Jul/20,REEMBOLSO
+7/29/2020,-79724,"1092461,99",Pgto Alux Wedemann Advocacia NF 005,REEMBOLSO
+7/29/2020,-171,"1092290,99",Pgto Olho Magico - Amostras quadros NF 1159,REEMBOLSO
+7/29/2020,-539,"1091751,99",Pgto Certising - certificado TOLLOG,REEMBOLSO
+7/29/2020,-10,"1091741,99",Tarifa Bancária DOC/TED,REEMBOLSO
+7/30/2020,69,"1091810,99",Ajuste de credito ref. Aplicação automatica,REEMBOLSO
+7/30/2020,-7038,"1084772,99",Pgto Barela Berbel e Mitne NF 2669,REEMBOLSO
+7/30/2020,-5677,"1079095,99",Pgto Omega Assessoria NF 12932,REEMBOLSO
+7/30/2020,-12000,"1067095,99",Pgto Emeli Serviços - Honorários Dra Linéia Tollog e Portobello,REEMBOLSO
+7/30/2020,-5000,"1062095,99",Pgto Aline C Mathias - representação Portbello,REEMBOLSO
+7/30/2020,-10,"1062085,99",Tarifa Bancária DOC/TED,REEMBOLSO
+7/31/2020,81,"1062166,99",Ajuste de credito ref. Aplicação automatica,REEMBOLSO
+7/31/2020,-3800,"1058366,99",Pgto Sonchim Almeida Scarpa e Bragagnolo,REEMBOLSO
+7/31/2020,-141862,"916504,99",Pgto IRPJ 02 TRIM 1/3 - 2089,REEMBOLSO
+7/31/2020,-51829,"864675,99",Pgto CSLL 02 TRIM 1/3 - 2372,REEMBOLSO
+8/3/2020,117,"864767,71",Ajuste de credito ref. Aplicação automatica,REEMBOLSO
+8/3/2020,-10020,"854747,71",Condomínio e IPTU - Ed Metropolitan,REEMBOLSO
+8/3/2020,-27850,"826897,71",Pgto QCP - Qualitas Capital Partners,REEMBOLSO
+8/3/2020,-2447,"824450,71",Pgto Flávio Rietmann,REEMBOLSO
+8/3/2020,-40000,"784450,71",Pgto Rodrigo Moratelli,REEMBOLSO
+8/3/2020,-17000,"767450,71",Pgto Guilherme Marques,REEMBOLSO
+8/3/2020,-13200,"754250,71",Pgto Danilo Tamburus,REEMBOLSO
+8/3/2020,-13200,"741050,71",Pgto Lidiberto,REEMBOLSO
+8/3/2020,-13200,"727850,71",Pgto Danilo Miura,REEMBOLSO
+8/3/2020,-13200,"714650,71",Pgto Mario,PGTO FUNC.
+8/3/2020,-13200,"701450,71",Pgto Sergio Rossi,PGTO FUNC.
+8/3/2020,-10000,"691450,71",Pgto Fabio Amaral,PGTO FUNC.
+8/3/2020,-10000,"681450,71",Pgto Isadora Ferreira,PGTO FUNC.
+8/3/2020,-7500,"673950,71",Pgto Leonardo de Luca,PGTO FUNC.
+8/3/2020,-7500,"666450,71",Pgto Fernando Daier,PGTO FUNC.
+8/3/2020,-4500,"661950,71",Pgto Paula Iglesias,PGTO FUNC.
+8/3/2020,-2300,"659650,71",Pgto Leandro - Estagiário,PGTO FUNC.
+8/3/2020,-2300,"657350,71",Pgto Andre - Estagiário,PGTO FUNC.
+8/3/2020,-1517,"655833,71",Pgto Gisele Santos,PGTO FUNC.
+8/3/2020,-371,"655462,71",Vale transporte - Andre,PGTO FUNC.
+8/3/2020,-411,"655051,71",Vale transporte - Leandro,PGTO FUNC.
+8/3/2020,-10,"655041,71",Tarifa Bancária DOC/TED,PGTO FUNC.
+8/3/2020,-338,"654703,71",HF Telecomunicações,PGTO FUNC.
+8/3/2020,-1352,"653351,71",Host Fiber,PGTO FUNC.
+8/3/2020,-4130,"649221,71",Tombstone - Lion Promo,PGTO FUNC.
+8/3/2020,-338,"648883,71",Pgto Cartão de Crédito Visa,PGTO FUNC.
+8/4/2020,48,"648931,71",Ajuste de credito ref. Aplicação automatica,FIXA
+8/4/2020,-1481,"647450,71",Motoboy - Tatiane Cristina Fagundes NF 076,FIXA
+8/4/2020,-2014,"645436,71",Férias Gisele Ap P Souza Santos (Copeira),TARIFAS ADICIONAIS
+8/4/2020,-1196,"644240,71",Mascaras - PolitexNF 34106,TARIFAS ADICIONAIS
+8/4/2020,-20,"644220,71",Tarifa Bancária DOC/TED,TARIFAS ADICIONAIS
+8/5/2020,50,"644270,71",Ajuste de credito ref. Aplicação automatica,TARIFAS ADICIONAIS
+8/5/2020,253944,"898214,71",Credito Symphony - Taxa Gestão Jun/20,TARIFAS ADICIONAIS
+8/5/2020,-31381,"866833,71",Aluguel - JHSF,TARIFAS ADICIONAIS
+8/5/2020,-900,"865933,71",Desenvolvimento no Melhorias sistema de antecipações - Omega Assessoria NF 12933 1/2,TARIFAS ADICIONAIS
+8/5/2020,-3749,"862184,71",Tercerizada Limpeza - C de Campos Trans e Serv Ter NF 929,TARIFAS ADICIONAIS
+8/5/2020,-151,"862033,71",DARE - Alteração contratual VCM,TARIFAS ADICIONAIS
+8/5/2020,-44,"861989,71",Pgto Tarifa Bancária Pgto Func Net Empresa,TARIFAS ADICIONAIS
+8/6/2020,5,"861994,71",Ajuste de credito ref. Aplicação automatica,TARIFAS ADICIONAIS
+8/6/2020,-2000,"859994,71",Contabilidade - LT do Nascimento NF 659,TARIFAS ADICIONAIS
+8/6/2020,-300,"859694,71",Contabilidade Iceberg - LT do Nascimento NF 658,TARIFAS ADICIONAIS
+8/6/2020,-500,"859194,71",Pgto Criação e Imagem,TARIFAS ADICIONAIS
+8/6/2020,-2656,"856538,71",Pgto MSX Consult Nf 956,TARIFAS ADICIONAIS
+8/6/2020,-2940,"853598,71",Pgto MSX Consult Nf 960,TARIFAS ADICIONAIS
+8/6/2020,-31,"853567,71",Tarifa Bancária DOC/TED,TARIFAS ADICIONAIS
+8/7/2020,103,"853670,71",Ajuste de credito ref. Aplicação automatica,TARIFAS ADICIONAIS
+8/7/2020,26602,"880272,71",Credito Veritas Apogeu I FIDC - Taxa Gestão - Jul/20,TARIFAS ADICIONAIS
+8/7/2020,32932,"913204,71",Credito Veritas Apogeu FIM - Taxa Gestão Jul/20,TARIFAS ADICIONAIS
+8/7/2020,212361,"1125565,71",Credito MERAK - Taxa Gestão Jul/20,TARIFAS ADICIONAIS
+8/7/2020,9961,"1135526,71",Credito NINKA - Taxa Gestão Jul/20,TARIFAS ADICIONAIS
+8/7/2020,212307,"1347833,71",Credito Marte - Taxa Gestão Jul/20,TARIFAS ADICIONAIS
+8/7/2020,17659,"1365492,71",Credito Multiplica - Taxa Gestão Jul/20,TARIFAS ADICIONAIS
+8/7/2020,14285,"1379777,71",Credito IMA-B 1000 FIC RENDA FIXA LP Taxa de Gestão Jul/20,TARIFAS ADICIONAIS
+8/7/2020,85000,"1464777,71",Credito TMJ IMA-B - Taxa Gestão Jul/20,TARIFAS ADICIONAIS
+8/7/2020,35000,"1499777,71",Credito Fundo Barcelona Taxa Gestão Jul/2020,TARIFAS ADICIONAIS
+8/7/2020,30538,"1530315,71",Credito PREMIUM IMA-B FUNDO DE INVESTIMENTO EM COTAS DE FUNDO DE INVESTIMENTO RENDA FIXA tyx Jul/20,TARIFAS ADICIONAIS
+8/7/2020,29136,"1559451,71",Credito Terra Nova IMA-B Renda Fixa TX Jul/20,TARIFAS ADICIONAIS
+8/7/2020,1948,"1561399,71",Credito Terra Nova FIC FIRF TAXA DE GESTÃO Jul/20,BANCO
+8/7/2020,55477,"1616876,71",Credito Terra Nova IMA-B RENDA FIXA II TX Jul/20,BANCO
+8/7/2020,286,"1617162,71",Credito BTG Pactual taxa de Gestão Veritas Cratos e Imperium Jul/20,BANCO
+8/7/2020,-210,"1616952,71",Pgto Prizemed,BANCO
+8/7/2020,-586,"1616366,71",FGTS 06/2020,BANCO
+8/7/2020,-5499,"1610867,71",Análise Ambiental - AR Projeto Ambiental NF 4285 1/2,BANCO
+8/7/2020,-2211,"1608656,71",Pgto Adiantamento a func. Desp Adm - Rodrigo,BANCO
+8/7/2020,-2211,"1606445,71",Pgto Adiantamento a func. Desp Adm - Qualitas,BANCO
+8/7/2020,-10,"1606435,71",Tarifa Bancária DOC/TED,BANCO
+8/10/2020,72,"1606507,71",Ajuste de credito ref. Aplicação automatica,BANCO
+8/10/2020,84927,"1691434,71",Credito FUNDO DE INVEST RENDA FIXA MONTE CARLO INSTITUCIONAL IMA-B 5 Taxa de Gestão Jul/20,BANCO
+8/10/2020,30000,"1721434,71",Credito São Domingos Taxas de Gestão Jul/20,BANCO
+8/10/2020,-2124,"1719310,71",Quadros de frases - Olho Mágico OS 4592,BANCO
+8/10/2020,-1104,"1718206,71",- Quick Soft nf 37192,BANCO
+8/10/2020,-68,"1718138,71",Cartório - 30° Tabelião de Notas,BANCO
+8/10/2020,-2180,"1715958,71",- Prajna Informação e Tecnologia NF 6731,BANCO
+8/10/2020,-950,"1715008,71",Internet Corporativa - Vogel Soluções,BANCO
+8/10/2020,-100,"1714908,71",Locação de Equipamentode Internet - Vogel Soluções,BANCO
+8/10/2020,-250,"1714658,71",Gerenciamento de Internet - Vogel Soluções,BANCO
+8/10/2020,-5600,"1709058,71",Prestação de Serviços - Bem Perícia NF 068,BANCO
+8/10/2020,-127611,"1581447,71",ISS,BANCO
+8/10/2020,-20,"1581427,71",Tarifa Bancária DOC/TED,BANCO
+8/10/2020,-2050,"1579377,71",Cartão Mastercard,BANCO
+8/10/2020,-816,"1578561,71",Cartão Elo,BANCO
+8/11/2020,46,"1578607,71",Ajuste de credito ref. Aplicação automatica,BANCO
+8/11/2020,-7085,"1571522,71",Pgto MSX Consult Nf 961,BANCO
+8/11/2020,-10,"1571512,71",Tarifa Bancária DOC/TED,BANCO
+8/12/2020,51,"1571563,71",Ajuste de credito ref. Aplicação automatica,BANCO
+8/12/2020,-118890,"1452673,71",Assessoria Jurídica - ALUX WEDEMANN NF 006,BANCO
+8/12/2020,-6456,"1446217,71",Notebook - Dell Computadores,BANCO
+8/12/2020,-730,"1445487,71",Bebidas - Imigrantes Bebidas,BANCO
+8/13/2020,46,"1445533,71",Ajuste de credito ref. Aplicação automatica,BANCO
+8/14/2020,52,"1445585,71",Ajuste de credito ref. Aplicação automatica,BANCO
+8/14/2020,-1212,"1444373,71",Estacionamento - PK12 Estacionamentos NF5307,BANCO
+8/14/2020,-664,"1443709,71",Mensalidade - Scansource - Cloud Service NF 129620,BANCO
+8/14/2020,-12656,"1431053,71",Servidores em Cloud e VPN - Scansource - Cloud Service NF 129619,BANCO
+8/14/2020,-2047,"1429006,71",Consultas ao Serasa - Conect -Serasa NF 229951,BANCO
+8/17/2020,93,"1429099,71",Ajuste de credito ref. Aplicação automatica,BANCO
+8/17/2020,-1318,"1427781,71",Sistema de assinaturas digitais - CRDC NF 18382,BANCO
+8/17/2020,-1042,"1426739,71",Locação e Impressões - Selbetti Fatura 347226,BANCO
+8/17/2020,-40000,"1386739,71",Credito enviado para VIA,BANCO
+8/17/2020,-2000,"1384739,71",Credito enviado para VIA,BANCO
+8/18/2020,63,"1384802,71",Ajuste de credito ref. Aplicação automatica,BANCO
+8/18/2020,-33334,"1351468,71","Assessoria Financeira - Montjoie Acessoria NF R$ 35.519,28",BANCO
+8/18/2020,-14077,"1337391,71",Assessoria de Imprensa - Azulsol Comunicações NF 1812,BANCO
+8/18/2020,-21024,"1316367,71",Acompanhamento de carteiras - Lote 45 NF 5088,BANCO
+8/18/2020,-10,"1316357,71",Tarifa Bancária DOC/TED,BANCO
+8/19/2020,60,"1316417,71",Ajuste de credito ref. Aplicação automatica,BANCO
+8/19/2020,-900,"1315517,71",Pgto Omega Assessoria NF 12993 2/2,BANCO
+8/20/2020,68,"1315585,71",Ajuste de credito ref. Aplicação automatica,BANCO
+8/20/2020,-9701,"1305884,71",Pgto Parcela 12/36 Financiamento,BANCO
+8/20/2020,-17,"1305867,71",Pgto DARF 1708 VOGEL NF 25449,BANCO
+8/20/2020,-21,"1305846,71",Pgto DARF 5952 - TOLLOG,BANCO
+8/20/2020,-26,"1305820,71",Pgto DARF 1708 CRDC NF 18382,BANCO
+8/20/2020,-42,"1305778,71",Pgto DARF 1708 MSX Consult NF 940,BANCO
+8/20/2020,-47,"1305731,71",Pgto DARF 1708 MSX Consult NF 933,BANCO
+8/20/2020,-53,"1305678,71",Pgto DARF 5952 VOGEL NF 25449,BANCO
+8/20/2020,-55,"1305623,71",Pgto DARF 1708 MSX Consult NF 935,BANCO
+8/20/2020,-83,"1305540,71",Pgto DARF 5952 CRDC NF 18382,BANCO
+8/20/2020,-100,"1305440,71",Pgto Voicecorp - linha contingencial,BANCO
+8/20/2020,-109,"1305331,71",Pgto Whirlpool,BANCO
+8/20/2020,-112,"1305219,71",Pgto DARF 1708 Balera Berbel NF 2669,BANCO
+8/20/2020,-131,"1305088,71",Pgto DARF 5952 MSX Consult NF 940,BANCO
+8/20/2020,-145,"1304943,71",Pgto DARF 5952 MSX Consult NF 933,BANCO
+8/20/2020,-171,"1304772,71",Pgto DARF 5952 MSX Consult NF935,BANCO
+8/20/2020,-225,"1304547,71",Pgto DARF 1708 Azulsol Comum NF 1805,BANCO
+8/20/2020,-348,"1304199,71",Pgto DARF 5952 Balera Berbel NF 2669,BANCO
+8/20/2020,-370,"1303829,71",Pgto Net,BANCO
+8/20/2020,-399,"1303430,71",Pgto DARF 1708 Austin Rating NF 1263,BANCO
+8/20/2020,-403,"1303027,71",Pgto GPS C de Campos Trans e Serv Ter,BANCO
+8/20/2020,-649,"1302378,71",Pgto DARF 0561 IRRF/Folha,BANCO
+8/20/2020,-650,"1301728,71",Pgto Asplan - Tollog,BANCO
+8/20/2020,-697,"1301031,71",Pgto DARF 5952 Azulsol Comum NF 1805,BANCO
+8/20/2020,-699,"1300332,71",Telefonia - VIVO,BANCO
+8/20/2020,-1238,"1299094,71",Pgto DARF Austin Rating NF 1263,BANCO
+8/20/2020,-1593,"1297501,71",Pgto Asplan,BANCO
+8/20/2020,-2190,"1295311,71",Pgto DARF 1708 Montjoie NF 76,BANCO
+8/20/2020,-6788,"1288523,71",Pgto DARF 5952 Montjoie NF 76,BANCO
+8/20/2020,-8273,"1280250,71",Pgto GPS,BANCO
+8/20/2020,-42746,"1237504,71",Pgto DARF 1708 Guilherme B. NF 125,BANCO
+8/20/2020,-43682,"1193822,71",Pgto Anbima,BANCO
+8/20/2020,-132512,"1061310,71",Pgto DARF 5952 Guilherme B. NF 125,BANCO
+8/20/2020,-312054,"749256,71","Pgto Guilherme Bussadori NF 131 R$ 332.503,03",BANCO
+8/20/2020,-10,"749246,71",Tarifa Bancária DOC/TED,BANCO
+8/21/2020,32,"749278,71",Ajuste de credito ref. Aplicação automatica,BANCO
+8/21/2020,-1180,"748098,71",Compra de capsula de café Nestle NF 2877622,BANCO
+8/21/2020,-1665,"746433,71",Energia - CSHG JHSF Prime Offices,BANCO
+8/21/2020,-385,"746048,71",Renovação CNPI Guilherme Marques,BANCO
+8/24/2020,67,"746115,71",Ajuste de credito ref. Aplicação automatica,BANCO
+8/24/2020,-2264,"743851,71",Pgto Agencia Estado - Broadcast,BANCO
+8/25/2020,40,"743891,71",Ajuste de credito ref. Aplicação automatica,BANCO
+8/25/2020,-15391,"728500,71",Pgto DARF 8109 PIS Mar/20,BANCO
+8/25/2020,-71035,"657465,71",Pgto DARF 2172 Cofins Mar/20,BANCO
+8/25/2020,-192293,"465172,71",Pgto DARF 2172 Cofins Jul/20,BANCO
+8/25/2020,-41663,"423509,71",Pgto DARF 8109 PIS Jul/20,BANCO
+8/25/2020,-15,"423494,71",DARE - Consulta de Pendencias VCM,BANCO
+8/26/2020,27,"423521,71",Ajuste de credito ref. Aplicação automatica,BANCO
+8/26/2020,-776,"422745,71",Valor PRO Ferramenta e Dados - Editora Globo,BANCO
+8/26/2020,-980,"421765,71",Valor PRO Disponibilização - Editora Globo,BANCO
+8/27/2020,25,"421790,71",Ajuste de credito ref. Aplicação automatica,BANCO
+8/27/2020,-831,"420959,71",Pgto SP Trans - VT Set/20,BANCO
+8/27/2020,-12630,"408329,71",Pgto Alelo VR- Set/20,BANCO
+8/27/2020,-198,"408131,71",Bebidas - Imigrantes Bebidas,BANCO
+8/28/2020,26,"408157,71",Ajuste de credito ref. Aplicação automatica,BANCO
+8/28/2020,42000,"450157,71",Devolução credito enviado para VIA,BANCO
+8/31/2020,54,"450211,71",Ajuste de credito ref. Aplicação automatica,BANCO
+8/31/2020,-7038,"443173,71",Pgto Barela Berbel e Mitne NF 2748,BANCO
+8/31/2020,-5677,"437496,71",Pgto Omega Assessoria NF 13083,BANCO
+8/31/2020,-12000,"425496,71",Pgto Emeli Serviços - Honorários Dra Linéia Tollog e Portobello,BANCO
+8/31/2020,-5000,"420496,71",Pgto Aline C Mathias - representação Portbello,BANCO
+8/31/2020,-3800,"416696,71",Pgto Sonchim Almeida Scarpa e Bragagnolo,BANCO
+8/31/2020,-143280,"273416,71",Pgto IRPJ 02 TRIM 2/3 - 2089,BANCO
+8/31/2020,-52347,"221069,71",Pgto CSLL 02 TRIM 2/3 - 2372,BANCO
+8/31/2020,-10,"221059,71",Tarifa Bancária DOC/TED,BANCO
+9/1/2020,18,"221049,87",Ajuste de credito ref. Aplicação automatica,BANCO
+9/1/2020,-10020,"211029,87",Condomínio e IPTU - Ed Metropolitan,BANCO
+9/1/2020,-27850,"183179,87",Pgto QCP - Qualitas Capital Partners,BANCO
+9/1/2020,-2447,"180732,87",Pgto Flávio Rietmann,BANCO
+9/1/2020,-40000,"140732,87",Pgto Rodrigo Moratelli,BANCO
+9/1/2020,-17000,"123732,87",Pgto Guilherme Marques,BANCO
+9/1/2020,-13200,"110532,87",Pgto Danilo Tamburus,BANCO
+9/1/2020,-13200,"97332,87",Pgto Lidiberto,BANCO
+9/1/2020,-13200,"84132,87",Pgto Danilo Miura,BANCO
+9/1/2020,-13200,"70932,87",Pgto Mario,FIXA
+9/1/2020,-13200,"57732,87",Pgto Sergio Rossi,PGTO FUNC.
+9/1/2020,-10000,"47732,87",Pgto Fabio Amaral,PGTO FUNC.
+9/1/2020,-10000,"37732,87",Pgto Isadora Ferreira,PGTO FUNC.
+9/1/2020,-7500,"30232,87",Pgto Leonardo de Luca,PGTO FUNC.
+9/1/2020,-7500,"22732,87",Pgto Fernando Daier,PGTO FUNC.
+9/1/2020,-4500,"18232,87",Pgto Paula Iglesias,PGTO FUNC.
+9/1/2020,-2300,"15932,87",Pgto Leandro - Estagiário,PGTO FUNC.
+9/1/2020,-2300,"13632,87",Pgto Andre - Estagiário,PGTO FUNC.
+9/1/2020,-201,"13431,87",Pgto Gisele Santos,PGTO FUNC.
+9/1/2020,-371,"13060,87",Vale transporte - Andre,PGTO FUNC.
+9/1/2020,-411,"12649,87",Vale transporte - Leandro,PGTO FUNC.
+9/1/2020,-2748,"9901,87",Pgto Cartão de Crédito Visa,PGTO FUNC.
+9/2/2020,0,"9901,87",Ajuste de credito ref. Aplicação automatica,PGTO FUNC.
+9/3/2020,0,"9901,87",Ajuste de credito ref. Aplicação automatica,PGTO FUNC.
+9/3/2020,232662,"242563,87",Credito Symphony - Taxa Gestão Ago/20,PGTO FUNC.
+9/3/2020,-338,"242225,87",Serviço de Gerenciamento (link internet secundário) HF Telecomunicações,PGTO FUNC.
+9/3/2020,-1352,"240873,87",Link de Internet Secundário 50MB - Host Fiber,FIXA
+9/3/2020,-4423,"236450,87",Envio de Credito para VIA,FIXA
+9/3/2020,-22158,"214292,87",IPVA Licenciamento e DPVAT Velar,FIXA
+9/3/2020,-48,"214244,87",Tarifa Bancária Pgto Func Net Empresa,FIXA
+9/4/2020,0,"214244,87",Ajuste de credito ref. Aplicação automatica,FIXA
+9/4/2020,-630,"213614,87",FGTS 08/2020,FIXA
+9/4/2020,-3746,"209868,87",Tercerizada Limpeza - C de Campos Trans e Serv Ter NF,FIXA
+9/4/2020,-1525,"208343,87",Motoboy - Tatiane Cristina Fagundes NF 78,FIXA
+9/4/2020,-2940,"205403,87",Serviço de Consultoria em Tecnologia - MSX Consult Nf 973,FIXA
+9/4/2020,-2656,"202747,87",Serviço em Consultoria em Suporte - MSX Consult Nf 977,FIXA
+9/4/2020,-1000,"201747,87",Saque para o Caixinha cheque 027,FIXA
+9/4/2020,-20,"201727,87",Tarifa Bancária DOC/TED,FIXA
+9/8/2020,2,"201729,87",Ajuste de credito ref. Aplicação automatica,FIXA
+9/8/2020,29068,"230797,87",Credito Veritas Apogeu I FIDC - Taxa Gestão - Ago/20,FIXA
+9/8/2020,28213,"259010,87",Credito Veritas Apogeu FIM - Taxa Gestão Ago/20,BANCO
+9/8/2020,195577,"454587,87",Credito MERAK - Taxa Gestão Ago/20,BANCO
+9/8/2020,9124,"463711,87",Credito NINKA - Taxa Gestão Ago/20,BANCO
+9/8/2020,220798,"684509,87",Credito Marte - Taxa Gestão Ago/20,BANCO
+9/8/2020,16370,"700879,87",Credito Multiplica - Taxa Gestão Ago/20,BANCO
+9/8/2020,14285,"715164,87",Credito IMA-B 1000 FIC RENDA FIXA LP Taxa de Gestão Ago/20,BANCO
+9/8/2020,85000,"800164,87",Credito TMJ IMA-B - Taxa Gestão Ago/20,BANCO
+9/8/2020,35000,"835164,87",Credito Fundo Barcelona Taxa Gestão Ago/2020,BANCO
+9/8/2020,30000,"865164,87",Credito MLZ IMA-B FIRF Taxa de Gestão Ago/20,BANCO
+9/8/2020,27847,"893011,87",Credito PREMIUM IMA-B FUNDO DE INVESTIMENTO EM COTAS DE FUNDO DE INVESTIMENTO RENDA FIXA Ago/20,BANCO
+9/8/2020,26532,"919543,87",Credito Terra Nova IMA-B Renda Fixa TX Ago/20,BANCO
+9/8/2020,1753,"921296,87",Credito Terra Nova FIC FIRF TAXA DE GESTÃO Ago/20,BANCO
+9/8/2020,50548,"971844,87",Credito Terra Nova IMA-B RENDA FIXA II TX Ago/20,BANCO
+9/8/2020,53,"971897,87",Credito BTG Pactual taxa de Gestão Veritas Cratos e Imperium Ago/20,BANCO
+9/8/2020,30000,"1001897,87",Credito São Domingos Taxas de Gestão Ago/20,BANCO
+9/8/2020,85000,"1086897,87",Credito FUNDO DE INVEST RENDA FIXA MONTE CARLO INSTITUCIONAL IMA-B 5 Taxa de Gestão Ago/20,BANCO
+9/8/2020,-210,"1086687,87",Pgto Prizemed,BANCO
+9/8/2020,-500,"1086187,87",Propaganda e Publicidade - Criação e Imagem,BANCO
+9/8/2020,-1206,"1084981,87",Sistema de Assinaturas digitais - Quick Soft nf 37630,BANCO
+9/8/2020,-31381,"1053600,87",Aluguel - JHSF,BANCO
+9/8/2020,-100000,"953600,87",Antecipação de Dividendos - Rodrigo,BANCO
+9/8/2020,-100000,"853600,87",Antecipação de Dividendos - Qualitas,BANCO
+9/8/2020,-9306,"844294,87",Antecipação de Dividendos - Guilherme,BANCO
+9/8/2020,-1818,"842476,87",Antecipação de Dividendos - Danilo Tamburus,BANCO
+9/8/2020,-376,"842100,87",Antecipação de Dividendos - Isadora,BANCO
+9/8/2020,-41,"842059,87",Tarifa Bancária DOC/TED,BANCO
+9/9/2020,4,"842063,87",Ajuste de credito ref. Aplicação automatica,BANCO
+9/9/2020,-2000,"840063,87",Contabilidade - LT do Nascimento NF,BANCO
+9/9/2020,-300,"839763,87",Contabilidade Iceberg - LT do Nascimento NF 658,BANCO
+9/9/2020,-64,"839699,87",Taxi - 99 Taxi,BANCO
+9/9/2020,-6816,"832883,87",Aumento de consumo em Bacup Acronis - MSX Tecnologia NF 981,BANCO
+9/9/2020,-10,"832873,87",Tarifa Bancária DOC/TED,BANCO
+9/10/2020,6,"832879,87",Ajuste de credito ref. Aplicação automatica,BANCO
+9/10/2020,-126,"832753,87",Reembolso Pesquisas em Cartórios - Sochim Almeida Scarpa e Bragagnolo,BANCO
+9/10/2020,-466,"832287,87",Cartório - 30° Tabelião de Notas,BANCO
+9/10/2020,-2180,"830107,87",Pesquisa Informações de Mercado - Prajna Informação e Tecnologia NF 6731,BANCO
+9/10/2020,-950,"829157,87",Internet Corporativa - Vogel Soluções,BANCO
+9/10/2020,-100,"829057,87",Locação de Equipamento de Internet - Vogel Soluções,BANCO
+9/10/2020,-250,"828807,87",Gerenciamento de Internet - Vogel Soluções,BANCO
+9/10/2020,-25556,"803251,87",ISS,BANCO
+9/10/2020,-17714,"785537,87",Parcelamento IRPJ 1° TRIM 2020 1/60 - DARF,BANCO
+9/10/2020,-6415,"779122,87",Parcelamento CSLL 1° TRIM 2020 1/60 - DARF,BANCO
+9/10/2020,-1698,"777424,87",Cartão Elo,BANCO
+9/10/2020,-2034,"775390,87",Cartão Mastercard,BANCO
+9/11/2020,8,"775398,87",Ajuste de credito ref. Aplicação automatica,BANCO
+9/14/2020,24,"775422,87",Ajuste de credito ref. Aplicação automatica,BANCO
+9/14/2020,240000,"1015422,87",Credito FUNDO DE INVEST RENDA FIXA MONTE CARLO INSTITUCIONAL IMA-B 5 Taxa de Recuperação/Performance,BANCO
+9/14/2020,-577,"1014845,87",Bebidas - Imigrantes Bebidas,BANCO
+9/14/2020,-986,"1013859,87",Locação e Impressões - Selbetti Fatura 347226,BANCO
+9/14/2020,-5600,"1008259,87",Prestação de Serviços - Bem Perícia NF 069,BANCO
+9/14/2020,-90500,"917759,87",Assessoria Jurídica - ALUX WEDEMANN NF 007,BANCO
+9/14/2020,-10,"917749,87",Tarifa Bancária DOC/TED,BANCO
+9/15/2020,19,"917768,87",Ajuste de credito ref. Aplicação automatica,BANCO
+9/15/2020,51473,"969241,87",Credito Postalis Taxa Cobrança Jul/20,BANCO
+9/15/2020,15155,"984396,87",Credito Postalis Taxa Performance Jul/20,BANCO
+9/15/2020,-1469,"982927,87",Sistema de assinaturas digitais - CRDC NF 19564,BANCO
+9/15/2020,-1212,"981715,87",Estacionamento - PK12 Estacionamentos NF5307,BANCO
+9/15/2020,-621,"981094,87",Mensalidade - Scansource - Cloud Service NF 133631,BANCO
+9/15/2020,-10350,"970744,87",Servidores em Cloud e VPN - Scansource - Cloud Service NF 133657,BANCO
+9/15/2020,-1204,"969540,87",Consultas ao Serasa - Conect -Serasa NF 251005,BANCO
+9/16/2020,20,"969560,87",Ajuste de credito ref. Aplicação automatica,BANCO
+9/16/2020,-180,"969380,87",Papel Toalha - M&M PRIMO NF 346221,BANCO
+9/16/2020,-295993,"673387,87","Assessoria Financeira - Guilherme Bussadori NF134 R$ 315.390,45",BANCO
+9/16/2020,-32683,"640704,87","Assessoria Financeira - Montjoie Acessoria NF 78 R$ 34.825,66",BANCO
+9/16/2020,-2211,"638493,87",Pgto Adiantamento a func. Desp Adm - Rodrigo,BANCO
+9/16/2020,-2211,"636282,87",Pgto Adiantamento a func. Desp Adm - Qualitas,BANCO
+9/16/2020,-5000,"631282,87",Envio de Credito para VIA,BANCO
+9/16/2020,-31,"631251,87",Tarifa Bancária DOC/TED,BANCO
+9/17/2020,14,"631265,87",Ajuste de credito ref. Aplicação automatica,BANCO
+9/18/2020,19,"631284,87",Ajuste de credito ref. Aplicação automatica,BANCO
+9/18/2020,-21,"631263,87",Pgto DARF 1708 CRDC NF 18961,BANCO
+9/18/2020,-21,"631242,87",Pgto DARF 5952 - TOLLOG,BANCO
+9/18/2020,-42,"631200,87",Pgto DARF 1708 MSX Consult NF 956,BANCO
+9/18/2020,-47,"631153,87",Pgto DARF 1708 MSX Consult NF 960,BANCO
+9/18/2020,-65,"631088,87",Pgto DARF 5952 CRDC NF 18961,BANCO
+9/18/2020,-112,"630976,87",Pgto DARF 1708 Balera Berbel NF 2748,BANCO
+9/18/2020,-113,"630863,87",Pgto DARF 1708 MSX Consult NF 961,BANCO
+9/18/2020,-131,"630732,87",Pgto DARF 5952 MSX Consult NF 956,BANCO
+9/18/2020,-145,"630587,87",Pgto DARF 5952 MSX Consult NF 960,BANCO
+9/18/2020,-225,"630362,87",Pgto DARF 1708 Azulsol Comum NF 1812,BANCO
+9/18/2020,-348,"630014,87",Pgto DARF 5952 Balera Berbel NF 2748,BANCO
+9/18/2020,-351,"629663,87",Pgto DARF 5952 MSX Consult NF961,BANCO
+9/18/2020,-401,"629262,87",GPS - C de Campos Trans e Serv Ter,BANCO
+9/18/2020,-532,"628730,87",Pgto DARF 1708 Montjoie NF 77,BANCO
+9/18/2020,-649,"628081,87",Pgto DARF 0561 IRRF/Folha,BANCO
+9/18/2020,-650,"627431,87",Mensalidade Sistema Tollog - Asplan,BANCO
+9/18/2020,-697,"626734,87",Pgto DARF 5952 Azulsol Comum NF 812,BANCO
+9/18/2020,-1593,"625141,87",Mensalidade Sistema - Asplan,BANCO
+9/18/2020,-1651,"623490,87",Pgto DARF 5952 Montjoie NF 77,BANCO
+9/18/2020,-4987,"618503,87",Pgto DARF 1708 Guilherme B. NF 131,BANCO
+9/18/2020,-9194,"609309,87",GPS,BANCO
+9/18/2020,-14077,"595232,87",Assessoria de Imprensa - Azulsol Comunicações NF 1819,BANCO
+9/18/2020,-15461,"579771,87",Pgto DARF 5952 Guilherme B. NF 131,BANCO
+9/18/2020,-21024,"558747,87",Acompanhamento de carteiras - Lote 45 NF 5169,BANCO
+9/21/2020,35,"558782,87",Ajuste de credito ref. Aplicação automatica,BANCO
+9/21/2020,10998,"569780,87",Credito Reembolso Postalis Análise Ambiental,BANCO
+9/21/2020,-9701,"560079,87",Financiamento VELAR - Parcela 13/36,BANCO
+9/21/2020,-699,"559380,87",Telefonia - VIVO,BANCO
+9/21/2020,-46619,"512761,87",Assistencia Médica - Anbima,BANCO
+9/21/2020,-109,"512652,87",Locação Filtro - Whirlpool,BANCO
+9/21/2020,-421,"512231,87",Papel Toalha - M&M Primo nf 346431,BANCO
+9/21/2020,-370,"511861,87",TV e Internet - Net,BANCO
+9/21/2020,-1495,"510366,87",Energia,BANCO
+9/21/2020,-100,"510266,87",Linha Contingencial - Voicecorp,BANCO
+9/22/2020,19,"510285,87",Ajuste de credito ref. Aplicação automatica,BANCO
+9/22/2020,-1233,"509052,87",Tradução Material VCM - Vitor Moratelli,BANCO
+9/22/2020,-2000,"507052,87",Material Institucional - Victor Moratelli 1/2,BANCO
+9/22/2020,-2264,"504788,87",Broadcast - Agencia Estado NF 730920,BANCO
+9/22/2020,-10,"504778,87",Tarifa Bancária DOC/TED,BANCO
+9/23/2020,20,"504798,87",Ajuste de credito ref. Aplicação automatica,BANCO
+9/23/2020,32142,"536940,87",Credito Terra Nova IMAB - 100 ajuste de taxas de gestão jun/jul/ago,BANCO
+9/23/2020,-776,"536164,87",Pgto Editora Globo - Valor PRO Ferramenta e dados,BANCO
+9/23/2020,-980,"535184,87",Pgto Editora Glovo - Valor PRO Disponibilização,BANCO
+9/24/2020,25,"535209,87",Ajuste de credito ref. Aplicação automatica,BANCO
+9/25/2020,24,"535233,87",Ajuste de credito ref. Aplicação automatica,BANCO
+9/25/2020,240000,"775233,87",Credito FUNDO DE INVEST RENDA FIXA MONTE CARLO INSTITUCIONAL IMA-B 5 Taxa de Recuperação/Performance,BANCO
+9/25/2020,-2095,"773138,87",Compra Capsulas de Café - Nespresso,BANCO
+9/25/2020,-28,"773110,87",Taxa de Certificação - Ambima,BANCO
+9/25/2020,-38573,"734537,87",Pgto DARF 2172 Cofins Ago/20,BANCO
+9/25/2020,-8357,"726180,87",Pgto DARF 8109 PIS Ago/20,BANCO
+9/25/2020,-4785,"721395,87",Laudo Lagoa dos Ingleses - MG Meio Ambiente,BANCO
+9/25/2020,-25000,"696395,87",Antecipação de Dividendos - Fabio Amaral,BANCO
+9/25/2020,-8000,"688395,87",Antecipação de despesas comerciais - Fernando Daier,BANCO
+9/25/2020,-20,"688375,87",Tarifa Bancária DOC/TED,BANCO
+9/28/2020,53,"688428,87",Ajuste de credito ref. Aplicação automatica,BANCO
+9/28/2020,-3250,"685178,87",Tombstone - Lion Promo,BANCO
+9/28/2020,-12630,"672548,87",Vale Alimentação Out/20 - Alelo,BANCO
+9/28/2020,-831,"671717,87",ValeTransporte Out/20 - SP Trans,BANCO
+9/28/2020,-205,"671512,87",Bebidas - Imigrantes Bebidas,BANCO
+9/29/2020,31,"671543,87",Ajuste de credito ref. Aplicação automatica,BANCO
+9/30/2020,37,"671580,87",Ajuste de credito ref. Aplicação automatica,BANCO
+9/30/2020,417521,"1089101,87",Credito Symphony Taxa de Perfeormance,BANCO
+9/30/2020,-7038,"1082063,87",Assistencia Jurídica - Barela Berbel e Mitne NF 171,BANCO
+9/30/2020,-5677,"1076386,87",Pgto Omega Assessoria NF 15968,BANCO
+9/30/2020,-12000,"1064386,87",Honorários Repesentação TOLLOG/PORTBELLO/SAINT ROMAIN Out/20 - Emeli Serviços,BANCO
+9/30/2020,-5000,"1059386,87",Honorários Repesentação PORTBELLO - Aline C Mathias,BANCO
+9/30/2020,-3800,"1055586,87",Assessoria Jurídica - Sonchim Almeida Scarpa e Bragagnolo,BANCO
+9/30/2020,-143507,"912079,87",Pgto IRPJ 02 TRIM 3/3 - 2089,BANCO
+9/30/2020,-52430,"859649,87",Pgto CSLL 02 TRIM 3/3 - 2372,BANCO
+9/30/2020,-10,"859639,87",Tarifa Bancária DOC/TED,BANCO
+10/1/2020,36,"859651,53",Ajuste de credito ref. Aplicação automatica,BANCO
+10/1/2020,7500,"867151,53",Devolução valor depositado para Fernando Daier,BANCO
+10/1/2020,-10035,"857116,53",Condomínio e IPTU - Ed Metropolitan,BANCO
+10/1/2020,-27850,"829266,53",Pgto QCP - Qualitas Capital Partners,BANCO
+10/1/2020,-2447,"826819,53",Pgto Flávio Rietmann,BANCO
+10/1/2020,-40000,"786819,53",Pgto Rodrigo Moratelli,BANCO
+10/1/2020,-17000,"769819,53",Pgto Guilherme Marques,BANCO
+10/1/2020,-13200,"756619,53",Pgto Danilo Tamburus,BANCO
+10/1/2020,-13200,"743419,53",Pgto Lidiberto,BANCO
+10/1/2020,-13200,"730219,53",Pgto Danilo Miura,FIXA
+10/1/2020,-13200,"717019,53",Pgto Mario,FIXA
+10/1/2020,-13200,"703819,53",Pgto Sergio Rossi,TARIFAS ADICIONAIS
+10/1/2020,-10000,"693819,53",Pgto Fabio Amaral,PGTO FUNC.
+10/1/2020,-10000,"683819,53",Pgto Isadora Ferreira,PGTO FUNC.
+10/1/2020,-7500,"676319,53",Pgto Leonardo de Luca,PGTO FUNC.
+10/1/2020,-7500,"668819,53",Pgto Fernando Daier,PGTO FUNC.
+10/1/2020,-4500,"664319,53",Pgto Paula Iglesias,PGTO FUNC.
+10/1/2020,-2300,"662019,53",Pgto Leandro - Estagiário,PGTO FUNC.
+10/1/2020,-2300,"659719,53",Pgto Andre - Estagiário,PGTO FUNC.
+10/1/2020,-1365,"658354,53",Pgto Gisele Santos,PGTO FUNC.
+10/1/2020,-371,"657983,53",Vale transporte - Andre,PGTO FUNC.
+10/1/2020,-411,"657572,53",Vale transporte - Leandro,PGTO FUNC.
+10/1/2020,-1379,"656193,53",Pgto Cartão de Crédito Visa,PGTO FUNC.
+10/2/2020,24,"656217,53",Ajuste de credito ref. Aplicação automatica,PGTO FUNC.
+10/2/2020,240000,"896217,53",Credito FUNDO DE INVEST RENDA FIXA MONTE CARLO INSTITUCIONAL IMA-B 5 Taxa de Recuperação/Performance,PGTO FUNC.
+10/2/2020,-455,"895762,53",Reativação de Site - Superix,PGTO FUNC.
+10/2/2020,-675,"895087,53",Motoboy - Tatiane Cristina Fagundes NF 78,PGTO FUNC.
+10/5/2020,52,"895139,53",Ajuste de credito ref. Aplicação automatica,PGTO FUNC.
+10/5/2020,233528,"1128667,53",Credito Symphony - Taxa Gestão Set/20,PGTO FUNC.
+10/5/2020,-3746,"1124921,53",Tercerizada Limpeza - C de Campos Trans e Serv Ter NF,FIXA
+10/5/2020,-31381,"1093540,53",Aluguel - JHSF,FIXA
+10/5/2020,-1212,"1092328,53",Estacionamento - PK12 Estacionamentos NF5307,FIXA
+10/5/2020,-338,"1091990,53",Serviço de Gerenciamento (link internet secundário) HF Telecomunicações,FIXA
+10/5/2020,-1352,"1090638,53",Link de Internet Secundário 50MB - Host Fiber,FIXA
+10/5/2020,-48,"1090590,53",Tarifa Bancária Pgto Func Net Empresa,FIXA
+10/6/2020,34,"1090624,53",Ajuste de credito ref. Aplicação automatica,FIXA
+10/6/2020,-7006,"1083618,53",Aumento de consumo em Bacup Acronis - MSX Tecnologia NF 989,FIXA
+10/6/2020,-2940,"1080678,53",Serviço de Consultoria em Tecnologia - MSX Consult Nf 997,BANCO
+10/6/2020,-2656,"1078022,53",Serviço em Consultoria em Suporte - MSX Consult Nf 993,BANCO
+10/6/2020,-33,"1077989,53",Tarifa Bancária DOC/TED,BANCO
+10/7/2020,34,"1078023,53",Ajuste de credito ref. Aplicação automatica,BANCO
+10/7/2020,29068,"1107091,53",Credito Veritas Apogeu I FIDC - Taxa Gestão - Set/20,BANCO
+10/7/2020,28387,"1135478,53",Credito Veritas Apogeu FIM - Taxa Gestão Set/20,BANCO
+10/7/2020,197185,"1332663,53",Credito MERAK - Taxa Gestão Set/20,BANCO
+10/7/2020,9095,"1341758,53",Credito NINKA - Taxa Gestão Set/20,BANCO
+10/7/2020,253921,"1595679,53",Credito Marte - Taxa Gestão Set/20,BANCO
+10/7/2020,2345,"1598024,53",Credito Multiplica - Taxa Gestão Set/20,BANCO
+10/7/2020,60000,"1658024,53",Credito INX SSPI BONDS FUNDO DE INVESTIMENTOS TX GESTÃO JUL/AGO/SET/20,BANCO
+10/7/2020,25000,"1683024,53",Credito IMA-B 1000 FIC RENDA FIXA LP Taxa de Gestão Set/20,BANCO
+10/7/2020,85000,"1768024,53",Credito TMJ IMA-B - Taxa Gestão Set/20,BANCO
+10/7/2020,35000,"1803024,53",Credito Fundo Barcelona Taxa Gestão Set/2020,BANCO
+10/7/2020,30000,"1833024,53",Credito MLZ IMA-B FIRF Taxa de Gestão Set/20,BANCO
+10/7/2020,27640,"1860664,53",Credito PREMIUM IMA-B FUNDO DE INVESTIMENTO EM COTAS DE FUNDO DE INVESTIMENTO RENDA FIXA Set/20,BANCO
+10/7/2020,2124,"1862788,53",Credito Terra Nova IMA-B Renda Fixa TX Set/20,BANCO
+10/7/2020,26307,"1889095,53",Credito Terra Nova FIC FIRF TAXA DE GESTÃO Set/20,BANCO
+10/7/2020,50060,"1939155,53",Credito Terra Nova IMA-B RENDA FIXA II TX Set/20,BANCO
+10/7/2020,2551,"1941706,53",Credito BTG Pactual taxa de Gestão Veritas Cratos e Imperium Set/20,BANCO
+10/7/2020,30000,"1971706,53",Credito São Domingos Taxas de Gestão Set/20,BANCO
+10/7/2020,85000,"2056706,53",Credito FUNDO DE INVEST RENDA FIXA MONTE CARLO INSTITUCIONAL IMA-B 5 Taxa de Gestão Set/20,BANCO
+10/7/2020,-215,"2056491,53",Pgto Prizemed,BANCO
+10/7/2020,-500,"2055991,53",Propaganda e Publicidade - Criação e Imagem,BANCO
+10/7/2020,-590,"2055401,53",FGTS 09/2020,BANCO
+10/7/2020,-14818,"2040583,53",Assessoria de Imprensa - Danthi Comunicações nf 6138,BANCO
+10/7/2020,-2211,"2038372,53",Pgto Adiantamento a func. Desp Adm - Rodrigo,BANCO
+10/7/2020,-2211,"2036161,53",Pgto Adiantamento a func. Desp Adm - Qualitas,BANCO
+10/7/2020,-7000,"2029161,53",Envio de Credito para VIA,BANCO
+10/7/2020,-606,"2028555,53",Devolução Credito erroneo Fundo Terra Nova Instirucional,BANCO
+10/7/2020,-22,"2028533,53",Tarifa Bancária DOC/TED,BANCO
+10/8/2020,28,"2028561,53",Ajuste de credito ref. Aplicação automatica,BANCO
+10/8/2020,-1234,"2027327,53",Sistema de Assinaturas digitais - Quick Soft nf 38323,BANCO
+10/8/2020,-125000,"1902327,53",Antecipação de Dividendos - Rodrigo,BANCO
+10/8/2020,-125000,"1777327,53",Antecipação de Dividendos - Qualitas,BANCO
+10/8/2020,-11632,"1765695,53",Antecipação de Dividendos - Guilherme,BANCO
+10/8/2020,-2273,"1763422,53",Antecipação de Dividendos - Danilo Tamburus,BANCO
+10/8/2020,-470,"1762952,53",Antecipação de Dividendos - Isadora,BANCO
+10/8/2020,-44,"1762908,53",Tarifa Bancária DOC/TED,BANCO
+10/9/2020,22,"1762930,53",Ajuste de credito ref. Aplicação automatica,BANCO
+10/9/2020,-2000,"1760930,53",Contabilidade - LT do Nascimento NF 704,BANCO
+10/9/2020,-300,"1760630,53",Contabilidade Iceberg - LT do Nascimento NF 705,BANCO
+10/9/2020,-184,"1760446,53",Taxi - 99 Taxi,BANCO
+10/9/2020,-1269,"1759177,53",Taxa 4° Trim CVM - VCM,BANCO
+10/9/2020,-634,"1758543,53",Taxa 4° Trim CVM - Rodrigo,BANCO
+10/9/2020,-2567,"1755976,53",Viagem Fernando Daier Macapá - Marella,BANCO
+10/9/2020,-2180,"1753796,53",Pesquisa Informações de Mercado - Prajna Informação e Tecnologia NF 6731,BANCO
+10/9/2020,-87,"1753709,53",Cartório - 30° Tabelião de Notas,BANCO
+10/9/2020,-44068,"1709641,53",ISS,BANCO
+10/9/2020,-11,"1709630,53",Tarifa Bancária DOC/TED,BANCO
+10/13/2020,68,"1709698,53",Ajuste de credito ref. Aplicação automatica,TARIFAS ADICIONAIS
+10/13/2020,86527,"1796225,53",Credito ONE FUNDO DE INVESTIMENTOS TX GESTÃO - SET/20,TARIFAS ADICIONAIS
+10/13/2020,15155,"1811380,53",Credito Postalis Taxa Recuperação Ago/20,TARIFAS ADICIONAIS
+10/13/2020,-210,"1811170,53",Papel Toalha - Softys,TARIFAS ADICIONAIS
+10/13/2020,-950,"1810220,53",Internet Corporativa - Vogel Soluções,TARIFAS ADICIONAIS
+10/13/2020,-100,"1810120,53",Locação de Equipamento de Internet - Vogel Soluções,TARIFAS ADICIONAIS
+10/13/2020,-250,"1809870,53",Gerenciamento de Internet - Vogel Soluções,TARIFAS ADICIONAIS
+10/13/2020,-1532,"1808338,53",Cartão Elo,TARIFAS ADICIONAIS
+10/13/2020,-1749,"1806589,53",Cartão Mastercard,TARIFAS ADICIONAIS
+10/14/2020,45,"1806634,53",Ajuste de credito ref. Aplicação automatica,BANCO
+10/14/2020,-5600,"1801034,53",Prestação de Serviços - Bem Perícia NF 070,BANCO
+10/14/2020,-11,"1801023,53",Tarifa Bancária DOC/TED,BANCO
+10/15/2020,48,"1801071,53",Ajuste de credito ref. Aplicação automatica,BANCO
+10/15/2020,-2997,"1798074,53",Sistema de assinaturas digitais - CRDC NF 20129,BANCO
+10/15/2020,-678,"1797396,53",Mensalidade - Scansource - Cloud Service NF 136967,BANCO
+10/15/2020,-10687,"1786709,53",Servidores em Cloud e VPN - Scansource - Cloud Service NF 137502,BANCO
+10/15/2020,-1321,"1785388,53",Consultas ao Serasa - Conect -Serasa NF 271770,BANCO
+10/15/2020,-312811,"1472577,53","Assessoria Financeira - Guilherme Bussadori NF R$ 333.309,92",BANCO
+10/15/2020,-35410,"1437167,53","Assessoria Financeira - Montjoie Acessoria NF R$ 37.730,56",BANCO
+10/15/2020,-94500,"1342667,53",Assessoria Jurídica - ALUX WEDEMANN NF 007,BANCO
+10/15/2020,-30564,"1312103,53",Comissão Indicação de Clientes - AG Consultoria NF 239,BANCO
+10/15/2020,-4814,"1307289,53",Compra de Computador - DELL Computadores,BANCO
+10/15/2020,-500,"1306789,53",Pesquisa de Matriculas - Registradores,BANCO
+10/15/2020,-33,"1306756,53",Tarifa Bancária DOC/TED,BANCO
+10/16/2020,33,"1306789,53",Ajuste de credito ref. Aplicação automatica,BANCO
+10/16/2020,240000,"1546789,53",Credito FUNDO DE INVEST RENDA FIXA MONTE CARLO INSTITUCIONAL IMA-B 5 Taxa de Recuperação/Performance,BANCO
+10/16/2020,-14077,"1532712,53",Assessoria de Imprensa - Azulsol Comunicações NF 1829,BANCO
+10/16/2020,-1181,"1531531,53",Locação e Impressões - Selbetti Fatura 359268,BANCO
+10/19/2020,76,"1531607,53",Ajuste de credito ref. Aplicação automatica,BANCO
+10/19/2020,25119,"1556726,53",Credito Postalis Taxa Cobrança Ago/20,BANCO
+10/19/2020,-21024,"1535702,53",Acompanhamento de carteiras - Lote 45 NF 5264,BANCO
+10/20/2020,56,"1535758,53",Ajuste de credito ref. Aplicação automatica,BANCO
+10/20/2020,-9701,"1526057,53",Financiamento VELAR - Parcela 13/36,BANCO
+10/20/2020,-21,"1526036,53",Pgto DARF 5952 - TOLLOG,BANCO
+10/20/2020,-23,"1526013,53",Pgto DARF 1708 CRDC NF 19564,BANCO
+10/20/2020,-42,"1525971,53",Pgto DARF 1708 MSX Consult NF 977,BANCO
+10/20/2020,-47,"1525924,53",Pgto DARF 1708 MSX Consult NF 973,BANCO
+10/20/2020,-72,"1525852,53",Pgto DARF 5952 CRDC NF 19564,BANCO
+10/20/2020,-100,"1525752,53",Linha Contingencial - Voicecorp,BANCO
+10/20/2020,-108,"1525644,53",Pgto DARF 1708 MSX Consult NF 981,BANCO
+10/20/2020,-109,"1525535,53",Locação Filtro - Whirlpool,BANCO
+10/20/2020,-112,"1525423,53",Pgto DARF 1708 Balera Berbel NF 171,BANCO
+10/20/2020,-131,"1525292,53",Pgto DARF 5952 MSX Consult NF 977,BANCO
+10/20/2020,-145,"1525147,53",Pgto DARF 5952 MSX Consult NF 973,BANCO
+10/20/2020,-225,"1524922,53",Pgto DARF 1708 Azulsol Comum NF 1819,BANCO
+10/20/2020,-337,"1524585,53",Pgto DARF 5952 MSX Consult NF981,BANCO
+10/20/2020,-348,"1524237,53",Pgto DARF 5952 Balera Berbel NF 171,BANCO
+10/20/2020,-370,"1523867,53",TV e Internet - Net,BANCO
+10/20/2020,-403,"1523464,53",GPS - C de Campos Trans e Serv Ter,BANCO
+10/20/2020,-522,"1522942,53",Pgto DARF 1708 Montjoie NF 78,BANCO
+10/20/2020,-649,"1522293,53",Pgto DARF 0561 IRRF/Folha,BANCO
+10/20/2020,-735,"1521558,53",Mensalidade Sistema Tollog - Asplan,BANCO
+10/20/2020,-697,"1520861,53",Pgto DARF 5952 Azulsol Comum NF 1819,BANCO
+10/20/2020,-699,"1520162,53",Telefonia - VIVO,BANCO
+10/20/2020,-1593,"1518569,53",Mensalidade Sistema - Asplan,BANCO
+10/20/2020,-1619,"1516950,53",Pgto DARF 5952 Montjoie NF 78,BANCO
+10/20/2020,-4730,"1512220,53",Pgto DARF 1708 Guilherme B. NF 134,BANCO
+10/20/2020,-9228,"1502992,53",GPS,BANCO
+10/20/2020,-14665,"1488327,53",Pgto DARF 5952 Guilherme B. NF 134,BANCO
+10/20/2020,-46619,"1441708,53",Assistencia Médica - Anbima,BANCO
+10/20/2020,-4000,"1437708,53",Congresso - Abipem,BANCO
+10/20/2020,-3000,"1434708,53",Envio de Credito para VIA,BANCO
+10/21/2020,52,"1434760,53",Ajuste de credito ref. Aplicação automatica,BANCO
+10/21/2020,-4785,"1429975,53",Laudo Lagoa dos Ingleses - MG Meio Ambiente,BANCO
+10/22/2020,57,"1430032,53",Ajuste de credito ref. Aplicação automatica,BANCO
+10/22/2020,-2264,"1427768,53",Broadcast - Agencia Estado NF 730920,BANCO
+10/22/2020,-900,"1426868,53",Alteração Contrato Social - LT do Nascimento NF 726,BANCO
+10/23/2020,70,"1426938,53",Ajuste de credito ref. Aplicação automatica,BANCO
+10/23/2020,-2000,"1424938,53",Material Institucional - Victor Moratelli 2/2,BANCO
+10/23/2020,-2420,"1422518,53",Energia,BANCO
+10/23/2020,-13902,"1408616,53",Pgto DARF 8109 PIS Abr/20,BANCO
+10/23/2020,-64164,"1344452,53",Pgto DARF 2172 Cofins Abr/20,BANCO
+10/23/2020,-76077,"1268375,53",Pgto DARF 2172 Cofins Set/20,BANCO
+10/23/2020,-16483,"1251892,53",Pgto DARF 8109 PIS Set/20,BANCO
+10/23/2020,-125,"1251767,53",Pgto DARF 8109 PIS Abr/20 - TOLLOG,BANCO
+10/23/2020,-576,"1251191,53",Pgto DARF 2172 Cofins Abr/20 - TOLLOG,BANCO
+10/23/2020,-21,"1251170,53",Pgto DARF 5952 - TOLLOG,BANCO
+10/26/2020,113,"1251283,53",Ajuste de credito ref. Aplicação automatica,BANCO
+10/26/2020,-1127,"1250156,53",Advitech NF 3540,FIXA
+10/26/2020,-50,"1250106,53",Taxi - 99 Taxi,BANCO
+10/26/2020,-383,"1249723,53",Bebidas - Imigrantes Bebidas,BANCO
+10/26/2020,-11,"1249712,53",Tarifa Bancária DOC/TED,BANCO
+10/27/2020,67,"1249779,53",Ajuste de credito ref. Aplicação automatica,BANCO
+10/27/2020,-776,"1249003,53",Pgto Editora Globo - Valor PRO Ferramenta e dados,BANCO
+10/27/2020,-980,"1248023,53",Pgto Editora Glovo - Valor PRO Disponibilização,BANCO
+10/28/2020,71,"1248094,53",Ajuste de credito ref. Aplicação automatica,BANCO
+10/28/2020,-11230,"1236864,53",Vale Alimentação Nov/20 - Alelo,BANCO
+10/28/2020,-594,"1236270,53",ValeTransporte Nov/20 - SP Trans,BANCO
+10/29/2020,85,"1236355,53",Ajuste de credito ref. Aplicação automatica,BANCO
+10/30/2020,80,"1236435,53",Ajuste de credito ref. Aplicação automatica,BANCO
+10/30/2020,-5838,"1230597,53",Férias - Paula Iglesias aquisição 26/11/18 a 25/11/19,BANCO
+10/30/2020,-7038,"1223559,53",Assistencia Jurídica - Barela Berbel e Mitne NF,BANCO
+10/30/2020,-5677,"1217882,53",Pgto Omega Assessoria NF 15968,BANCO
+10/30/2020,-12000,"1205882,53",Honorários Repesentação TOLLOG/PORTBELLO/SAINT ROMAIN Out/20 - Emeli Serviços,BANCO
+10/30/2020,-5000,"1200882,53",Honorários Repesentação PORTBELLO - Aline C Mathias,BANCO
+10/30/2020,-3800,"1197082,53",Assessoria Jurídica - Sonchim Almeida Scarpa e Bragagnolo,BANCO
+10/30/2020,-278442,"918640,53",Pgto IRPJ 03 TRIM 1/3 - 2089,BANCO
+10/30/2020,-100980,"817660,53",Pgto CSLL 03 TRIM 1/3 - 2372,BANCO
+10/30/2020,-11,"817649,53",Tarifa Bancária DOC/TED,BANCO
+10/30/2020,-17891,"799758,53",Parcelamento IRPJ 1° TRIM 2020 2/60 - DARF,BANCO
+10/30/2020,-6479,"793279,53",Parcelamento CSLL 1° TRIM 2020 2/60 - DARF,BANCO
+11/3/2020,121,"793365,69",Ajuste de credito ref. Aplicação automatica,BANCO
+11/3/2020,-10020,"783345,69",Condomínio e IPTU - Ed Metropolitan,BANCO
+11/3/2020,-27850,"755495,69",Pgto QCP - Qualitas Capital Partners,BANCO
+11/3/2020,-2447,"753048,69",Pgto Flávio Rietmann,BANCO
+11/3/2020,-40000,"713048,69",Pgto Rodrigo Moratelli,BANCO
+11/3/2020,-17000,"696048,69",Pgto Guilherme Marques,BANCO
+11/3/2020,-13200,"682848,69",Pgto Danilo Tamburus,BANCO
+11/3/2020,-13200,"669648,69",Pgto Lidiberto,BANCO
+11/3/2020,-13200,"656448,69",Pgto Danilo Miura,BANCO
+11/3/2020,-13200,"643248,69",Pgto Mario,BANCO
+11/3/2020,-13200,"630048,69",Pgto Sergio Rossi,BANCO
+11/3/2020,-10000,"620048,69",Pgto Fabio Amaral,FIXA
+11/3/2020,-10000,"610048,69",Pgto Isadora Ferreira,FIXA
+11/3/2020,-7500,"602548,69",Pgto Leonardo de Luca,PGTO FUNC.
+11/3/2020,-7500,"595048,69",Pgto Fernando Daier,PGTO FUNC.
+11/3/2020,-4500,"590548,69",Pgto Paula Iglesias,PGTO FUNC.
+11/3/2020,-2300,"588248,69",Pgto Leandro - Estagiário,PGTO FUNC.
+11/3/2020,-2300,"585948,69",Pgto Andre - Estagiário,PGTO FUNC.
+11/3/2020,-1517,"584431,69",Pgto Gisele Santos,PGTO FUNC.
+11/3/2020,-354,"584077,69",Vale transporte - Andre,PGTO FUNC.
+11/3/2020,-392,"583685,69",Vale transporte - Leandro,PGTO FUNC.
+11/3/2020,-338,"583347,69",Serviço de Gerenciamento (link internet secundário) HF Telecomunicações,PGTO FUNC.
+11/3/2020,-1352,"581995,69",Link de Internet Secundário 50MB - Host Fiber,PGTO FUNC.
+11/3/2020,-3982,"578013,69",Pgto Cartão de Crédito Visa,PGTO FUNC.
+11/4/2020,46,"578059,69",Ajuste de credito ref. Aplicação automatica,PGTO FUNC.
+11/4/2020,-4,"578055,69",Tarifa Bancária Func. Net Empresa,PGTO FUNC.
+11/5/2020,43,"578098,69",Ajuste de credito ref. Aplicação automatica,PGTO FUNC.
+11/5/2020,235226,"813324,69",Credito Symphony - Taxa Gestão Out/20,PGTO FUNC.
+11/5/2020,-500,"812824,69",Propaganda e Publicidade - Criação e Imagem,PGTO FUNC.
+11/5/2020,-3746,"809078,69",Tercerizada Limpeza - C de Campos Trans e Serv Ter NF,FIXA
+11/5/2020,-31381,"777697,69",Aluguel - JHSF,FIXA
+11/5/2020,-1212,"776485,69",Estacionamento - PK12 Estacionamentos NF,TARIFAS ADICIONAIS
+11/5/2020,-14818,"761667,69",Assessoria de Imprensa - Danthi Comunicações NF,TARIFAS ADICIONAIS
+11/5/2020,-1976,"759691,69",Motoboy - Tatiane Cristina Fagundes NF 086,TARIFAS ADICIONAIS
+11/5/2020,-7172,"752519,69",Aumento de consumo em Bacup Acronis - MSX Tecnologia NF 1012,TARIFAS ADICIONAIS
+11/5/2020,-760,"751759,69",Vale refeição Estagiário - Alelo,TARIFAS ADICIONAIS
+11/5/2020,-346,"751413,69",Papel Toalha - Softys,TARIFAS ADICIONAIS
+11/5/2020,-48,"751365,69",Tarifa Funcs Net Empresa,TARIFAS ADICIONAIS
+11/5/2020,-33,"751332,69",Tarifa Bancária DOC/TED,TARIFAS ADICIONAIS
+11/6/2020,-5,"751327,69",Ajuste de credito ref. Aplicação automatica,TARIFAS ADICIONAIS
+11/6/2020,103639,"854966,69",Credito ONE FUNDO DE INVESTIMENTOS TX GESTÃO - Out/20,BANCO
+11/6/2020,-1424,"853542,69",FGTS Rescisório - Gisele Aparecida (Copeira),BANCO
+11/6/2020,-4799,"848743,69",Rescisão - Gisele Aparecida (Copeira),BANCO
+11/6/2020,-2940,"845803,69",Serviço de Consultoria em Tecnologia - MSX Consult Nf 1011,BANCO
+11/6/2020,-2657,"843146,69",Serviço em Consultoria em Suporte - MSX Consult Nf 1010,BANCO
+11/6/2020,-586,"842560,69",FGTS 10/2020,BANCO
+11/6/2020,-22,"842538,69",Tarifa Bancária DOC/TED,BANCO
+11/9/2020,100,"842638,69",Ajuste de credito ref. Aplicação automatica,BANCO
+11/9/2020,29068,"871706,69",Credito Veritas Apogeu I FIDC - Taxa Gestão - Out/20,BANCO
+11/9/2020,28661,"900367,69",Credito Veritas Apogeu FIM - Taxa Gestão Out/20,BANCO
+11/9/2020,198697,"1099064,69",Credito MERAK - Taxa Gestão Out/20,BANCO
+11/9/2020,9131,"1108195,69",Credito NINKA - Taxa Gestão Out/20,BANCO
+11/9/2020,274340,"1382535,69",Credito Marte - Taxa Gestão Out/20,BANCO
+11/9/2020,20000,"1402535,69",Credito INX SSPI BONDS FUNDO DE INVESTIMENTOS TX GESTÃO Out/20,BANCO
+11/9/2020,25000,"1427535,69",Credito IMA-B 1000 FIC RENDA FIXA LP Taxa de Gestão Out/20,BANCO
+11/9/2020,85000,"1512535,69",Credito TMJ IMA-B - Taxa Gestão Out/20,BANCO
+11/9/2020,35000,"1547535,69",Credito Fundo Barcelona Taxa Gestão Out/2020,BANCO
+11/9/2020,30000,"1577535,69",Credito MLZ IMA-B FIRF Taxa de Gestão Out/20,BANCO
+11/9/2020,27556,"1605091,69",Credito PREMIUM IMA-B FUNDO DE INVESTIMENTO EM COTAS DE FUNDO DE INVESTIMENTO RENDA FIXA Out/20,BANCO
+11/9/2020,1434,"1606525,69",Credito Terra Nova IMA-B Renda Fixa TX Out/20,BANCO
+11/9/2020,26193,"1632718,69",Credito Terra Nova FIC FIRF TAXA DE GESTÃO Out/20,BANCO
+11/9/2020,49842,"1682560,69",Credito Terra Nova IMA-B RENDA FIXA II TX Out/20,BANCO
+11/9/2020,4345,"1686905,69",Credito BTG Pactual taxa de Gestão Veritas Cratos e Imperium Out/20,BANCO
+11/9/2020,30000,"1716905,69",Credito São Domingos Taxas de Gestão Out/20,BANCO
+11/9/2020,85000,"1801905,69",Credito FUNDO DE INVEST RENDA FIXA MONTE CARLO INSTITUCIONAL IMA-B 5 Taxa de Gestão Out/20,BANCO
+11/9/2020,9570,"1811475,69",Reembolso Postalis - Laudo Lagoa dos Ingleses,BANCO
+11/9/2020,-215,"1811260,69",Pgto Prizemed,BANCO
+11/9/2020,-83,"1811177,69",Taxi - 99 Taxi,BANCO
+11/9/2020,-125000,"1686177,69",Assessoria Jurídica - ALUX WEDEMANN NF 009,BANCO
+11/9/2020,-10050,"1676127,69",Compra de 04 Aparelhostelefonicoe e 01 Switch Ethernet - MSX Tecnologia,BANCO
+11/9/2020,-11,"1676116,69",Tarifa Bancária DOC/TED,BANCO
+11/10/2020,42,"1676158,69",Ajuste de credito ref. Aplicação automatica,BANCO
+11/10/2020,15155,"1691313,69",Credito Postalis Taxa Recuperação Set/20,BANCO
+11/10/2020,39886,"1731199,69",Credito Postalis Taxa Cobrança Set /20,BANCO
+11/10/2020,-228,"1730971,69",Cartório - 30° Tabelião de Notas,BANCO
+11/10/2020,-38662,"1692309,69",ISS,BANCO
+11/10/2020,-1044,"1691265,69",Sistema de Assinaturas digitais - Quick Soft NF 39129,BANCO
+11/10/2020,-2180,"1689085,69",Pesquisa Informações de Mercado - Prajna Informação e Tecnologia NF 7152,BANCO
+11/10/2020,-1598,"1687487,69",Cartão Elo,BANCO
+11/10/2020,-3229,"1684258,69",Cartão Mastercard,BANCO
+11/11/2020,41,"1684299,69",Ajuste de credito ref. Aplicação automatica,BANCO
+11/11/2020,-2000,"1682299,69",Contabilidade - LT do Nascimento NF,BANCO
+11/11/2020,-300,"1681999,69",Contabilidade Iceberg - LT do Nascimento NF,BANCO
+11/11/2020,-346,"1681653,69",Hospedagem de site - HOSTGATOR,BANCO
+11/11/2020,-238,"1681415,69",Seguro Estagiário Filipe Laham,BANCO
+11/11/2020,-5000,"1676415,69",Locação Casa Confraternização - Rosa Maria Mosconi 1/2,BANCO
+11/11/2020,-8000,"1668415,69",Credito enviado para VIA,BANCO
+11/11/2020,-2211,"1666204,69",Pgto Adiantamento a func. Desp Adm - Rodrigo,BANCO
+11/11/2020,-2211,"1663993,69",Pgto Adiantamento a func. Desp Adm - Qualitas,BANCO
+11/11/2020,-969,"1663024,69",Internet Corporativa - Vogel Soluções,BANCO
+11/11/2020,-102,"1662922,69",Locação de Equipamento de Internet - Vogel Soluções,BANCO
+11/11/2020,-255,"1662667,69",Gerenciamento de Internet - Vogel Soluções,BANCO
+11/12/2020,49,"1662716,69",Ajuste de credito ref. Aplicação automatica,BANCO
+11/13/2020,58,"1662774,69",Ajuste de credito ref. Aplicação automatica,BANCO
+11/13/2020,-266,"1662508,69",Bebidas - Imigrantes Bebidas Pedido 3622,BANCO
+11/13/2020,-9275,"1653233,69",Buffet Confraternização - Quitutaria 1/2,BANCO
+11/13/2020,-1250,"1651983,69",Musica Confraternização - RM MAZZA 1/2,BANCO
+11/13/2020,-11,"1651972,69",Tarifa Bancária DOC/TED,BANCO
+11/16/2020,89,"1652061,69",Ajuste de credito ref. Aplicação automatica,BANCO
+11/16/2020,39886,"1691947,69",Credito Postalis Taxa Cobrança Out/20,BANCO
+11/16/2020,-1106,"1690841,69",Locação e Impressões - Selbetti Fatura,BANCO
+11/16/2020,-2389,"1688452,69",Sistema de assinaturas digitais - CRDC NF 20752,BANCO
+11/16/2020,-692,"1687760,69",Mensalidade - Scansource - Cloud Service NF 141237,BANCO
+11/16/2020,-11122,"1676638,69",Servidores em Cloud e VPN - Scansource - Cloud Service NF 141104,BANCO
+11/16/2020,-282,"1676356,69",Consultas ao Serasa - Conect -Serasa NF 292490,BANCO
+11/16/2020,-36608,"1639748,69","Comissão Indicação de Clientes - AG Consultoria R$ 39.007,70 NF 239",BANCO
+11/16/2020,-11,"1639737,69",Tarifa Bancária DOC/TED,BANCO
+11/17/2020,59,"1639796,69",Ajuste de credito ref. Aplicação automatica,TARIFAS ADICIONAIS
+11/17/2020,-47000,"1592796,69",Palestra Bob Burnquist - Criativo Produções NF 214,REEMBOLSO 
+11/17/2020,-5600,"1587196,69",Prestação de Serviços - Bem Perícia NF 071,REEMBOLSO 
+11/17/2020,-324094,"1263102,69","Assessoria Financeira - Guilherme Bussadori NF141 R$ 345332,31",REEMBOLSO 
+11/17/2020,-37131,"1225971,69","Assessoria Financeira - Montjoie Acessoria NF 80 R$ 39.564,95",REEMBOLSO 
+11/17/2020,-6250,"1219721,69",Assessiria Juridica - Costa Rangel (CGA Rodrigo),REEMBOLSO 
+11/17/2020,-55,"1219666,69",Tarifa Bancária DOC/TED,REEMBOLSO 
+11/18/2020,40,"1219706,69",Ajuste de credito ref. Aplicação automatica,REEMBOLSO 
+11/18/2020,-20873,"1198833,69",Acompanhamento de carteiras - Lote 45 NF 5353,REEMBOLSO 
+11/19/2020,46,"1198879,69",Ajuste de credito ref. Aplicação automatica,REEMBOLSO 
+11/19/2020,-18,"1198861,69",Pgto DARF 1708 Advitech Softwares NF 3540,REEMBOLSO 
+11/19/2020,-24,"1198837,69",Pgto DARF 5952 - TOLLOG,REEMBOLSO 
+11/19/2020,-42,"1198795,69",Pgto DARF 1708 MSX Consult NF 993,REEMBOLSO 
+11/19/2020,-47,"1198748,69",Pgto DARF 1708 MSX Consult NF 997,REEMBOLSO 
+11/19/2020,-47,"1198701,69",Pgto DARF 1708 CRDC NF 20129,REEMBOLSO 
+11/19/2020,-55,"1198646,69",Pgto DARF 5952 Advitech Softwares NF 3540,REEMBOLSO 
+11/19/2020,-111,"1198535,69",Pgto DARF 1708 MSX Consult NF 989,BANCO
+11/19/2020,-112,"1198423,69",Pgto DARF 1708 Balera Berbel NF 192,BANCO
+11/19/2020,-131,"1198292,69",Pgto DARF 5952 MSX Consult NF 993,BANCO
+11/19/2020,-145,"1198147,69",Pgto DARF 5952 MSX Consult NF 997,BANCO
+11/19/2020,-148,"1197999,69",Pgto DARF 5952 CRDC NF 20129,BANCO
+11/19/2020,-225,"1197774,69",Pgto DARF 1708 Azulsol Comum NF 1829,BANCO
+11/19/2020,-236,"1197538,69",Pgto DARF 1708 Danthi Com NF 6138,BANCO
+11/19/2020,-347,"1197191,69",Pgto DARF 5952 MSX Consult NF 989,BANCO
+11/19/2020,-348,"1196843,69",Pgto DARF 5952 Balera Berbel NF 192,BANCO
+11/19/2020,-403,"1196440,69",GPS - C de Campos Trans e Serv Ter,BANCO
+11/19/2020,-488,"1195952,69",Pgto DARF 1708 AG Consultoria NF 239,BANCO
+11/19/2020,-565,"1195387,69",Pgto DARF 1708 Montjoie NF 76,BANCO
+11/19/2020,-649,"1194738,69",Pgto DARF 0561 IRRF/Folha,BANCO
+11/19/2020,-697,"1194041,69",Pgto DARF 5952 Azulsol Comum NF 1829,BANCO
+11/19/2020,-734,"1193307,69",Pgto DARF 5952 Danthi Com NF 6138,BANCO
+11/19/2020,-1514,"1191793,69",Pgto DARF 5952 AG Consultoria NF 239,BANCO
+11/19/2020,-1754,"1190039,69",Pgto DARF 5952 Montjoie NF 79,BANCO
+11/19/2020,-4999,"1185040,69",Pgto DARF 1708 Guilherme B. NF 137,BANCO
+11/19/2020,-9208,"1175832,69",GPS,BANCO
+11/19/2020,-15498,"1160334,69",Pgto DARF 5952 Guilherme B. NF 137,BANCO
+11/19/2020,-25238,"1135096,69",Bebidas Confraternização - Emporio Mandala,BANCO
+11/19/2020,-11,"1135085,69",TARIFA Bancária DOC/TED,BANCO
+10/20/2020,42,"1135127,69",Ajuste de credito ref. Aplicação automatica,BANCO
+11/20/2020,-9701,"1125426,69",Financiamento VELAR - Parcela 14/36,BANCO
+11/20/2020,-100,"1125326,69",Linha Contingencial - Voicecorp,BANCO
+11/20/2020,-109,"1125217,69",Locação Filtro - Whirlpool,BANCO
+11/20/2020,-370,"1124847,69",TV e Internet - Net,BANCO
+11/20/2020,-699,"1124148,69",Telefonia - VIVO,BANCO
+11/20/2020,-735,"1123413,69",Mensalidade Sistema Tollog - Asplan,BANCO
+11/20/2020,-1410,"1122003,69",Passagem Fernando Daier - Marella,BANCO
+11/20/2020,-1593,"1120410,69",Mensalidade Sistema - Asplan,BANCO
+11/20/2020,-46619,"1073791,69",Assistencia Médica - Anbima,BANCO
+11/20/2020,-11,"1073780,69",Tarifa Bancária DOC/TED,BANCO
+11/23/2020,88,"1073868,69",Ajuste de credito ref. Aplicação automatica,BANCO
+11/23/2020,25296,"1099164,69",Credito Postalis Taxa Recuperação Out/20,BANCO
+11/23/2020,-5000,"1094164,69",Locação Casa Confraternização - Rosa Maria Mosconi 2/2,BANCO
+11/23/2020,-2264,"1091900,69",Broadcast - Agencia Estado NF 730920,BANCO
+11/24/2020,52,"1091952,69",Ajuste de credito ref. Aplicação automatica,BANCO
+11/24/2020,240000,"1331952,69",Credito FUNDO DE INVEST RENDA FIXA MONTE CARLO INSTITUCIONAL IMA-B 5 Taxa de Recuperação/Performance,BANCO
+11/25/2020,61,"1332013,69",Ajuste de credito ref. Aplicação automatica,BANCO
+11/25/2020,-1137,"1330876,69",Advitech NF 3670,BANCO
+11/25/2020,-8773,"1322103,69",Pgto DARF 8109 PIS Mai/20,BANCO
+11/25/2020,-40494,"1281609,69",Pgto DARF 2172 Cofins Mai/20,BANCO
+11/25/2020,-58060,"1223549,69",Pgto DARF 2172 Cofins Out/20,BANCO
+11/25/2020,-12579,"1210970,69",Pgto DARF 8109 PIS Out/20,BANCO
+11/25/2020,-11,"1210959,69",Tarifa Bancária DOC/TED,BANCO
+11/26/2020,59,"1211018,69",Ajuste de credito ref. Aplicação automatica,BANCO
+11/26/2020,-776,"1210242,69",Pgto Editora Globo - Valor PRO Ferramenta e dados,BANCO
+11/26/2020,-980,"1209262,69",Pgto Editora Glovo - Valor PRO Disponibilização,BANCO
+11/26/2020,-1262,"1208000,69",Capsulas de Café - Nestle do Brasil NF 157603,BANCO
+11/26/2020,-14000,"1194000,69",Vale Refeição Dez/20 - Alelo,BANCO
+11/26/2020,-851,"1193149,69",ValeTransporte Dez/20 - SP Trans,BANCO
+11/26/2020,-1080,"1192069,69",Vale Refeição Nov e Dez/20 - Alelo,BANCO
+11/26/2020,-85000,"1107069,69",Antecipação de Dividendos - Rodrigo,BANCO
+11/26/2020,-85000,"1022069,69",Antecipação de Dividendos - Qualitas,BANCO
+11/26/2020,-30000,"992069,69",Antecipação de Dividendos - Fabio Amaral,BANCO
+11/26/2020,-9306,"982763,69",Antecipação de Dividendos - Guilherme,BANCO
+11/26/2020,-1818,"980945,69",Antecipação de Dividendos - Danilo Tamburus,BANCO
+11/26/2020,-376,"980569,69",Antecipação de Dividendos - Isadora,BANCO
+11/26/2020,-44,"980525,69",Tarifa Bancária DOC/TED,BANCO
+11/27/2020,49,"980574,69",Ajuste de credito ref. Aplicação automatica,BANCO
+11/27/2020,-1094,"979480,69",Hospedagem Fernando ABIPEM - Naja Turismo,BANCO
+11/27/2020,-11,"979469,69",Tarifa Bancária DOC/TED,BANCO
+11/30/2020,105,"979574,69",Ajuste de credito ref. Aplicação automatica,BANCO
+11/30/2020,-2837,"976737,69",Parcela 1 13° Salário - Paula,BANCO
+11/30/2020,-1411,"975326,69",Passagem/Hotel/Carro Bob Burnquist - Marela,BANCO
+10/30/2020,-7038,"968288,69",Assistencia Jurídica - Barela Berbel e Mitne NF 223,BANCO
+11/30/2020,-5677,"962611,69",Pgto Omega Assessoria NF 13505,BANCO
+11/30/2020,-9275,"953336,69",Buffet Confraternização - Quitutaria 2/2,BANCO
+11/30/2020,-1250,"952086,69",Musica Confraternização - RM MAZZA 2/2,BANCO
+11/30/2020,-12000,"940086,69",Honorários Repesentação TOLLOG/PORTBELLO/SAINT ROMAIN Out/20 - Emeli Serviços,BANCO
+11/30/2020,-5000,"935086,69",Honorários Repesentação PORTBELLO - Aline C Mathias,BANCO
+11/30/2020,-3800,"931286,69",Assessoria Jurídica - Sonchim Almeida Scarpa e Bragagnolo,BANCO
+11/30/2020,-281226,"650060,69",Pgto IRPJ 03 TRIM 2/3 - 2089,BANCO
+11/30/2020,-101990,"548070,69",Pgto CSLL 03 TRIM 2/3 - 2372,BANCO
+11/30/2020,-2224,"545846,69",Energia,BANCO
+11/30/2020,-1500,"544346,69",Decoração Confraternização - Mariana Campos,BANCO
+11/30/2020,-44,"544302,69",Tarifa Bancária DOC/TED,BANCO
+11/30/2020,-17919,"526383,69",Parcelamento IRPJ 1° TRIM 2020 3/60 - DARF,BANCO
+11/30/2020,-6489,"519894,69",Parcelamento CSLL 1° TRIM 2020 3/60 - DARF,BANCO
+12/1/2020,32,"519888,71",Ajuste de credito ref. Aplicação automatica,BANCO
+12/1/2020,-6881,"513007,71",Condomínio e IPTU - Ed Metropolitan,BANCO
+12/1/2020,-27850,"485157,71",Pgto QCP - Qualitas Capital Partners,BANCO
+12/1/2020,-2447,"482710,71",Pgto Flávio Rietmann,BANCO
+12/1/2020,-40000,"442710,71",Pgto Rodrigo Moratelli,BANCO
+12/1/2020,-17000,"425710,71",Pgto Guilherme Marques,BANCO
+12/1/2020,-13200,"412510,71",Pgto Danilo Tamburus,BANCO
+12/1/2020,-13200,"399310,71",Pgto Lidiberto,BANCO
+12/1/2020,-13200,"386110,71",Pgto Danilo Miura,BANCO
+12/1/2020,-13200,"372910,71",Pgto Mario,BANCO
+12/1/2020,-13200,"359710,71",Pgto Sergio Rossi,BANCO
+12/1/2020,-2566,"357144,71",Pgto Álvaro Landi,BANCO
+12/1/2020,-10000,"347144,71",Pgto Fabio Amaral,FIXA
+12/1/2020,-10000,"337144,71",Pgto Isadora Ferreira,FIXA
+12/1/2020,-7500,"329644,71",Pgto Leonardo de Luca,PGTO FUNC.
+12/1/2020,-7500,"322144,71",Pgto Fernando Daier,PGTO FUNC.
+12/1/2020,-330,"321814,71",Pgto Paula Iglesias,PGTO FUNC.
+12/1/2020,-2300,"319514,71",Pgto Leandro - Estagiário,PGTO FUNC.
+12/1/2020,-2300,"317214,71",Pgto Andre - Estagiário,PGTO FUNC.
+12/1/2020,-1879,"315335,71",Pgto Filipe - Estagiário,PGTO FUNC.
+12/1/2020,-389,"314946,71",Vale transporte - Andre,PGTO FUNC.
+12/1/2020,-431,"314515,71",Vale transporte - Leandro,PGTO FUNC.
+12/1/2020,-750,"313765,71",Locação Projetor/Telão/Técnico - FS Eventos e Produções,PGTO FUNC.
+12/1/2020,-22,"313743,71",Tarifa Bancária DOC/TED,PGTO FUNC.
+12/1/2020,-1353,"312390,71",Pgto Cartão de Crédito Visa,PGTO FUNC.
+12/2/2020,15,"312405,71",Ajuste de credito ref. Aplicação automatica,PGTO FUNC.
+12/2/2020,-378,"312027,71",Papel Toalha - Softys,PGTO FUNC.
+12/2/2020,-276,"311751,71",Folha Sulfite - Lepok,PGTO FUNC.
+12/2/2020,-4,"311747,71",Tarifa Bancária Pgto Func Net Empresa,PGTO FUNC.
+12/3/2020,16,"311763,71",Ajuste de credito ref. Aplicação automatica,PGTO FUNC.
+12/3/2020,-338,"311425,71",Serviço de Gerenciamento (link internet secundário) HF Telecomunicações,PGTO FUNC.
+12/3/2020,-1352,"310073,71",Link de Internet Secundário 50MB - Host Fiber,FIXA
+12/3/2020,-48,"310025,71",Tarifa Funcs Net Empresa,TARIFAS ADICIONAIS
+12/4/2020,19,"310044,71",Ajuste de credito ref. Aplicação automatica,TARIFAS ADICIONAIS
+12/4/2020,92667,"402711,71",Credito PRUDENT MEZANINE FUNDO DE INVESTIMENTO MULTIMERCADO CREDITO PRIVADO,TARIFAS ADICIONAIS
+12/4/2020,-760,"401951,71",Motoboy - Tatiane Cristina Fagundes NF 88,TARIFAS ADICIONAIS
+12/4/2020,-2656,"399295,71",Serviço de Consultoria em Tecnologia - MSX Consult Nf 1030,TARIFAS ADICIONAIS
+12/4/2020,-2940,"396355,71",Serviço em Consultoria em Suporte - MSX Consult Nf 1029,TARIFAS ADICIONAIS
+12/4/2020,-6553,"389802,71",Aumento de consumo em Bacup Acronis - MSX Tecnologia NF 1031,TARIFAS ADICIONAIS
+12/4/2020,-44,"389758,71",Tarifa Bancária DOC/TED,TARIFAS ADICIONAIS
+12/4/2020,-10000,"379758,71",Credito enviado para VIA,TARIFAS ADICIONAIS
+12/7/2020,37,"379795,71",Ajuste de credito ref. Aplicação automatica,TARIFAS ADICIONAIS
+12/7/2020,16250,"396045,71",Credito Cedrotree FIRF INSTITUCIONA IMA-B 5,TARIFAS ADICIONAIS
+12/7/2020,227358,"623403,71",Credito Symphony - Taxa Gestão Nov/20,TARIFAS ADICIONAIS
+12/7/2020,29068,"652471,71",Credito Veritas Apogeu I FIDC - Taxa Gestão - Nov/20,TARIFAS ADICIONAIS
+12/7/2020,26956,"679427,71",Credito Veritas Apogeu FIM - Taxa Gestão Nov/20,TARIFAS ADICIONAIS
+12/7/2020,190712,"870139,71",Credito MERAK - Taxa Gestão Nov/20,TARIFAS ADICIONAIS
+12/7/2020,8751,"878890,71",Credito NINKA - Taxa Gestão Nov/20,TARIFAS ADICIONAIS
+12/7/2020,282779,"1161669,71",Credito Marte - Taxa Gestão Nov/20,TARIFAS ADICIONAIS
+12/7/2020,20000,"1181669,71",Credito INX SSPI BONDS FUNDO DE INVESTIMENTOS TX GESTÃO Nov/20,BANCO
+12/7/2020,25000,"1206669,71",Credito IMA-B 1000 FIC RENDA FIXA LP Taxa de Gestão Nov/20,BANCO
+12/7/2020,85000,"1291669,71",Credito TMJ IMA-B - Taxa Gestão Nov/20,BANCO
+12/7/2020,30000,"1321669,71",Credito MLZ IMA-B FIRF Taxa de Gestão Nov/20,BANCO
+12/7/2020,20083,"1341752,71",Credito PREMIUM IMA-B FUNDO DE INVESTIMENTO EM COTAS DE FUNDO DE INVESTIMENTO RENDA FIXA Nov/20,BANCO
+12/7/2020,20938,"1362690,71",Credito Terra Nova IMA-B Renda Fixa TX Nov/20,BANCO
+12/7/2020,1128,"1363818,71",Credito Terra Nova FIC FIRF TAXA DE GESTÃO Nov/20,BANCO
+12/7/2020,38915,"1402733,71",Credito Terra Nova IMA-B RENDA FIXA II TX Nov/20,BANCO
+12/7/2020,4963,"1407696,71",Credito BTG Pactual taxa de Gestão Veritas Cratos e Imperium Nov/20,BANCO
+12/7/2020,30000,"1437696,71",Credito São Domingos Taxas de Gestão Nov/20,BANCO
+12/7/2020,85000,"1522696,71",Credito FUNDO DE INVEST RENDA FIXA MONTE CARLO INSTITUCIONAL IMA-B 5 Taxa de Gestão Nov/20,BANCO
+12/7/2020,6000,"1528696,71",Cedito Supremo FIM,BANCO
+12/7/2020,5000,"1533696,71",Credito Mezzanine FIM,BANCO
+12/7/2020,-1212,"1532484,71",Estacionamento - PK12 Estacionamentos NF,BANCO
+12/7/2020,-31381,"1501103,71",Aluguel - JHSF,BANCO
+12/7/2020,-822,"1500281,71",FGTS 11/2020,BANCO
+12/7/2020,-215,"1500066,71",Pgto Prizemed,BANCO
+12/7/2020,-2000,"1498066,71",Contabilidade - LT do Nascimento NF,BANCO
+12/7/2020,-300,"1497766,71",Contabilidade Iceberg - LT do Nascimento NF,BANCO
+12/7/2020,-3741,"1494025,71",Tercerizada Limpeza - C de Campos Trans e Serv Ter NF994,BANCO
+12/7/2020,-500,"1493525,71",Propaganda e Publicidade - Criação e Imagem nf 076,BANCO
+12/7/2020,-14818,"1478707,71",Assessoria de Imprensa - Danthi Comunicações NF,BANCO
+12/7/2020,-11,"1478696,71",Tarifa Bancária DOC/TED,BANCO
+12/8/2020,24,"1478720,71",Ajuste de credito ref. Aplicação automatica,BANCO
+12/8/2020,-1010,"1477710,71",Sistema de Assinaturas digitais - Quick Soft NF 39818,BANCO
+12/8/2020,-369,"1477341,71",Reembolso Fernando Daier - Congresso ABIPEM,BANCO
+12/8/2020,-2211,"1475130,71",Pgto Adiantamento a func. Desp Adm - Rodrigo,BANCO
+12/8/2020,-2211,"1472919,71",Pgto Adiantamento a func. Desp Adm - Qualitas,BANCO
+12/8/2020,-250000,"1222919,71",Antecipação de Dividendos - Rodrigo,BANCO
+12/8/2020,-250000,"972919,71",Antecipação de Dividendos - Qualitas,BANCO
+12/8/2020,-23265,"949654,71",Antecipação de Dividendos - Guilherme,BANCO
+12/8/2020,-4547,"945107,71",Antecipação de Dividendos - Danilo Tamburus,BANCO
+12/8/2020,-941,"944166,71",Antecipação de Dividendos - Isadora,BANCO
+12/8/2020,-55,"944111,71",Tarifa Bancária DOC/TED,BANCO
+12/9/2020,5,"944116,71",Ajuste de credito ref. Aplicação automatica,BANCO
+12/9/2020,35808,"979924,71",Credito ref 1/3 Confraternização - Balera Berbel e Mitne,BANCO
+12/9/2020,-109,"979815,71",Taxi - 99 Taxi,BANCO
+12/9/2020,-80000,"899815,71",Assessoria Jurídica - ALUX WEDEMANN NF 10,BANCO
+12/10/2020,8,"899823,71",Ajuste de credito ref. Aplicação automatica,BANCO
+12/10/2020,-9,"899814,71",Programa adicional Site - HostGator,BANCO
+12/10/2020,-107,"899707,71",Cartório - 30° Tabelião de Notas,BANCO
+12/10/2020,-34410,"865297,71",ISS,BANCO
+12/10/2020,-950,"864347,71",Internet Corporativa - Vogel Soluções,BANCO
+12/10/2020,-100,"864247,71",Locação de Equipamento de Internet - Vogel Soluções,BANCO
+12/10/2020,-250,"863997,71",Gerenciamento de Internet - Vogel Soluções,REEMBOLSO 
+12/10/2020,-636,"863361,71",Pgto Editora Globo - Valor PRO Ferramenta e dados,REEMBOLSO 
+12/10/2020,-653,"862708,71",Pgto Editora Glovo - Valor PRO Disponibilização,REEMBOLSO 
+12/10/2020,-2180,"860528,71",Pesquisa Informações de Mercado - Prajna Informação e Tecnologia NF 7305,REEMBOLSO 
+12/10/2020,-2261,"858267,71",Cartão Elo,REEMBOLSO 
+12/10/2020,-5874,"852393,71",Cartão Mastercard,REEMBOLSO 
+12/11/2020,12,"852405,71",Ajuste de credito ref. Aplicação automatica,REEMBOLSO 
+12/11/2020,-2391,"850014,71",Parcelamento Computadores - Aymore 1/12,REEMBOLSO 
+12/14/2020,31,"850045,71",Ajuste de credito ref. Aplicação automatica,REEMBOLSO 
+12/15/2020,20,"850065,71",Ajuste de credito ref. Aplicação automatica,REEMBOLSO 
+12/15/2020,59167,"909232,71",Cedito UMBRELLA FIM Taxa Gestão Nov/20,REEMBOLSO 
+12/15/2020,-76,"909156,71",Diferença IRPJ 3°TRIM 1/3,REEMBOLSO 
+12/15/2020,-70,"909086,71",Diferença IRPJ 3°TRIM 2/3,REEMBOLSO 
+12/15/2020,-2792,"906294,71",Sistema de assinaturas digitais - CRDC NF 21356,REEMBOLSO 
+12/15/2020,-682,"905612,71",Mensalidade - Scansource - Cloud Service NF 146269,REEMBOLSO 
+12/15/2020,-8747,"896865,71",Servidores em Cloud e VPN - Scansource - Cloud Service NF 146259,REEMBOLSO 
+12/15/2020,-475,"896390,71",Consultas ao Serasa - Conect -Serasa NF 313331,REEMBOLSO 
+12/16/2020,23,"896413,71",Ajuste de credito ref. Aplicação automatica,REEMBOLSO 
+12/16/2020,-57518,"838895,71","Comissão Indicação de Clientes - AG Consultoria R$ 61.287,88 NF 245",REEMBOLSO 
+12/16/2020,-319775,"519120,71","Assessoria Financeira - Guilherme Bussadori NF144 R$ 340.730,85",REEMBOLSO 
+12/16/2020,-37167,"481953,71","Assessoria Financeira - Montjoie Acessoria NF 81 R$ 39.602,93",TARIFAS ADICIONAIS
+12/16/2020,-5600,"476353,71",Prestação de Serviços - Bem Perícia NF 73,TARIFAS ADICIONAIS
+12/16/2020,-44,"476309,71",Tarifa Bancária DOC/TED,TARIFAS ADICIONAIS
+12/17/2020,17,"476326,71",Ajuste de credito ref. Aplicação automatica,TARIFAS ADICIONAIS
+12/18/2020,16,"476342,71",Ajuste de credito ref. Aplicação automatica,TARIFAS ADICIONAIS
+12/18/2020,32847,"509189,71",Credito Postalis Taxa Cobrança Nov /20,TARIFAS ADICIONAIS
+12/18/2020,-18,"509171,71",Pgto DARF 1708 Advitech Softwares NF 3670,TARIFAS ADICIONAIS
+12/18/2020,-38,"509133,71",Pgto DARF 1708 CRDC NF 20752,TARIFAS ADICIONAIS
+12/18/2020,-42,"509091,71",Pgto DARF 1708 MSX Consult NF 1010,TARIFAS ADICIONAIS
+12/18/2020,-47,"509044,71",Pgto DARF 1708 MSX Consult NF 1011,TARIFAS ADICIONAIS
+12/18/2020,-56,"508988,71",Pgto DARF 5952 Advitech Softwares NF 3670,TARIFAS ADICIONAIS
+12/18/2020,-112,"508876,71",Pgto DARF 1708 Balera Berbel NF 223,TARIFAS ADICIONAIS
+12/18/2020,-114,"508762,71",Pgto DARF 1708 MSX Consult NF 1012,TARIFAS ADICIONAIS
+12/18/2020,-118,"508644,71",Pgto DARF 5952 CRDC NF 20129,TARIFAS ADICIONAIS
+12/18/2020,-130,"508514,71",Pgto DARF 5952 MSX Consult NF 1010,BANCO
+12/18/2020,-145,"508369,71",Pgto DARF 5952 MSX Consult NF 1011,BANCO
+12/18/2020,-236,"508133,71",Pgto DARF 1708 Danthi Com NF 6201,BANCO
+12/18/2020,-348,"507785,71",Pgto DARF 5952 Balera Berbel NF 223,BANCO
+12/18/2020,-355,"507430,71",Pgto DARF 5952 MSX Consult NF 1012,BANCO
+12/18/2020,-403,"507027,71",GPS - C de Campos Trans e Serv Ter,BANCO
+12/18/2020,-585,"506442,71",Pgto DARF 1708 AG Consultoria NF 243,BANCO
+12/18/2020,-593,"505849,71",Pgto DARF 1708 Montjoie NF 80,BANCO
+12/18/2020,-734,"505115,71",Pgto DARF 5952 Danthi Com NF 6201,BANCO
+12/18/2020,-1061,"504054,71",Locação e Impressões - Selbetti Fatura,BANCO
+12/18/2020,-1153,"502901,71",Pgto DARF 0561 IRRF/Folha,BANCO
+12/18/2020,-1672,"501229,71",Parcela 2 - 13º Salário Paula Iglesias,BANCO
+12/18/2020,-1813,"499416,71",Pgto DARF 5952 AG Consultoria NF 243,BANCO
+12/18/2020,-1839,"497577,71",Pgto DARF 5952 Montjoie NF 80,BANCO
+12/18/2020,-5179,"492398,71",Pgto DARF 1708 Guilherme B. NF 141,BANCO
+12/18/2020,-9276,"483122,71",GPS,BANCO
+12/18/2020,-16057,"467065,71",Pgto DARF 5952 Guilherme B. NF 141,BANCO
+12/18/2020,-20873,"446192,71",Acompanhamento de carteiras - Lote 45 NF 5452,BANCO
+12/21/2020,35,"446227,71",Ajuste de credito ref. Aplicação automatica,BANCO
+12/21/2020,-9701,"436526,71",Financiamento VELAR - Parcela 14/36,BANCO
+12/21/2020,-27850,"408676,71",Pgto QCP - Qualitas Capital Partners,BANCO
+12/21/2020,-2447,"406229,71",Pgto Flávio Rietmann,BANCO
+12/21/2020,-40000,"366229,71",Pgto Rodrigo Moratelli,BANCO
+12/21/2020,-17000,"349229,71",Pgto Guilherme Marques,BANCO
+12/21/2020,-13200,"336029,71",Pgto Danilo Tamburus,BANCO
+12/21/2020,-13200,"322829,71",Pgto Lidiberto,BANCO
+12/21/2020,-13200,"309629,71",Pgto Danilo Miura,BANCO
+12/21/2020,-13200,"296429,71",Pgto Mario,BANCO
+12/21/2020,-13200,"283229,71",Pgto Sergio Rossi,BANCO
+12/21/2020,-11000,"272229,71",Pgto Álvaro Landi,BANCO
+12/21/2020,-10000,"262229,71",Pgto Fabio Amaral,BANCO
+12/21/2020,-10000,"252229,71",Pgto Isadora Ferreira,BANCO
+12/21/2020,-7500,"244729,71",Pgto Leonardo de Luca,BANCO
+12/21/2020,-7500,"237229,71",Pgto Fernando Daier,BANCO
+12/21/2020,-4234,"232995,71",Pgto Paula Iglesias,BANCO
+12/21/2020,-2300,"230695,71",Pgto Leandro - Estagiário,BANCO
+12/21/2020,-2300,"228395,71",Pgto Andre - Estagiário,BANCO
+12/21/2020,-1900,"226495,71",Pgto Filipe - Estagiário,BANCO
+12/21/2020,-336,"226159,71",Vale transporte - Andre,BANCO
+12/21/2020,-372,"225787,71",Vale transporte - Leandro,BANCO
+12/21/2020,-99,"225688,71",Tarifa Bancária DOC/TED,BANCO
+12/21/2020,-100,"225588,71",Linha Contingencial - Voicecorp,BANCO
+12/21/2020,-109,"225479,71",Locação Filtro - Whirlpool,BANCO
+12/21/2020,-370,"225109,71",TV e Internet - Net,BANCO
+12/21/2020,-615,"224494,71",Certidões de Matrículas Atualizadas - Será reembolsado pelo Postilis,BANCO
+12/21/2020,-699,"223795,71",Telefonia - VIVO,BANCO
+12/21/2020,-735,"223060,71",Mensalidade Sistema Tollog - Asplan,BANCO
+12/21/2020,-1593,"221467,71",Mensalidade Sistema - Asplan,BANCO
+12/21/2020,-48419,"173048,71",Assistencia Médica - Anbima,BANCO
+12/21/2020,-40000,"133048,71",Antecipação de Dividendos - Rodrigo,BANCO
+12/21/2020,-40000,"93048,71",Antecipação de Dividendos - Qualitas,BANCO
+12/22/2020,4,"93052,71",Ajuste de credito ref. Aplicação automatica,BANCO
+12/22/2020,50000,"143052,71",Credito Resgate Veritas Cratos,BANCO
+12/22/2020,480000,"623052,71",Credito Performance Monte Carlo,BANCO
+12/22/2020,-2264,"620788,71",Broadcast - Agencia Estado NF 738633,BANCO
+12/22/2020,-3000,"617788,71",Benção Ecumenica - Padre Alejandro cheque 029,BANCO
+12/22/2020,-4,"617784,71",Tarifa Bancária Pgto Func Net Empresa,BANCO
+12/23/2020,5,"617789,71",Ajuste de credito ref. Aplicação automatica,BANCO
+12/23/2020,-2765,"615024,71",Energia,BANCO
+12/23/2020,-1552,"613472,71",Pgto Editora Globo - Valor PRO Ferramenta e dados,BANCO
+12/23/2020,-1960,"611512,71",Pgto Editora Glovo - Valor PRO Disponibilização,BANCO
+12/23/2020,-1187,"610325,71",Advitech NF 3828,BANCO
+12/23/2020,-53658,"556667,71",Pgto DARF 2172 Cofins Nov/20,BANCO
+12/23/2020,-11625,"545042,71",Pgto DARF 8109 PIS Nov/20,BANCO
+12/23/2020,-11,"545031,71",Tarifa Bancária DOC/TED,BANCO
+12/23/2020,-48,"544983,71",Tarifa Funcs Net Empresa,BANCO
+12/24/2020,6,"544989,71",Ajuste de credito ref. Aplicação automatica,BANCO
+12/28/2020,21,"545010,71",Ajuste de credito ref. Aplicação automatica,BANCO
+12/28/2020,-12959,"532051,71",Vale Alimentação Jan/21 - Alelo,BANCO
+12/28/2020,-752,"531299,71",ValeTransporte Jan/21 - SP Trans,BANCO
+12/29/2020,13,"531312,71",Ajuste de credito ref. Aplicação automatica,BANCO
+12/30/2020,15,"531327,71",Ajuste de credito ref. Aplicação automatica,BANCO
+12/30/2020,-7038,"524289,71",Assistencia Jurídica - Barela Berbel e Mitne NF 274,BANCO
+12/30/2020,-5677,"518612,71",Pgto Omega Assessoria NF 16450,BANCO
+12/30/2020,-12000,"506612,71",Honorários Repesentação TOLLOG/PORTBELLO/SAINT ROMAIN Out/20 - Emeli Serviços,BANCO
+12/30/2020,-5000,"501612,71",Honorários Repesentação PORTBELLO - Aline C Mathias,BANCO
+12/30/2020,-3800,"497812,71",Assessoria Jurídica - Sonchim Almeida Scarpa e Bragagnolo,BANCO
+12/30/2020,-281711,"216101,71",Pgto IRPJ 03 TRIM 3/3 - 2089,BANCO
+12/30/2020,-102142,"113959,71",Pgto CSLL 03 TRIM 3/3 - 2372,BANCO
+12/30/2020,-15000,"98959,71",Adiantamento de Dividendos - Rodrigo,BANCO
+12/30/2020,-15000,"83959,71",Adiantamento de Dividendos - Qualitas,BANCO
+12/30/2020,-22,"83937,71",Tarifa Bancária DOC/TED,BANCO
+12/30/2020,-17946,"65991,71",Parcelamento IRPJ 1° TRIM 2020 4/60 - DARF,BANCO
+12/30/2020,-6499,"59492,71",Parcelamento CSLL 1° TRIM 2020 4/60 - DARF,BANCO
+12/31/2020,1,"59493,71",Ajuste de credito ref. Aplicação automatica,
